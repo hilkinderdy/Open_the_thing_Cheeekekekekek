@@ -1,0 +1,3 @@
+fuel,kg_co2e_per_kwh,unit,year,source,notes
+electricity,0.177,kg CO2e per kWh,2025,"UK Government GHG Conversion Factors for Company Reporting 2025 (DESNZ/Defra) - UK electricity, generation only (location-based)","Excludes transmission and distribution losses and well-to-tank. Value taken from secondary summaries of the official dataset; verify against the gov.uk 2025 flat file before final submission."
+gas,0.18296,kg CO2e per kWh (gross CV),2025,"UK Government GHG Conversion Factors for Company Reporting 2025 (DESNZ/Defra) - natural gas","Combustion only. Value taken from secondary summaries of the official dataset; verify against the gov.uk 2025 flat file before final submission."

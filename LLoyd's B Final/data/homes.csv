@@ -1,0 +1,2001 @@
+property_id,property_type,floor_area,age,region,energy_rating,heating,insulation,glazing,solar,smart_controls,property_value
+UKH000001,Terraced,99.6,55,North West,B,Gas boiler,Good,Triple,True,False,229871
+UKH000002,Detached,140.2,74,West Midlands,D,Direct electric,Good,Double,False,False,310712
+UKH000003,Detached,224.3,26,East of England,B,Air-source heat pump,Good,Double,False,False,862083
+UKH000004,Flat,69.1,62,South East,C,Direct electric,Good,Double,False,False,170040
+UKH000005,Terraced,71.8,17,Yorkshire and the Humber,C,Gas boiler,Good,Triple,False,False,154815
+UKH000006,Semi-detached,90.2,73,South West,D,Gas boiler,Fair,Double,False,True,264742
+UKH000007,Flat,43.7,106,East of England,G,Direct electric,Poor,Double,False,True,152865
+UKH000008,Semi-detached,92.3,12,South West,C,Direct electric,Fair,Triple,False,False,378134
+UKH000009,Semi-detached,49.8,43,Yorkshire and the Humber,E,Gas boiler,Poor,Double,True,False,121600
+UKH000010,Semi-detached,54.0,25,London,D,Gas boiler,Fair,Double,False,True,509642
+UKH000011,Bungalow,83.6,17,North West,B,Gas boiler,Good,Triple,False,True,162587
+UKH000012,Flat,51.4,20,East of England,A,Air-source heat pump,Excellent,Double,False,False,272843
+UKH000013,Semi-detached,85.6,40,North East,C,Gas boiler,Good,Double,False,False,136447
+UKH000014,Semi-detached,77.3,59,London,A,Air-source heat pump,Good,Double,True,True,477430
+UKH000015,Semi-detached,90.3,57,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,222984
+UKH000016,Detached,206.1,40,North West,C,Gas boiler,Fair,Double,True,True,635326
+UKH000017,Semi-detached,88.7,11,London,A,Gas boiler,Excellent,Double,False,True,567647
+UKH000018,Bungalow,87.4,12,East of England,B,Air-source heat pump,Good,Double,True,False,389850
+UKH000019,Flat,36.3,28,South East,C,Air-source heat pump,Fair,Double,False,True,153140
+UKH000020,Terraced,68.2,60,North East,C,Gas boiler,Good,Triple,False,False,123941
+UKH000021,Terraced,114.6,73,South East,C,Gas boiler,Fair,Double,True,True,327509
+UKH000022,Bungalow,37.6,31,North West,E,Gas boiler,Poor,Double,False,False,68625
+UKH000023,Terraced,66.8,137,Yorkshire and the Humber,E,Gas boiler,Good,Double,False,False,179736
+UKH000024,Bungalow,66.0,24,South East,C,Electric boiler,Good,Double,False,False,345348
+UKH000025,Bungalow,113.4,87,Scotland,E,Air-source heat pump,Poor,Double,False,False,318752
+UKH000026,Detached,168.6,28,South East,C,Electric boiler,Excellent,Double,False,True,841863
+UKH000027,Detached,165.2,98,London,D,Gas boiler,Fair,Double,True,True,1246612
+UKH000028,Flat,76.8,19,South East,C,Gas boiler,Good,Triple,False,False,201189
+UKH000029,Detached,102.2,43,South East,E,Direct electric,Poor,Double,False,True,368689
+UKH000030,Semi-detached,71.9,7,South West,C,Electric boiler,Good,Double,False,True,168679
+UKH000031,Semi-detached,115.7,37,London,B,Gas boiler,Excellent,Double,False,False,959903
+UKH000032,Terraced,43.8,60,North West,D,Gas boiler,Good,Double,False,False,108549
+UKH000033,Detached,125.1,34,East of England,C,Electric boiler,Good,Double,True,False,430096
+UKH000034,Semi-detached,89.5,48,South East,C,Gas boiler,Excellent,Double,False,False,406176
+UKH000035,Terraced,92.7,15,North East,C,Gas boiler,Excellent,Double,False,False,140804
+UKH000036,Detached,189.6,45,London,B,Gas boiler,Good,Double,True,True,1703238
+UKH000037,Semi-detached,103.1,25,Wales,C,Gas boiler,Good,Double,False,True,232842
+UKH000038,Terraced,91.9,16,North West,C,Gas boiler,Fair,Double,False,False,255850
+UKH000039,Semi-detached,90.5,24,Scotland,C,Gas boiler,Fair,Double,False,False,273033
+UKH000040,Semi-detached,59.3,24,London,C,Direct electric,Good,Double,False,False,399992
+UKH000041,Semi-detached,96.8,62,North West,D,Gas boiler,Good,Double,False,True,386181
+UKH000042,Detached,184.7,16,West Midlands,B,Gas boiler,Good,Double,False,True,541811
+UKH000043,Terraced,92.5,11,West Midlands,C,Gas boiler,Good,Double,False,False,175079
+UKH000044,Detached,232.1,64,North West,F,Electric boiler,Fair,Single,False,False,649051
+UKH000045,Terraced,66.8,11,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,True,133569
+UKH000046,Detached,166.8,29,Wales,B,Gas boiler,Good,Double,False,False,446852
+UKH000047,Terraced,69.7,27,East Midlands,D,Gas boiler,Poor,Double,False,False,194385
+UKH000048,Flat,94.3,41,North West,B,Gas boiler,Good,Double,False,True,175912
+UKH000049,Semi-detached,106.8,41,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,True,True,204650
+UKH000050,Detached,161.0,26,London,C,Gas boiler,Good,Double,False,True,896900
+UKH000051,Semi-detached,115.5,69,North West,E,Gas boiler,Poor,Double,False,False,246780
+UKH000052,Semi-detached,123.3,10,West Midlands,B,Gas boiler,Good,Double,False,True,260947
+UKH000053,Terraced,109.7,29,Northern Ireland,B,Gas boiler,Excellent,Double,True,True,266660
+UKH000054,Detached,132.3,65,West Midlands,D,Gas boiler,Fair,Double,True,False,423786
+UKH000055,Detached,122.6,22,West Midlands,C,Air-source heat pump,Fair,Double,False,False,489087
+UKH000056,Flat,56.9,15,Yorkshire and the Humber,B,Air-source heat pump,Excellent,Double,False,False,102729
+UKH000057,Semi-detached,85.3,10,Scotland,C,Gas boiler,Good,Double,False,False,327671
+UKH000058,Terraced,117.2,38,South East,B,Gas boiler,Good,Triple,False,False,346196
+UKH000059,Flat,50.4,20,North East,C,Electric boiler,Good,Double,False,True,78826
+UKH000060,Flat,45.3,50,Wales,D,Electric boiler,Excellent,Single,False,False,109003
+UKH000061,Flat,69.3,108,Wales,E,Air-source heat pump,Poor,Double,False,True,101327
+UKH000062,Semi-detached,100.1,32,London,E,Gas boiler,Poor,Double,False,True,609382
+UKH000063,Detached,135.1,28,East Midlands,B,Gas boiler,Good,Double,False,False,549091
+UKH000064,Detached,187.5,24,South West,B,Gas boiler,Excellent,Double,False,True,771411
+UKH000065,Semi-detached,71.8,10,London,B,Gas boiler,Good,Double,False,True,453551
+UKH000066,Terraced,61.4,37,South East,C,Gas boiler,Excellent,Triple,False,False,378186
+UKH000067,Terraced,49.3,74,North East,C,Direct electric,Good,Double,True,False,67122
+UKH000068,Flat,65.6,43,Scotland,C,Gas boiler,Good,Single,True,False,152989
+UKH000069,Flat,78.9,9,South East,A,Air-source heat pump,Good,Double,True,True,293368
+UKH000070,Terraced,64.5,71,Scotland,D,Air-source heat pump,Fair,Double,False,False,132208
+UKH000071,Detached,143.4,28,South East,C,Gas boiler,Good,Double,False,False,629509
+UKH000072,Terraced,59.8,33,North West,D,Gas boiler,Poor,Triple,False,True,197810
+UKH000073,Bungalow,74.8,28,East of England,C,Gas boiler,Fair,Triple,False,True,506849
+UKH000074,Flat,30.0,48,West Midlands,E,Direct electric,Fair,Double,False,False,58297
+UKH000075,Terraced,84.4,18,West Midlands,B,Gas boiler,Excellent,Single,False,True,239213
+UKH000076,Terraced,79.2,116,Yorkshire and the Humber,E,Gas boiler,Poor,Double,True,True,255280
+UKH000077,Flat,44.4,71,East Midlands,F,Gas boiler,Poor,Double,False,False,116533
+UKH000078,Terraced,74.6,13,West Midlands,A,Air-source heat pump,Excellent,Double,False,True,160850
+UKH000079,Terraced,87.7,48,London,F,Direct electric,Poor,Double,False,False,604715
+UKH000080,Semi-detached,67.4,30,Scotland,D,Gas boiler,Fair,Single,False,False,171124
+UKH000081,Semi-detached,92.8,51,East Midlands,E,Air-source heat pump,Poor,Double,False,True,376437
+UKH000082,Terraced,84.4,30,East of England,C,Gas boiler,Excellent,Double,False,False,342047
+UKH000083,Flat,30.0,39,London,B,Gas boiler,Good,Triple,False,True,171080
+UKH000084,Terraced,88.6,22,East of England,A,Gas boiler,Good,Triple,True,True,282942
+UKH000085,Flat,57.0,46,South East,B,Gas boiler,Good,Double,True,True,164413
+UKH000086,Terraced,102.1,44,North East,D,Gas boiler,Fair,Double,False,False,263024
+UKH000087,Terraced,95.0,28,London,D,Gas boiler,Fair,Double,False,False,768754
+UKH000088,Terraced,97.2,28,East of England,B,Direct electric,Excellent,Double,False,True,416386
+UKH000089,Terraced,66.5,35,South East,D,Direct electric,Good,Double,False,False,210913
+UKH000090,Semi-detached,120.0,24,Northern Ireland,B,Direct electric,Good,Double,True,True,326159
+UKH000091,Bungalow,55.4,48,South East,C,Gas boiler,Good,Double,False,True,266004
+UKH000092,Semi-detached,127.3,50,London,A,Air-source heat pump,Excellent,Double,True,True,1079897
+UKH000093,Terraced,75.7,59,West Midlands,D,Electric boiler,Fair,Double,True,False,245883
+UKH000094,Semi-detached,43.0,27,London,A,Air-source heat pump,Good,Double,False,True,336010
+UKH000095,Semi-detached,104.2,50,South East,C,Gas boiler,Excellent,Double,False,True,582207
+UKH000096,Bungalow,99.7,28,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,True,False,194488
+UKH000097,Terraced,90.2,19,South West,C,Direct electric,Fair,Double,False,False,267638
+UKH000098,Semi-detached,84.6,44,West Midlands,C,Gas boiler,Good,Double,False,False,141584
+UKH000099,Flat,68.5,18,West Midlands,B,Air-source heat pump,Good,Double,False,False,132391
+UKH000100,Flat,64.2,26,London,B,Gas boiler,Excellent,Double,False,True,470626
+UKH000101,Semi-detached,95.0,12,East Midlands,A,Gas boiler,Excellent,Triple,True,False,269968
+UKH000102,Bungalow,85.1,67,Northern Ireland,C,Air-source heat pump,Good,Single,False,True,217896
+UKH000103,Bungalow,115.0,14,South West,A,Air-source heat pump,Good,Double,True,False,422923
+UKH000104,Semi-detached,101.5,35,East of England,C,Direct electric,Good,Triple,False,False,329117
+UKH000105,Flat,50.0,32,North West,C,Gas boiler,Good,Double,False,False,96733
+UKH000106,Detached,120.7,52,North East,C,Air-source heat pump,Fair,Double,False,True,271800
+UKH000107,Semi-detached,110.2,9,East of England,B,Gas boiler,Good,Double,False,True,429511
+UKH000108,Flat,56.7,72,East Midlands,D,Gas boiler,Good,Double,False,False,158586
+UKH000109,Bungalow,83.5,44,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,128134
+UKH000110,Terraced,102.0,78,Yorkshire and the Humber,E,Electric boiler,Fair,Double,False,True,299721
+UKH000111,Semi-detached,79.3,22,Yorkshire and the Humber,B,Gas boiler,Fair,Triple,True,True,286174
+UKH000112,Semi-detached,78.6,8,Yorkshire and the Humber,A,Air-source heat pump,Excellent,Triple,False,False,246939
+UKH000113,Semi-detached,103.1,34,West Midlands,B,Gas boiler,Excellent,Double,False,False,225118
+UKH000114,Terraced,82.2,4,East Midlands,D,Electric boiler,Fair,Double,False,False,176436
+UKH000115,Bungalow,86.4,19,North West,D,Gas boiler,Poor,Double,False,True,163835
+UKH000116,Flat,76.7,70,North East,E,Gas boiler,Fair,Single,True,False,104277
+UKH000117,Flat,51.5,31,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,False,False,101173
+UKH000118,Flat,37.4,64,Scotland,E,Gas boiler,Good,Single,False,True,107574
+UKH000119,Semi-detached,94.0,23,South East,B,Gas boiler,Excellent,Double,False,False,591037
+UKH000120,Bungalow,80.1,113,North West,E,Gas boiler,Fair,Double,False,False,119596
+UKH000121,Terraced,105.7,105,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,141655
+UKH000122,Semi-detached,110.2,55,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,225033
+UKH000123,Terraced,80.4,45,South East,C,Gas boiler,Fair,Triple,False,False,272046
+UKH000124,Flat,52.5,19,North East,C,Gas boiler,Good,Double,False,False,100438
+UKH000125,Terraced,91.1,6,London,C,Gas boiler,Fair,Triple,False,True,657508
+UKH000126,Terraced,73.5,54,North East,D,Gas boiler,Poor,Double,False,True,146620
+UKH000127,Bungalow,89.1,53,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,True,185494
+UKH000128,Terraced,90.2,43,London,E,Direct electric,Fair,Double,False,False,693682
+UKH000129,Terraced,84.0,37,West Midlands,A,Air-source heat pump,Excellent,Double,False,True,113449
+UKH000130,Bungalow,85.0,48,East of England,D,Direct electric,Good,Double,False,False,303480
+UKH000131,Bungalow,63.5,7,South East,B,Gas boiler,Excellent,Double,False,False,247439
+UKH000132,Terraced,104.5,31,Scotland,B,Gas boiler,Good,Triple,True,True,282344
+UKH000133,Semi-detached,109.8,39,South East,C,Gas boiler,Excellent,Double,False,True,638001
+UKH000134,Detached,104.1,62,South East,E,Gas boiler,Poor,Double,False,True,534263
+UKH000135,Detached,142.1,31,West Midlands,A,Air-source heat pump,Good,Double,False,False,396351
+UKH000136,Semi-detached,74.4,16,Scotland,C,Gas boiler,Good,Double,False,False,190744
+UKH000137,Detached,169.7,47,South East,E,Gas boiler,Poor,Single,True,True,712983
+UKH000138,Flat,49.8,39,Scotland,C,Gas boiler,Good,Double,False,True,84923
+UKH000139,Semi-detached,96.9,5,West Midlands,B,Gas boiler,Excellent,Double,False,True,259313
+UKH000140,Detached,131.2,6,Scotland,A,Gas boiler,Excellent,Double,True,True,462302
+UKH000141,Terraced,119.3,38,West Midlands,C,Gas boiler,Good,Double,False,False,198210
+UKH000142,Terraced,88.8,4,South West,B,Direct electric,Fair,Double,True,True,312898
+UKH000143,Detached,186.1,37,Northern Ireland,D,Gas boiler,Fair,Double,False,False,316252
+UKH000144,Detached,139.8,6,Scotland,A,Gas boiler,Excellent,Double,True,True,423577
+UKH000145,Bungalow,98.5,51,East Midlands,C,Gas boiler,Good,Double,False,False,358198
+UKH000146,Terraced,98.9,10,North West,C,Electric boiler,Fair,Double,True,False,196804
+UKH000147,Bungalow,80.7,27,Northern Ireland,D,Electric boiler,Fair,Double,False,False,123062
+UKH000148,Semi-detached,87.1,25,South East,A,Air-source heat pump,Excellent,Double,False,True,320795
+UKH000149,Flat,100.2,38,East Midlands,D,Gas boiler,Fair,Double,False,False,227470
+UKH000150,Detached,119.8,55,Wales,E,Gas boiler,Fair,Single,False,True,343792
+UKH000151,Terraced,46.1,11,North West,C,Gas boiler,Poor,Double,True,True,128775
+UKH000152,Flat,53.9,10,East of England,B,Gas boiler,Excellent,Double,False,True,175969
+UKH000153,Detached,114.8,10,South East,B,Gas boiler,Good,Triple,False,True,637533
+UKH000154,Detached,170.4,17,East of England,A,Air-source heat pump,Excellent,Triple,False,False,910371
+UKH000155,Terraced,73.4,26,South West,C,Air-source heat pump,Poor,Double,False,True,296649
+UKH000156,Semi-detached,59.9,54,London,C,Air-source heat pump,Fair,Double,False,True,449364
+UKH000157,Terraced,32.0,6,South West,B,Gas boiler,Good,Triple,False,True,75835
+UKH000158,Terraced,111.8,90,Yorkshire and the Humber,D,Gas boiler,Fair,Double,True,True,339826
+UKH000159,Flat,65.6,10,Scotland,B,Gas boiler,Good,Double,True,False,130092
+UKH000160,Terraced,96.3,20,East Midlands,C,Gas boiler,Good,Double,False,True,170265
+UKH000161,Flat,59.9,69,East of England,F,Gas boiler,Poor,Double,False,False,208084
+UKH000162,Bungalow,176.4,7,North West,B,Gas boiler,Good,Double,False,False,283346
+UKH000163,Bungalow,97.7,23,Scotland,C,Direct electric,Good,Double,False,True,247681
+UKH000164,Semi-detached,98.2,76,Wales,D,Gas boiler,Fair,Double,False,True,171889
+UKH000165,Semi-detached,104.8,72,South East,C,Gas boiler,Excellent,Double,False,False,673922
+UKH000166,Flat,60.5,10,Wales,B,Electric boiler,Excellent,Triple,False,False,127490
+UKH000167,Semi-detached,105.6,20,London,C,Gas boiler,Poor,Triple,False,True,663684
+UKH000168,Flat,76.1,50,London,C,Air-source heat pump,Fair,Double,False,True,496237
+UKH000169,Detached,94.1,65,London,C,Direct electric,Excellent,Double,True,False,548437
+UKH000170,Detached,124.1,22,North West,C,Gas boiler,Fair,Triple,True,False,323217
+UKH000171,Semi-detached,59.7,59,South East,E,Electric boiler,Fair,Double,False,True,199577
+UKH000172,Semi-detached,81.1,62,North East,B,Air-source heat pump,Good,Double,True,False,140216
+UKH000173,Detached,125.1,44,West Midlands,D,Gas boiler,Fair,Double,False,False,359258
+UKH000174,Bungalow,115.1,56,East Midlands,D,Gas boiler,Fair,Double,False,True,292025
+UKH000175,Semi-detached,149.8,80,London,F,Gas boiler,Poor,Double,False,False,949141
+UKH000176,Detached,127.5,40,South West,B,Gas boiler,Excellent,Double,False,True,499256
+UKH000177,Semi-detached,98.7,1,East of England,C,Gas boiler,Good,Double,False,True,306483
+UKH000178,Detached,200.1,33,South East,B,Gas boiler,Excellent,Double,False,False,962772
+UKH000179,Terraced,85.8,50,West Midlands,C,Electric boiler,Excellent,Double,False,True,143623
+UKH000180,Flat,68.6,43,Northern Ireland,D,Gas boiler,Fair,Double,False,False,125214
+UKH000181,Terraced,74.0,87,North West,D,Electric boiler,Fair,Triple,False,True,177261
+UKH000182,Semi-detached,65.3,63,South West,D,Gas boiler,Fair,Double,False,True,244885
+UKH000183,Flat,42.2,4,West Midlands,C,Gas boiler,Good,Double,False,False,96017
+UKH000184,Semi-detached,51.7,26,East Midlands,C,Gas boiler,Fair,Double,False,False,140027
+UKH000185,Detached,130.0,39,North East,D,Electric boiler,Good,Double,False,True,461729
+UKH000186,Semi-detached,76.6,49,East Midlands,C,Gas boiler,Good,Double,False,True,190549
+UKH000187,Detached,172.3,119,East of England,F,Gas boiler,Poor,Single,True,False,1204503
+UKH000188,Detached,166.5,33,Scotland,B,Gas boiler,Good,Double,False,True,628323
+UKH000189,Detached,147.6,42,South West,D,Gas boiler,Fair,Double,False,False,695833
+UKH000190,Semi-detached,88.6,24,London,B,Air-source heat pump,Good,Double,False,False,734391
+UKH000191,Semi-detached,137.3,130,Yorkshire and the Humber,F,Gas boiler,Fair,Single,False,True,331929
+UKH000192,Terraced,149.3,47,South East,C,Direct electric,Fair,Triple,True,False,542613
+UKH000193,Bungalow,100.5,10,London,C,Gas boiler,Good,Double,False,False,803306
+UKH000194,Terraced,51.7,5,West Midlands,B,Gas boiler,Excellent,Double,False,False,88344
+UKH000195,Flat,46.1,43,South East,C,Gas boiler,Good,Single,True,False,130534
+UKH000196,Bungalow,115.9,4,South East,A,Air-source heat pump,Excellent,Double,False,True,644061
+UKH000197,Terraced,85.9,86,East of England,E,Direct electric,Fair,Double,False,False,378080
+UKH000198,Detached,137.1,25,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,False,443680
+UKH000199,Detached,139.7,66,Yorkshire and the Humber,E,Direct electric,Fair,Double,False,True,476323
+UKH000200,Flat,76.6,33,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,False,103165
+UKH000201,Terraced,69.0,29,South East,D,Direct electric,Fair,Double,False,True,245758
+UKH000202,Terraced,106.2,34,West Midlands,B,Gas boiler,Fair,Triple,True,False,285876
+UKH000203,Flat,62.5,23,East of England,B,Gas boiler,Good,Triple,False,False,160163
+UKH000204,Detached,107.4,50,East of England,E,Direct electric,Fair,Double,False,False,511574
+UKH000205,Flat,90.2,29,South West,C,Air-source heat pump,Fair,Double,False,False,420225
+UKH000206,Flat,52.0,16,Wales,C,Electric boiler,Excellent,Double,True,False,124376
+UKH000207,Terraced,44.8,26,Yorkshire and the Humber,A,Gas boiler,Excellent,Double,True,True,88020
+UKH000208,Terraced,79.8,12,North West,A,Gas boiler,Excellent,Triple,False,False,143181
+UKH000209,Terraced,120.0,47,East Midlands,D,Air-source heat pump,Fair,Double,False,False,432524
+UKH000210,Semi-detached,76.6,6,North West,C,Gas boiler,Good,Double,False,False,129731
+UKH000211,Terraced,66.6,7,London,B,Gas boiler,Excellent,Double,False,True,489657
+UKH000212,Detached,158.9,15,South West,B,Electric boiler,Excellent,Double,False,True,626624
+UKH000213,Terraced,67.3,39,South East,C,Air-source heat pump,Fair,Double,False,True,228911
+UKH000214,Bungalow,110.0,30,East Midlands,E,Gas boiler,Poor,Double,False,True,260073
+UKH000215,Semi-detached,77.1,29,South West,C,Gas boiler,Good,Double,False,False,368107
+UKH000216,Detached,119.0,69,South West,B,Gas boiler,Good,Triple,False,False,447187
+UKH000217,Terraced,72.7,56,South West,F,Gas boiler,Poor,Single,False,False,181131
+UKH000218,Semi-detached,107.0,10,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,210086
+UKH000219,Detached,273.2,20,Scotland,C,Gas boiler,Good,Double,False,True,782490
+UKH000220,Semi-detached,80.2,36,West Midlands,C,Direct electric,Good,Double,True,True,187591
+UKH000221,Detached,116.6,8,North West,B,Gas boiler,Excellent,Double,False,True,263284
+UKH000222,Flat,66.1,33,Wales,D,Gas boiler,Fair,Double,False,False,104155
+UKH000223,Terraced,77.0,24,Wales,C,Gas boiler,Fair,Double,False,False,216987
+UKH000224,Flat,76.0,34,Wales,C,Air-source heat pump,Fair,Double,False,False,126944
+UKH000225,Detached,144.2,81,North West,F,Gas boiler,Poor,Double,False,True,374522
+UKH000226,Detached,110.6,51,North East,G,Gas boiler,Poor,Single,False,False,334326
+UKH000227,Flat,41.9,42,North West,C,Gas boiler,Good,Double,False,False,103208
+UKH000228,Semi-detached,75.6,35,East Midlands,C,Direct electric,Excellent,Double,False,True,212761
+UKH000229,Flat,80.9,38,South East,B,Gas boiler,Excellent,Double,False,True,462552
+UKH000230,Detached,204.5,47,North East,D,Electric boiler,Good,Single,False,False,542835
+UKH000231,Semi-detached,99.3,70,South West,D,Gas boiler,Fair,Double,False,True,336295
+UKH000232,Bungalow,52.6,45,South West,D,Gas boiler,Fair,Double,False,True,206236
+UKH000233,Detached,92.3,87,East Midlands,D,Gas boiler,Fair,Double,True,True,251174
+UKH000234,Terraced,80.9,67,West Midlands,D,Gas boiler,Fair,Double,False,True,140969
+UKH000235,Semi-detached,128.3,42,Yorkshire and the Humber,C,Gas boiler,Good,Double,True,False,248349
+UKH000236,Semi-detached,59.5,84,North East,D,Gas boiler,Fair,Double,True,False,98932
+UKH000237,Detached,166.9,89,West Midlands,G,Direct electric,Fair,Single,False,False,518533
+UKH000238,Terraced,84.5,14,North West,B,Gas boiler,Excellent,Triple,False,False,148487
+UKH000239,Detached,242.4,5,West Midlands,B,Gas boiler,Excellent,Double,False,True,638933
+UKH000240,Semi-detached,106.9,93,North West,F,Gas boiler,Poor,Double,False,True,239643
+UKH000241,Terraced,46.5,18,South East,D,Electric boiler,Good,Single,False,False,236089
+UKH000242,Bungalow,65.7,26,London,C,Gas boiler,Fair,Double,False,True,362394
+UKH000243,Flat,74.9,81,London,E,Gas boiler,Fair,Double,False,True,518633
+UKH000244,Terraced,92.3,80,Scotland,G,Gas boiler,Poor,Single,False,False,192446
+UKH000245,Flat,47.3,34,West Midlands,C,Electric boiler,Excellent,Triple,False,False,126608
+UKH000246,Semi-detached,116.6,8,North West,B,Gas boiler,Good,Triple,False,False,342028
+UKH000247,Detached,149.3,10,Yorkshire and the Humber,B,Gas boiler,Good,Double,True,True,438494
+UKH000248,Detached,174.4,29,East of England,A,Air-source heat pump,Good,Triple,False,False,847012
+UKH000249,Detached,148.9,66,West Midlands,D,Air-source heat pump,Fair,Double,False,False,385075
+UKH000250,Semi-detached,108.5,48,East Midlands,C,Gas boiler,Fair,Triple,False,True,227105
+UKH000251,Terraced,98.5,53,East of England,E,Direct electric,Fair,Double,False,False,450921
+UKH000252,Semi-detached,118.4,35,East Midlands,C,Gas boiler,Good,Double,False,True,260604
+UKH000253,Terraced,79.0,23,North West,C,Gas boiler,Good,Double,False,False,147092
+UKH000254,Terraced,137.0,67,Scotland,D,Direct electric,Good,Double,False,False,383988
+UKH000255,Semi-detached,63.3,31,South East,B,Air-source heat pump,Good,Double,True,False,243713
+UKH000256,Flat,76.3,145,East Midlands,G,Electric boiler,Fair,Single,False,False,214438
+UKH000257,Semi-detached,96.0,6,West Midlands,B,Gas boiler,Excellent,Double,True,False,251345
+UKH000258,Detached,145.0,65,Northern Ireland,D,Air-source heat pump,Fair,Double,False,True,407191
+UKH000259,Terraced,66.7,63,Yorkshire and the Humber,F,Gas boiler,Poor,Double,False,False,159645
+UKH000260,Terraced,114.3,17,Yorkshire and the Humber,B,Gas boiler,Good,Double,True,False,211744
+UKH000261,Terraced,72.5,109,West Midlands,F,Direct electric,Fair,Single,False,True,193178
+UKH000262,Flat,77.5,84,North West,E,Gas boiler,Fair,Single,False,True,169771
+UKH000263,Semi-detached,65.6,25,East Midlands,E,Air-source heat pump,Poor,Single,False,False,183333
+UKH000264,Detached,141.8,21,East of England,A,Air-source heat pump,Good,Double,True,True,473915
+UKH000265,Bungalow,107.6,24,Wales,D,Gas boiler,Fair,Double,False,False,270249
+UKH000266,Terraced,59.6,18,South East,C,Gas boiler,Fair,Double,False,False,283503
+UKH000267,Detached,167.2,33,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,True,False,611718
+UKH000268,Detached,208.6,39,North West,B,Gas boiler,Excellent,Triple,False,False,636842
+UKH000269,Semi-detached,52.8,26,Scotland,D,Gas boiler,Fair,Double,False,False,179098
+UKH000270,Terraced,58.7,55,East of England,B,Gas boiler,Good,Double,False,True,198836
+UKH000271,Bungalow,87.1,37,Yorkshire and the Humber,C,Electric boiler,Good,Triple,False,False,159829
+UKH000272,Semi-detached,106.3,43,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,181211
+UKH000273,Terraced,53.7,47,West Midlands,D,Gas boiler,Fair,Double,False,True,113643
+UKH000274,Bungalow,72.0,36,South East,B,Direct electric,Excellent,Double,False,True,272983
+UKH000275,Semi-detached,51.8,32,East of England,C,Gas boiler,Good,Double,False,True,253712
+UKH000276,Terraced,96.2,43,East Midlands,F,Gas boiler,Poor,Double,False,False,154747
+UKH000277,Detached,106.9,63,East Midlands,D,Air-source heat pump,Poor,Triple,False,False,286826
+UKH000278,Semi-detached,102.6,22,East of England,A,Air-source heat pump,Good,Double,True,False,452763
+UKH000279,Semi-detached,64.6,66,Scotland,D,Electric boiler,Good,Double,False,False,150430
+UKH000280,Semi-detached,128.7,9,Northern Ireland,B,Direct electric,Fair,Triple,False,True,319414
+UKH000281,Semi-detached,86.5,22,Yorkshire and the Humber,E,Electric boiler,Poor,Double,False,True,131369
+UKH000282,Flat,45.3,8,South East,B,Gas boiler,Fair,Triple,True,False,229129
+UKH000283,Terraced,92.2,21,Northern Ireland,C,Electric boiler,Excellent,Double,False,False,145347
+UKH000284,Flat,71.3,6,East of England,C,Direct electric,Fair,Double,False,False,210483
+UKH000285,Semi-detached,125.1,42,East Midlands,F,Gas boiler,Poor,Single,False,False,436582
+UKH000286,Semi-detached,88.2,25,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,159658
+UKH000287,Semi-detached,128.5,91,Scotland,F,Gas boiler,Poor,Double,False,True,337297
+UKH000288,Semi-detached,85.3,20,Scotland,C,Direct electric,Good,Double,False,False,207786
+UKH000289,Terraced,71.2,22,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,False,False,88654
+UKH000290,Flat,36.6,3,Yorkshire and the Humber,A,Air-source heat pump,Good,Triple,False,True,88772
+UKH000291,Detached,105.4,20,West Midlands,A,Gas boiler,Excellent,Double,True,False,367570
+UKH000292,Detached,80.6,16,East Midlands,E,Gas boiler,Poor,Double,False,True,174755
+UKH000293,Detached,81.5,59,South West,D,Gas boiler,Good,Double,False,False,296515
+UKH000294,Detached,137.5,24,North West,C,Gas boiler,Excellent,Double,False,False,342399
+UKH000295,Terraced,102.9,91,North West,F,Gas boiler,Poor,Double,False,True,200374
+UKH000296,Flat,50.0,49,North West,F,Electric boiler,Poor,Double,False,True,86941
+UKH000297,Semi-detached,118.4,119,East Midlands,E,Electric boiler,Good,Double,False,True,343535
+UKH000298,Semi-detached,114.3,18,South East,C,Gas boiler,Good,Double,False,False,497104
+UKH000299,Flat,92.1,17,Wales,B,Gas boiler,Excellent,Double,False,False,206068
+UKH000300,Bungalow,107.7,57,Scotland,F,Gas boiler,Poor,Single,False,True,263060
+UKH000301,Detached,149.0,13,North West,B,Gas boiler,Good,Triple,False,False,411735
+UKH000302,Semi-detached,92.7,31,West Midlands,B,Gas boiler,Excellent,Triple,False,False,176879
+UKH000303,Bungalow,106.4,57,North West,F,Gas boiler,Poor,Double,False,False,233332
+UKH000304,Flat,57.4,50,South West,D,Electric boiler,Fair,Double,True,False,206010
+UKH000305,Bungalow,80.2,24,North West,C,Gas boiler,Good,Double,False,False,285625
+UKH000306,Flat,61.4,51,London,D,Air-source heat pump,Fair,Double,False,False,428450
+UKH000307,Semi-detached,69.1,26,South East,C,Electric boiler,Excellent,Double,False,False,364230
+UKH000308,Terraced,55.2,69,Yorkshire and the Humber,D,Air-source heat pump,Poor,Double,False,False,96263
+UKH000309,Terraced,81.0,6,South East,B,Gas boiler,Good,Double,False,True,297452
+UKH000310,Terraced,87.1,35,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,167042
+UKH000311,Terraced,115.3,36,Scotland,D,Direct electric,Fair,Double,False,False,202420
+UKH000312,Detached,170.4,25,North West,C,Direct electric,Good,Double,False,False,444026
+UKH000313,Bungalow,81.4,79,North West,E,Gas boiler,Poor,Double,False,True,172388
+UKH000314,Semi-detached,109.3,33,South East,C,Gas boiler,Good,Double,False,False,538174
+UKH000315,Detached,129.4,64,East of England,D,Direct electric,Fair,Double,False,False,515380
+UKH000316,Terraced,100.3,66,East Midlands,F,Gas boiler,Poor,Double,False,False,173431
+UKH000317,Terraced,53.5,19,East of England,B,Direct electric,Excellent,Double,True,True,192007
+UKH000318,Terraced,102.8,46,West Midlands,F,Direct electric,Poor,Double,False,False,243890
+UKH000319,Flat,57.1,55,West Midlands,F,Gas boiler,Poor,Single,False,True,155579
+UKH000320,Detached,55.1,32,Scotland,C,Gas boiler,Good,Triple,False,False,143046
+UKH000321,Bungalow,82.0,20,South East,B,Gas boiler,Good,Double,True,True,437258
+UKH000322,Flat,63.3,6,South East,C,Gas boiler,Good,Double,False,False,196624
+UKH000323,Semi-detached,65.7,17,Scotland,C,Direct electric,Good,Double,False,False,179277
+UKH000324,Terraced,73.1,65,London,F,Gas boiler,Poor,Single,False,True,500717
+UKH000325,Bungalow,116.9,73,Wales,E,Gas boiler,Fair,Double,False,False,256281
+UKH000326,Semi-detached,117.8,55,West Midlands,C,Air-source heat pump,Fair,Double,False,False,275317
+UKH000327,Terraced,81.5,33,West Midlands,A,Air-source heat pump,Excellent,Double,True,True,200314
+UKH000328,Flat,99.5,28,East Midlands,C,Gas boiler,Good,Double,False,True,200591
+UKH000329,Flat,70.4,50,Yorkshire and the Humber,E,Direct electric,Good,Single,False,False,129334
+UKH000330,Terraced,83.5,6,East of England,B,Gas boiler,Good,Double,False,True,169985
+UKH000331,Terraced,120.3,41,South West,D,Air-source heat pump,Poor,Triple,False,True,350768
+UKH000332,Terraced,92.1,34,Yorkshire and the Humber,B,Gas boiler,Excellent,Triple,False,False,256452
+UKH000333,Semi-detached,125.7,45,West Midlands,F,Gas boiler,Poor,Double,False,False,263435
+UKH000334,Detached,113.4,48,South East,F,Direct electric,Poor,Double,False,True,524563
+UKH000335,Semi-detached,93.9,32,East Midlands,C,Electric boiler,Good,Double,False,True,240917
+UKH000336,Semi-detached,105.3,15,Scotland,C,Gas boiler,Excellent,Double,False,False,254410
+UKH000337,Semi-detached,85.0,31,North West,C,Gas boiler,Good,Double,False,True,198665
+UKH000338,Detached,151.7,26,East of England,C,Gas boiler,Fair,Double,True,False,622016
+UKH000339,Terraced,105.6,25,North West,B,Direct electric,Excellent,Double,True,True,268331
+UKH000340,Terraced,106.2,39,East of England,C,Gas boiler,Good,Double,False,False,498127
+UKH000341,Bungalow,92.9,2,East of England,D,Gas boiler,Poor,Double,False,True,395393
+UKH000342,Terraced,137.3,108,Scotland,D,Electric boiler,Excellent,Double,False,False,304552
+UKH000343,Semi-detached,99.9,9,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,False,203633
+UKH000344,Detached,77.0,21,East Midlands,C,Electric boiler,Excellent,Double,False,True,186102
+UKH000345,Detached,122.3,2,North East,C,Gas boiler,Good,Double,False,True,181420
+UKH000346,Semi-detached,99.5,31,Yorkshire and the Humber,B,Gas boiler,Good,Double,True,False,243063
+UKH000347,Semi-detached,74.4,20,North West,C,Gas boiler,Good,Double,False,False,254335
+UKH000348,Detached,112.6,45,South East,D,Electric boiler,Excellent,Single,False,False,503596
+UKH000349,Flat,46.7,22,West Midlands,D,Gas boiler,Poor,Double,False,False,91348
+UKH000350,Detached,141.6,75,East Midlands,F,Gas boiler,Poor,Double,False,False,421364
+UKH000351,Terraced,43.3,67,London,F,Gas boiler,Poor,Double,False,True,317539
+UKH000352,Terraced,86.1,74,South West,D,Air-source heat pump,Good,Double,False,False,383516
+UKH000353,Semi-detached,99.8,15,East of England,B,Air-source heat pump,Good,Double,False,False,400878
+UKH000354,Terraced,65.5,51,North West,C,Direct electric,Good,Double,False,True,128198
+UKH000355,Flat,56.2,59,Yorkshire and the Humber,C,Direct electric,Good,Double,False,True,78804
+UKH000356,Flat,49.2,10,East of England,A,Gas boiler,Excellent,Triple,False,True,187894
+UKH000357,Detached,79.9,63,West Midlands,D,Direct electric,Fair,Double,False,True,220404
+UKH000358,Flat,72.8,61,London,F,Gas boiler,Poor,Double,False,False,493857
+UKH000359,Bungalow,75.7,53,East of England,C,Direct electric,Good,Double,False,False,186472
+UKH000360,Detached,159.2,55,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,False,531377
+UKH000361,Semi-detached,90.7,71,Scotland,D,Gas boiler,Fair,Triple,False,False,201897
+UKH000362,Flat,57.5,22,South East,B,Air-source heat pump,Good,Double,False,True,202011
+UKH000363,Semi-detached,102.1,105,East of England,F,Gas boiler,Good,Single,False,False,373585
+UKH000364,Detached,123.6,58,North East,F,Electric boiler,Poor,Double,False,True,303327
+UKH000365,Bungalow,77.6,22,Scotland,C,Gas boiler,Good,Double,False,False,202106
+UKH000366,Terraced,78.7,32,West Midlands,D,Gas boiler,Poor,Double,True,False,249389
+UKH000367,Semi-detached,103.8,46,East of England,C,Gas boiler,Good,Double,False,True,382298
+UKH000368,Bungalow,70.3,23,London,F,Electric boiler,Poor,Double,False,False,448627
+UKH000369,Flat,69.1,11,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,112496
+UKH000370,Terraced,87.8,19,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,True,182973
+UKH000371,Flat,70.4,61,West Midlands,E,Air-source heat pump,Poor,Double,False,False,220067
+UKH000372,Terraced,80.2,32,Scotland,C,Gas boiler,Good,Double,False,False,277826
+UKH000373,Terraced,90.9,34,Scotland,C,Gas boiler,Good,Double,False,False,248654
+UKH000374,Semi-detached,102.9,37,London,D,Direct electric,Fair,Triple,False,False,812283
+UKH000375,Terraced,102.0,5,West Midlands,A,Gas boiler,Good,Double,True,False,220024
+UKH000376,Detached,233.4,45,Scotland,B,Gas boiler,Good,Triple,False,True,798487
+UKH000377,Flat,83.8,4,London,D,Gas boiler,Fair,Double,False,False,780281
+UKH000378,Flat,67.9,21,Wales,D,Gas boiler,Fair,Double,False,False,164823
+UKH000379,Detached,161.4,47,East Midlands,D,Electric boiler,Good,Double,False,False,281053
+UKH000380,Semi-detached,110.6,83,West Midlands,F,Gas boiler,Fair,Single,False,False,242735
+UKH000381,Semi-detached,114.9,17,London,B,Direct electric,Excellent,Double,False,True,851366
+UKH000382,Detached,164.4,9,South West,A,Air-source heat pump,Excellent,Double,False,False,501794
+UKH000383,Semi-detached,85.2,30,Northern Ireland,B,Gas boiler,Excellent,Double,False,False,127914
+UKH000384,Semi-detached,124.4,59,Northern Ireland,D,Gas boiler,Fair,Double,False,True,137040
+UKH000385,Flat,51.4,89,Yorkshire and the Humber,F,Gas boiler,Poor,Double,False,False,102461
+UKH000386,Flat,63.2,12,Scotland,B,Gas boiler,Excellent,Double,False,False,148687
+UKH000387,Terraced,35.6,26,South East,A,Gas boiler,Excellent,Double,True,False,135009
+UKH000388,Semi-detached,113.9,4,North West,A,Air-source heat pump,Good,Double,False,True,300604
+UKH000389,Flat,50.7,42,North East,E,Electric boiler,Fair,Double,False,False,90684
+UKH000390,Detached,146.5,83,North West,F,Gas boiler,Poor,Double,False,True,456828
+UKH000391,Flat,59.2,38,South West,C,Gas boiler,Fair,Double,False,True,198709
+UKH000392,Semi-detached,100.6,79,South East,E,Gas boiler,Fair,Double,False,False,457153
+UKH000393,Bungalow,85.9,15,East Midlands,A,Gas boiler,Excellent,Triple,False,True,175362
+UKH000394,Semi-detached,120.7,36,Yorkshire and the Humber,C,Gas boiler,Fair,Triple,True,True,133655
+UKH000395,Semi-detached,132.0,12,East of England,C,Direct electric,Good,Double,True,False,526699
+UKH000396,Flat,35.3,34,London,B,Air-source heat pump,Fair,Triple,False,True,330162
+UKH000397,Semi-detached,64.2,87,South East,D,Electric boiler,Good,Double,False,True,367623
+UKH000398,Flat,57.2,22,North West,B,Gas boiler,Good,Double,False,True,118597
+UKH000399,Detached,185.5,8,London,C,Gas boiler,Good,Double,False,False,1212748
+UKH000400,Bungalow,114.6,55,South East,E,Gas boiler,Fair,Single,False,False,681525
+UKH000401,Flat,67.5,24,North West,C,Gas boiler,Excellent,Double,False,False,160069
+UKH000402,Semi-detached,113.6,71,West Midlands,C,Air-source heat pump,Good,Double,False,False,215505
+UKH000403,Flat,63.8,30,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,108722
+UKH000404,Bungalow,105.1,12,East Midlands,B,Gas boiler,Good,Triple,False,True,393044
+UKH000405,Flat,34.4,16,London,B,Gas boiler,Good,Double,False,True,245898
+UKH000406,Detached,81.0,22,East Midlands,C,Gas boiler,Fair,Double,False,True,244922
+UKH000407,Detached,145.5,19,Yorkshire and the Humber,A,Air-source heat pump,Excellent,Double,True,False,261504
+UKH000408,Semi-detached,95.6,83,West Midlands,E,Gas boiler,Fair,Single,False,True,198933
+UKH000409,Bungalow,133.4,32,South East,C,Gas boiler,Good,Double,False,False,580950
+UKH000410,Semi-detached,129.8,39,West Midlands,C,Gas boiler,Good,Double,False,False,286736
+UKH000411,Semi-detached,86.6,16,North West,B,Gas boiler,Good,Double,False,True,173702
+UKH000412,Semi-detached,67.1,20,South West,B,Gas boiler,Good,Double,False,True,286555
+UKH000413,Terraced,98.4,51,Scotland,C,Gas boiler,Fair,Double,False,True,167448
+UKH000414,Flat,56.3,39,Northern Ireland,F,Gas boiler,Poor,Double,False,False,85158
+UKH000415,Flat,68.7,10,Scotland,D,Gas boiler,Fair,Double,False,True,145338
+UKH000416,Detached,148.7,68,South East,C,Air-source heat pump,Fair,Double,False,False,848772
+UKH000417,Semi-detached,102.1,27,London,D,Direct electric,Good,Double,False,False,628737
+UKH000418,Detached,157.4,14,East Midlands,C,Gas boiler,Excellent,Double,False,False,514821
+UKH000419,Semi-detached,101.4,65,London,B,Air-source heat pump,Excellent,Double,False,True,1175036
+UKH000420,Detached,113.8,27,West Midlands,C,Gas boiler,Good,Double,False,False,313577
+UKH000421,Detached,147.5,69,South West,F,Gas boiler,Fair,Single,False,True,481030
+UKH000422,Terraced,93.7,67,Scotland,D,Gas boiler,Good,Single,False,False,249929
+UKH000423,Semi-detached,101.6,28,South East,F,Electric boiler,Poor,Double,False,False,457593
+UKH000424,Semi-detached,102.3,28,North West,B,Gas boiler,Good,Double,False,True,276355
+UKH000425,Terraced,115.5,44,East of England,D,Direct electric,Fair,Double,False,True,341370
+UKH000426,Semi-detached,82.0,23,London,B,Gas boiler,Fair,Triple,True,True,651391
+UKH000427,Semi-detached,104.4,65,South East,D,Direct electric,Fair,Double,True,False,559260
+UKH000428,Detached,110.5,26,North West,C,Gas boiler,Fair,Double,False,False,358424
+UKH000429,Detached,147.8,31,Yorkshire and the Humber,C,Air-source heat pump,Fair,Double,False,True,311569
+UKH000430,Bungalow,132.4,31,South East,B,Gas boiler,Good,Double,True,True,434254
+UKH000431,Terraced,65.9,7,South West,A,Gas boiler,Excellent,Triple,False,True,204399
+UKH000432,Terraced,102.7,38,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,271256
+UKH000433,Terraced,90.7,49,East of England,E,Gas boiler,Poor,Double,False,True,236904
+UKH000434,Flat,63.6,10,East Midlands,B,Gas boiler,Good,Triple,False,False,84263
+UKH000435,Bungalow,108.5,39,South East,E,Gas boiler,Poor,Double,False,True,539728
+UKH000436,Semi-detached,93.7,33,West Midlands,C,Gas boiler,Fair,Double,True,True,189816
+UKH000437,Detached,171.3,20,West Midlands,C,Gas boiler,Good,Double,False,False,550980
+UKH000438,Terraced,80.6,14,South West,B,Gas boiler,Excellent,Triple,False,False,253527
+UKH000439,Terraced,41.1,29,London,D,Direct electric,Good,Double,False,False,563503
+UKH000440,Semi-detached,75.8,13,South East,B,Gas boiler,Good,Triple,False,False,515210
+UKH000441,Semi-detached,101.1,24,Wales,D,Direct electric,Poor,Double,True,True,255821
+UKH000442,Terraced,83.8,26,East Midlands,B,Gas boiler,Good,Triple,False,True,225292
+UKH000443,Flat,42.3,42,South West,C,Gas boiler,Good,Double,False,False,142727
+UKH000444,Semi-detached,70.1,6,North West,B,Gas boiler,Excellent,Double,False,False,139147
+UKH000445,Bungalow,92.8,14,North East,B,Gas boiler,Fair,Triple,True,True,215686
+UKH000446,Terraced,70.7,61,West Midlands,D,Electric boiler,Excellent,Double,False,True,99362
+UKH000447,Terraced,51.6,48,North East,E,Gas boiler,Poor,Double,False,False,97124
+UKH000448,Detached,151.4,24,East Midlands,D,Gas boiler,Fair,Double,False,False,395637
+UKH000449,Terraced,92.1,24,North East,D,Air-source heat pump,Fair,Double,False,False,183603
+UKH000450,Detached,243.1,23,North West,B,Gas boiler,Good,Triple,True,False,428362
+UKH000451,Detached,126.3,77,South East,F,Gas boiler,Poor,Double,False,False,557557
+UKH000452,Flat,35.9,14,London,D,Electric boiler,Fair,Double,False,False,168595
+UKH000453,Flat,75.7,32,South East,C,Gas boiler,Good,Double,False,False,274140
+UKH000454,Terraced,91.2,23,Northern Ireland,B,Gas boiler,Good,Triple,False,False,172564
+UKH000455,Semi-detached,58.2,78,London,E,Gas boiler,Good,Single,False,True,415831
+UKH000456,Semi-detached,85.9,78,Wales,F,Gas boiler,Poor,Double,False,False,164578
+UKH000457,Flat,82.2,40,Scotland,B,Air-source heat pump,Good,Double,False,True,197992
+UKH000458,Detached,124.1,75,Wales,D,Direct electric,Good,Double,True,True,385053
+UKH000459,Terraced,108.7,78,Wales,G,Gas boiler,Poor,Single,False,True,217950
+UKH000460,Semi-detached,113.0,38,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,201487
+UKH000461,Bungalow,134.8,80,Yorkshire and the Humber,G,Gas boiler,Poor,Single,False,True,272522
+UKH000462,Flat,79.6,33,Yorkshire and the Humber,C,Direct electric,Good,Double,False,False,167881
+UKH000463,Semi-detached,103.6,54,Scotland,D,Gas boiler,Fair,Double,False,True,220302
+UKH000464,Terraced,76.2,64,South East,D,Gas boiler,Good,Double,False,False,258890
+UKH000465,Detached,136.1,12,Northern Ireland,B,Gas boiler,Good,Triple,False,False,287007
+UKH000466,Detached,185.6,44,East Midlands,D,Electric boiler,Good,Double,False,False,451623
+UKH000467,Flat,68.7,39,North West,C,Gas boiler,Good,Double,False,True,164541
+UKH000468,Terraced,64.4,7,South West,B,Gas boiler,Excellent,Triple,False,False,157105
+UKH000469,Semi-detached,81.2,31,Northern Ireland,B,Air-source heat pump,Good,Double,False,False,120248
+UKH000470,Terraced,43.3,9,London,B,Gas boiler,Good,Double,False,False,276751
+UKH000471,Flat,66.2,49,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,139812
+UKH000472,Detached,175.3,15,East of England,D,Gas boiler,Good,Double,False,False,812953
+UKH000473,Terraced,79.6,33,Yorkshire and the Humber,D,Gas boiler,Good,Single,False,False,146825
+UKH000474,Detached,146.5,9,North East,C,Gas boiler,Good,Double,False,False,369428
+UKH000475,Semi-detached,108.8,84,North West,F,Direct electric,Fair,Single,False,True,606162
+UKH000476,Semi-detached,62.2,36,East Midlands,B,Air-source heat pump,Good,Double,False,True,226804
+UKH000477,Terraced,70.6,52,East Midlands,D,Gas boiler,Fair,Double,False,False,236624
+UKH000478,Flat,70.2,23,Yorkshire and the Humber,A,Air-source heat pump,Good,Triple,False,False,143324
+UKH000479,Detached,157.0,98,East of England,G,Gas boiler,Poor,Double,False,False,597329
+UKH000480,Semi-detached,85.5,12,North West,C,Gas boiler,Fair,Triple,False,False,227041
+UKH000481,Detached,107.4,13,South West,B,Gas boiler,Excellent,Double,False,True,511517
+UKH000482,Detached,142.6,50,North West,B,Air-source heat pump,Good,Double,False,False,289250
+UKH000483,Semi-detached,86.8,55,North West,F,Direct electric,Poor,Double,False,True,158972
+UKH000484,Semi-detached,76.4,17,North West,A,Gas boiler,Excellent,Double,False,False,125376
+UKH000485,Flat,53.7,25,South East,C,Gas boiler,Good,Double,False,False,241232
+UKH000486,Terraced,74.5,111,South East,G,Electric boiler,Poor,Double,False,True,310280
+UKH000487,Semi-detached,80.0,51,South West,F,Gas boiler,Poor,Single,False,False,249667
+UKH000488,Terraced,76.5,37,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,139848
+UKH000489,Semi-detached,80.6,30,South East,B,Gas boiler,Excellent,Double,False,False,283939
+UKH000490,Flat,50.3,27,North West,B,Air-source heat pump,Good,Double,False,False,107644
+UKH000491,Detached,176.5,20,North West,C,Gas boiler,Excellent,Double,False,False,750390
+UKH000492,Terraced,77.7,92,South East,G,Gas boiler,Poor,Single,False,False,489009
+UKH000493,Detached,117.5,55,Yorkshire and the Humber,E,Gas boiler,Fair,Single,False,False,317254
+UKH000494,Semi-detached,66.7,94,Scotland,G,Direct electric,Poor,Double,False,True,142431
+UKH000495,Terraced,84.0,17,East of England,C,Direct electric,Fair,Triple,False,True,288825
+UKH000496,Detached,175.0,4,Scotland,B,Gas boiler,Excellent,Double,False,False,476928
+UKH000497,Flat,44.7,58,East Midlands,C,Air-source heat pump,Fair,Double,False,True,121476
+UKH000498,Semi-detached,88.9,36,Wales,C,Gas boiler,Good,Double,False,False,214178
+UKH000499,Flat,71.0,40,East of England,C,Gas boiler,Good,Double,False,True,182297
+UKH000500,Semi-detached,108.1,35,South West,B,Gas boiler,Excellent,Double,False,True,396707
+UKH000501,Semi-detached,84.5,44,East Midlands,C,Direct electric,Excellent,Double,True,False,251415
+UKH000502,Detached,86.1,4,Scotland,B,Gas boiler,Good,Double,False,False,196972
+UKH000503,Terraced,46.4,18,London,C,Gas boiler,Good,Double,False,True,319921
+UKH000504,Detached,164.8,29,West Midlands,D,Gas boiler,Fair,Double,False,False,387260
+UKH000505,Terraced,72.1,32,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,False,False,215542
+UKH000506,Terraced,85.4,14,East of England,D,Gas boiler,Poor,Triple,False,False,360967
+UKH000507,Semi-detached,130.4,51,Scotland,C,Gas boiler,Fair,Double,False,False,243879
+UKH000508,Flat,87.6,60,South East,G,Direct electric,Poor,Single,False,False,336461
+UKH000509,Bungalow,77.5,26,East of England,D,Gas boiler,Fair,Double,False,False,295996
+UKH000510,Flat,50.3,29,East Midlands,B,Gas boiler,Excellent,Double,False,False,102032
+UKH000511,Detached,174.2,64,North West,D,Direct electric,Fair,Double,False,False,531060
+UKH000512,Detached,187.3,14,South East,B,Gas boiler,Good,Double,False,True,810239
+UKH000513,Semi-detached,76.4,61,East of England,E,Gas boiler,Poor,Double,False,True,235615
+UKH000514,Semi-detached,95.0,26,Northern Ireland,B,Gas boiler,Fair,Double,True,True,189427
+UKH000515,Terraced,103.9,29,East Midlands,C,Gas boiler,Good,Double,False,False,300095
+UKH000516,Bungalow,116.7,49,South East,C,Gas boiler,Good,Double,False,False,458971
+UKH000517,Terraced,95.0,26,East of England,E,Direct electric,Poor,Double,False,False,613374
+UKH000518,Bungalow,112.0,9,Wales,C,Gas boiler,Good,Double,False,False,390429
+UKH000519,Flat,49.2,40,South West,C,Direct electric,Good,Double,False,True,183850
+UKH000520,Semi-detached,114.5,23,North West,B,Gas boiler,Excellent,Triple,False,False,261057
+UKH000521,Detached,202.2,38,Scotland,E,Gas boiler,Poor,Double,False,False,569213
+UKH000522,Flat,77.1,30,Wales,C,Gas boiler,Good,Double,False,False,197419
+UKH000523,Flat,66.5,49,Scotland,E,Gas boiler,Fair,Double,False,False,165847
+UKH000524,Detached,86.6,12,North West,A,Gas boiler,Excellent,Triple,False,True,151874
+UKH000525,Detached,164.5,54,South East,D,Gas boiler,Fair,Double,False,True,568451
+UKH000526,Semi-detached,101.4,93,London,D,Air-source heat pump,Fair,Double,True,False,685107
+UKH000527,Semi-detached,93.7,7,East of England,C,Gas boiler,Good,Double,False,True,322259
+UKH000528,Semi-detached,92.3,51,South East,D,Gas boiler,Fair,Double,False,False,433104
+UKH000529,Flat,98.4,66,Northern Ireland,F,Gas boiler,Poor,Double,False,False,126896
+UKH000530,Semi-detached,50.9,16,East Midlands,C,Gas boiler,Fair,Double,False,True,90095
+UKH000531,Semi-detached,91.3,32,London,D,Gas boiler,Fair,Double,False,False,717540
+UKH000532,Detached,198.9,21,Scotland,B,Gas boiler,Good,Double,True,False,628085
+UKH000533,Terraced,72.5,55,West Midlands,B,Air-source heat pump,Fair,Double,True,True,95251
+UKH000534,Semi-detached,86.6,88,West Midlands,D,Gas boiler,Good,Double,False,False,200100
+UKH000535,Detached,221.7,29,North West,C,Gas boiler,Fair,Triple,False,False,415087
+UKH000536,Semi-detached,91.5,84,London,E,Air-source heat pump,Fair,Single,True,True,880085
+UKH000537,Detached,191.1,24,South East,B,Gas boiler,Good,Triple,False,False,837419
+UKH000538,Terraced,71.7,18,Yorkshire and the Humber,C,Gas boiler,Excellent,Double,False,True,130807
+UKH000539,Semi-detached,105.6,116,East Midlands,D,Gas boiler,Good,Double,False,True,243092
+UKH000540,Semi-detached,112.8,102,London,D,Gas boiler,Excellent,Double,False,False,732326
+UKH000541,Bungalow,64.5,16,London,B,Air-source heat pump,Good,Double,False,False,642583
+UKH000542,Flat,74.4,37,Yorkshire and the Humber,C,Air-source heat pump,Fair,Double,False,True,121688
+UKH000543,Terraced,88.1,28,Wales,D,Gas boiler,Fair,Double,False,False,195611
+UKH000544,Flat,79.1,81,Wales,G,Gas boiler,Poor,Single,False,False,129419
+UKH000545,Flat,62.9,24,Scotland,B,Gas boiler,Good,Double,True,False,137100
+UKH000546,Semi-detached,100.4,20,South East,C,Direct electric,Fair,Double,False,True,332037
+UKH000547,Flat,81.5,105,East Midlands,G,Gas boiler,Poor,Single,True,True,136987
+UKH000548,Terraced,88.2,23,Scotland,B,Air-source heat pump,Good,Triple,False,False,152062
+UKH000549,Detached,107.6,30,West Midlands,C,Gas boiler,Good,Double,False,False,336419
+UKH000550,Detached,110.8,51,East Midlands,D,Gas boiler,Fair,Double,True,False,288742
+UKH000551,Flat,43.1,39,East Midlands,C,Gas boiler,Excellent,Double,False,True,91892
+UKH000552,Semi-detached,109.1,18,North West,C,Air-source heat pump,Poor,Double,False,True,335617
+UKH000553,Flat,86.8,20,South West,D,Direct electric,Good,Double,False,True,268972
+UKH000554,Terraced,84.4,48,Yorkshire and the Humber,B,Air-source heat pump,Excellent,Single,True,False,176260
+UKH000555,Bungalow,99.8,97,Scotland,F,Gas boiler,Fair,Single,False,False,211487
+UKH000556,Terraced,69.1,34,London,A,Gas boiler,Excellent,Triple,False,True,443886
+UKH000557,Bungalow,46.0,42,Wales,D,Electric boiler,Fair,Double,False,True,116241
+UKH000558,Detached,201.8,33,North West,B,Air-source heat pump,Good,Double,False,False,468468
+UKH000559,Terraced,114.3,35,London,C,Gas boiler,Excellent,Double,False,False,614836
+UKH000560,Semi-detached,67.6,33,East Midlands,C,Gas boiler,Good,Double,False,False,138001
+UKH000561,Terraced,83.7,39,North West,D,Gas boiler,Fair,Double,False,True,216153
+UKH000562,Terraced,93.9,10,London,E,Gas boiler,Poor,Double,False,False,888246
+UKH000563,Terraced,75.2,22,East Midlands,E,Gas boiler,Poor,Double,False,False,209515
+UKH000564,Detached,140.1,31,Yorkshire and the Humber,D,Gas boiler,Fair,Triple,False,False,304731
+UKH000565,Terraced,89.8,57,North West,B,Gas boiler,Excellent,Double,False,True,192938
+UKH000566,Terraced,72.4,13,Yorkshire and the Humber,A,Gas boiler,Good,Triple,False,False,157589
+UKH000567,Detached,167.7,20,East Midlands,D,Gas boiler,Fair,Double,False,True,570607
+UKH000568,Detached,137.0,24,Scotland,C,Gas boiler,Fair,Double,True,True,270622
+UKH000569,Flat,76.3,31,East of England,C,Gas boiler,Good,Double,False,True,250302
+UKH000570,Semi-detached,52.5,31,Scotland,B,Gas boiler,Good,Triple,True,False,176117
+UKH000571,Semi-detached,84.2,39,Scotland,D,Gas boiler,Fair,Double,False,False,150853
+UKH000572,Semi-detached,118.6,150,North West,F,Gas boiler,Fair,Single,False,False,194250
+UKH000573,Bungalow,92.0,25,London,E,Gas boiler,Fair,Single,False,False,600652
+UKH000574,Terraced,76.7,16,South West,A,Air-source heat pump,Excellent,Double,False,False,241108
+UKH000575,Bungalow,59.0,89,West Midlands,D,Gas boiler,Fair,Double,True,False,121354
+UKH000576,Flat,81.5,30,Yorkshire and the Humber,C,Air-source heat pump,Excellent,Single,False,True,134480
+UKH000577,Flat,74.8,44,East Midlands,D,Direct electric,Poor,Triple,True,True,143026
+UKH000578,Detached,170.0,10,North West,A,Air-source heat pump,Excellent,Double,False,True,754507
+UKH000579,Detached,64.5,11,South East,B,Gas boiler,Good,Double,False,True,205675
+UKH000580,Bungalow,97.0,19,West Midlands,A,Air-source heat pump,Good,Double,False,False,258877
+UKH000581,Flat,39.4,24,London,C,Electric boiler,Excellent,Double,False,True,278294
+UKH000582,Flat,57.5,62,Scotland,D,Gas boiler,Fair,Double,True,False,134365
+UKH000583,Terraced,101.0,53,North West,D,Gas boiler,Good,Single,False,False,260760
+UKH000584,Semi-detached,83.2,39,South West,C,Gas boiler,Excellent,Double,False,False,356010
+UKH000585,Semi-detached,71.8,42,South East,E,Gas boiler,Fair,Double,False,False,221980
+UKH000586,Bungalow,101.0,6,South West,B,Gas boiler,Good,Double,False,False,403244
+UKH000587,Flat,30.6,150,South East,E,Gas boiler,Fair,Single,False,True,127445
+UKH000588,Semi-detached,95.9,44,London,C,Gas boiler,Good,Double,True,True,757107
+UKH000589,Terraced,88.5,69,East of England,D,Gas boiler,Fair,Double,True,False,313886
+UKH000590,Terraced,86.6,44,South East,C,Gas boiler,Fair,Triple,True,False,334867
+UKH000591,Terraced,90.9,48,South West,D,Electric boiler,Good,Double,False,False,222387
+UKH000592,Semi-detached,70.3,67,East of England,D,Gas boiler,Good,Double,False,True,351525
+UKH000593,Terraced,64.6,18,North West,C,Gas boiler,Fair,Single,True,False,99488
+UKH000594,Terraced,101.7,14,Scotland,D,Direct electric,Good,Double,False,False,217954
+UKH000595,Semi-detached,113.5,69,Wales,C,Gas boiler,Good,Double,False,True,186560
+UKH000596,Detached,134.4,34,South West,B,Gas boiler,Excellent,Triple,False,False,775682
+UKH000597,Terraced,72.8,49,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,161197
+UKH000598,Flat,72.6,53,Northern Ireland,D,Gas boiler,Excellent,Single,False,True,93290
+UKH000599,Detached,122.6,60,East of England,D,Gas boiler,Good,Double,False,True,507166
+UKH000600,Terraced,89.6,66,Scotland,B,Air-source heat pump,Good,Triple,False,True,173515
+UKH000601,Semi-detached,67.8,14,Yorkshire and the Humber,C,Gas boiler,Fair,Triple,False,False,160270
+UKH000602,Terraced,65.3,37,North East,C,Gas boiler,Fair,Double,False,True,80674
+UKH000603,Terraced,105.0,25,South East,C,Gas boiler,Excellent,Double,False,False,290701
+UKH000604,Semi-detached,106.5,69,Yorkshire and the Humber,D,Gas boiler,Excellent,Single,False,True,261175
+UKH000605,Semi-detached,83.4,57,South West,D,Gas boiler,Good,Double,False,False,336949
+UKH000606,Terraced,64.8,38,East of England,D,Electric boiler,Good,Double,False,False,210280
+UKH000607,Flat,68.9,4,Scotland,B,Gas boiler,Excellent,Double,False,True,154997
+UKH000608,Semi-detached,84.0,15,West Midlands,B,Gas boiler,Excellent,Double,False,False,145811
+UKH000609,Semi-detached,77.1,47,North West,E,Air-source heat pump,Poor,Double,False,False,153600
+UKH000610,Semi-detached,89.8,45,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,False,283389
+UKH000611,Semi-detached,63.0,70,London,F,Direct electric,Poor,Double,False,False,516386
+UKH000612,Semi-detached,102.7,42,East Midlands,D,Air-source heat pump,Poor,Double,False,False,159913
+UKH000613,Semi-detached,100.4,11,East of England,C,Gas boiler,Good,Double,False,False,362432
+UKH000614,Detached,187.5,27,South East,B,Direct electric,Good,Double,True,True,877083
+UKH000615,Semi-detached,94.3,86,North West,D,Gas boiler,Fair,Double,False,True,257607
+UKH000616,Flat,30.0,2,Scotland,A,Gas boiler,Excellent,Double,False,True,71786
+UKH000617,Semi-detached,89.3,21,Scotland,B,Gas boiler,Good,Double,False,True,237213
+UKH000618,Flat,40.4,70,West Midlands,D,Gas boiler,Good,Double,False,False,76021
+UKH000619,Semi-detached,85.4,13,Scotland,B,Direct electric,Excellent,Double,False,False,242763
+UKH000620,Flat,69.4,35,South East,C,Direct electric,Excellent,Double,False,True,323543
+UKH000621,Flat,47.9,61,North West,D,Gas boiler,Fair,Double,False,False,62589
+UKH000622,Flat,34.4,49,East of England,E,Gas boiler,Poor,Double,False,True,127992
+UKH000623,Bungalow,87.5,11,East of England,B,Gas boiler,Good,Double,False,False,304872
+UKH000624,Flat,58.2,89,East of England,D,Gas boiler,Fair,Double,False,True,208179
+UKH000625,Flat,65.4,13,South West,C,Electric boiler,Fair,Triple,False,False,390552
+UKH000626,Detached,150.2,34,Scotland,A,Air-source heat pump,Good,Double,False,False,337405
+UKH000627,Bungalow,82.6,28,East of England,C,Gas boiler,Good,Double,False,False,315482
+UKH000628,Flat,53.0,29,West Midlands,C,Gas boiler,Good,Triple,False,False,101887
+UKH000629,Detached,133.6,5,West Midlands,C,Gas boiler,Fair,Triple,False,False,282166
+UKH000630,Terraced,79.6,27,North West,B,Gas boiler,Good,Double,False,False,116012
+UKH000631,Terraced,112.5,8,West Midlands,B,Gas boiler,Good,Double,False,True,209964
+UKH000632,Terraced,94.4,5,North West,C,Gas boiler,Good,Double,False,True,269645
+UKH000633,Detached,117.4,85,South West,F,Electric boiler,Poor,Triple,True,False,386884
+UKH000634,Terraced,72.7,18,Yorkshire and the Humber,C,Air-source heat pump,Fair,Double,False,True,235248
+UKH000635,Semi-detached,75.0,150,North West,E,Gas boiler,Fair,Double,False,True,183971
+UKH000636,Detached,108.2,35,East of England,C,Gas boiler,Good,Double,False,False,370739
+UKH000637,Semi-detached,68.4,30,North West,D,Gas boiler,Fair,Double,False,False,150294
+UKH000638,Flat,75.2,82,East of England,E,Gas boiler,Fair,Double,False,True,215159
+UKH000639,Flat,60.7,37,Northern Ireland,E,Gas boiler,Poor,Double,False,False,114770
+UKH000640,Bungalow,30.3,38,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,44897
+UKH000641,Semi-detached,111.0,23,Scotland,B,Gas boiler,Good,Double,False,False,225149
+UKH000642,Detached,95.9,8,North West,B,Gas boiler,Excellent,Double,False,True,266621
+UKH000643,Terraced,92.0,47,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,175737
+UKH000644,Terraced,105.5,13,East Midlands,C,Gas boiler,Good,Double,False,False,266597
+UKH000645,Detached,128.5,27,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,True,199781
+UKH000646,Terraced,64.2,37,Scotland,A,Air-source heat pump,Good,Triple,False,True,109606
+UKH000647,Terraced,80.9,14,North West,A,Direct electric,Good,Triple,False,True,186270
+UKH000648,Semi-detached,115.8,32,West Midlands,C,Gas boiler,Fair,Double,False,False,390349
+UKH000649,Semi-detached,94.9,75,West Midlands,F,Gas boiler,Fair,Double,False,False,276941
+UKH000650,Terraced,116.9,45,East of England,C,Air-source heat pump,Fair,Double,False,True,443986
+UKH000651,Semi-detached,65.4,60,North West,F,Gas boiler,Fair,Single,False,False,114644
+UKH000652,Detached,102.5,52,South West,E,Gas boiler,Poor,Double,False,False,245020
+UKH000653,Flat,62.8,91,London,D,Air-source heat pump,Fair,Double,False,False,365409
+UKH000654,Detached,113.9,35,North West,C,Gas boiler,Fair,Triple,False,False,216226
+UKH000655,Bungalow,63.0,150,East Midlands,G,Direct electric,Poor,Single,False,True,198629
+UKH000656,Semi-detached,106.3,32,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,297058
+UKH000657,Flat,59.1,47,East Midlands,B,Gas boiler,Excellent,Double,False,True,112452
+UKH000658,Terraced,74.3,86,Scotland,D,Gas boiler,Excellent,Double,True,False,174104
+UKH000659,Detached,171.0,107,East Midlands,D,Electric boiler,Excellent,Single,False,True,340464
+UKH000660,Semi-detached,104.2,90,North West,E,Gas boiler,Fair,Double,False,True,257089
+UKH000661,Terraced,78.8,34,London,D,Direct electric,Fair,Double,False,True,562706
+UKH000662,Flat,44.7,0,Yorkshire and the Humber,A,Air-source heat pump,Excellent,Double,True,False,85419
+UKH000663,Detached,133.4,17,East of England,C,Gas boiler,Fair,Triple,False,True,603225
+UKH000664,Bungalow,82.8,22,South East,B,Gas boiler,Fair,Triple,False,True,328828
+UKH000665,Semi-detached,116.8,41,West Midlands,E,Gas boiler,Fair,Single,False,True,335981
+UKH000666,Flat,68.5,27,Northern Ireland,F,Direct electric,Poor,Double,False,False,91218
+UKH000667,Detached,185.9,53,East of England,D,Gas boiler,Fair,Double,False,False,782201
+UKH000668,Semi-detached,104.9,44,South East,D,Gas boiler,Fair,Double,False,True,371485
+UKH000669,Flat,70.3,5,Scotland,A,Air-source heat pump,Fair,Double,False,True,208953
+UKH000670,Terraced,112.7,28,Scotland,C,Gas boiler,Good,Double,False,True,274907
+UKH000671,Flat,91.7,108,East of England,G,Gas boiler,Poor,Double,False,False,346618
+UKH000672,Detached,59.2,11,London,B,Gas boiler,Good,Triple,False,True,666065
+UKH000673,Detached,77.8,18,London,C,Gas boiler,Good,Double,False,False,374173
+UKH000674,Detached,197.1,16,South East,C,Gas boiler,Good,Double,False,True,810968
+UKH000675,Flat,65.5,21,Scotland,B,Air-source heat pump,Good,Double,False,False,113732
+UKH000676,Flat,92.7,37,North East,C,Gas boiler,Fair,Double,False,True,143763
+UKH000677,Terraced,88.0,29,Scotland,D,Direct electric,Fair,Double,False,True,258332
+UKH000678,Semi-detached,112.3,47,East Midlands,D,Gas boiler,Fair,Double,False,True,247261
+UKH000679,Semi-detached,120.2,27,South East,C,Electric boiler,Good,Triple,False,False,767563
+UKH000680,Semi-detached,107.4,76,Scotland,D,Air-source heat pump,Fair,Double,False,False,200980
+UKH000681,Flat,79.0,7,East of England,B,Gas boiler,Excellent,Triple,False,False,372532
+UKH000682,Semi-detached,97.1,59,South West,C,Gas boiler,Good,Double,True,False,372951
+UKH000683,Bungalow,90.9,24,London,C,Gas boiler,Excellent,Double,False,False,641465
+UKH000684,Semi-detached,112.5,25,Yorkshire and the Humber,D,Air-source heat pump,Poor,Double,False,True,288144
+UKH000685,Semi-detached,100.1,84,West Midlands,E,Electric boiler,Good,Double,False,True,305037
+UKH000686,Bungalow,79.2,19,East Midlands,D,Gas boiler,Fair,Double,False,False,200600
+UKH000687,Flat,45.7,56,South West,C,Gas boiler,Excellent,Double,False,True,101375
+UKH000688,Semi-detached,112.8,67,Wales,F,Air-source heat pump,Poor,Double,False,False,336105
+UKH000689,Terraced,124.9,36,North West,D,Gas boiler,Fair,Double,False,False,438201
+UKH000690,Detached,186.2,5,East of England,B,Gas boiler,Good,Double,True,False,677377
+UKH000691,Semi-detached,115.8,100,West Midlands,F,Direct electric,Poor,Double,True,False,287054
+UKH000692,Semi-detached,80.7,4,Scotland,B,Direct electric,Good,Triple,True,False,253222
+UKH000693,Detached,100.7,11,North West,D,Direct electric,Fair,Double,False,False,289670
+UKH000694,Detached,168.6,14,London,C,Gas boiler,Good,Double,False,False,1206224
+UKH000695,Terraced,96.3,30,East of England,D,Gas boiler,Fair,Double,False,False,322269
+UKH000696,Terraced,58.2,50,Wales,B,Air-source heat pump,Excellent,Double,False,False,143177
+UKH000697,Terraced,65.3,45,South West,D,Air-source heat pump,Fair,Single,False,True,162079
+UKH000698,Detached,129.6,36,Scotland,D,Gas boiler,Good,Double,False,False,361060
+UKH000699,Flat,49.9,48,East Midlands,D,Air-source heat pump,Poor,Double,True,False,130113
+UKH000700,Detached,207.1,48,South East,E,Gas boiler,Fair,Single,False,False,1153853
+UKH000701,Detached,163.3,97,North West,G,Gas boiler,Poor,Single,False,False,361489
+UKH000702,Flat,63.2,37,South West,C,Gas boiler,Good,Double,False,True,157949
+UKH000703,Flat,36.4,4,Wales,C,Gas boiler,Fair,Triple,False,False,90838
+UKH000704,Semi-detached,130.7,91,London,E,Gas boiler,Fair,Double,False,True,936481
+UKH000705,Terraced,76.4,63,East of England,B,Air-source heat pump,Good,Double,False,False,252213
+UKH000706,Semi-detached,80.2,150,Yorkshire and the Humber,G,Gas boiler,Poor,Single,False,False,208902
+UKH000707,Semi-detached,70.4,133,South West,E,Gas boiler,Good,Double,False,False,200332
+UKH000708,Detached,181.1,118,East Midlands,E,Gas boiler,Good,Double,False,False,554139
+UKH000709,Terraced,76.3,36,South West,C,Gas boiler,Good,Double,False,True,214754
+UKH000710,Semi-detached,98.7,58,South West,D,Gas boiler,Fair,Double,False,False,225657
+UKH000711,Semi-detached,78.1,20,South East,C,Gas boiler,Fair,Double,False,True,440317
+UKH000712,Bungalow,85.8,28,South East,A,Air-source heat pump,Good,Triple,True,False,427221
+UKH000713,Semi-detached,104.7,54,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,259853
+UKH000714,Bungalow,98.3,71,Northern Ireland,F,Direct electric,Poor,Double,False,True,176888
+UKH000715,Bungalow,65.6,14,South West,B,Electric boiler,Excellent,Double,False,False,181736
+UKH000716,Semi-detached,112.8,30,East Midlands,B,Air-source heat pump,Good,Double,False,False,267845
+UKH000717,Bungalow,76.8,21,West Midlands,B,Electric boiler,Good,Double,True,True,255739
+UKH000718,Terraced,59.2,11,West Midlands,B,Gas boiler,Excellent,Double,False,True,108264
+UKH000719,Terraced,95.7,36,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,231769
+UKH000720,Flat,67.1,62,East Midlands,D,Gas boiler,Fair,Double,False,True,105699
+UKH000721,Detached,215.6,41,South East,D,Gas boiler,Fair,Double,False,False,810469
+UKH000722,Flat,70.4,25,London,B,Gas boiler,Fair,Triple,True,True,496453
+UKH000723,Semi-detached,86.4,26,South West,C,Gas boiler,Good,Double,False,False,319580
+UKH000724,Detached,176.0,74,London,G,Gas boiler,Poor,Single,False,False,2147980
+UKH000725,Semi-detached,78.7,82,West Midlands,F,Gas boiler,Fair,Single,False,True,181395
+UKH000726,Detached,138.6,72,Northern Ireland,C,Gas boiler,Good,Double,False,True,321759
+UKH000727,Semi-detached,80.4,7,North West,C,Electric boiler,Excellent,Double,False,False,196676
+UKH000728,Semi-detached,89.5,47,South East,C,Gas boiler,Excellent,Double,False,False,434309
+UKH000729,Bungalow,115.1,14,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,False,187449
+UKH000730,Terraced,66.2,150,South East,F,Direct electric,Poor,Double,True,False,256957
+UKH000731,Flat,60.0,70,North East,C,Air-source heat pump,Good,Double,False,False,95059
+UKH000732,Bungalow,124.4,15,South East,D,Gas boiler,Fair,Double,False,False,604171
+UKH000733,Flat,61.7,42,Wales,C,Gas boiler,Fair,Double,True,False,153684
+UKH000734,Bungalow,75.8,21,North West,D,Direct electric,Fair,Double,False,False,87719
+UKH000735,Detached,137.9,10,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,False,247822
+UKH000736,Flat,44.0,20,East of England,B,Air-source heat pump,Excellent,Double,False,False,137658
+UKH000737,Detached,148.7,9,London,C,Gas boiler,Fair,Double,False,True,1347954
+UKH000738,Terraced,49.0,56,North West,C,Gas boiler,Good,Double,False,True,108988
+UKH000739,Terraced,86.7,8,East Midlands,B,Electric boiler,Good,Double,False,False,126094
+UKH000740,Flat,66.3,40,South West,C,Gas boiler,Good,Double,False,False,193516
+UKH000741,Semi-detached,84.7,18,West Midlands,D,Direct electric,Fair,Double,False,False,179957
+UKH000742,Terraced,66.4,1,East of England,A,Gas boiler,Good,Triple,True,True,203198
+UKH000743,Flat,52.6,66,Yorkshire and the Humber,C,Gas boiler,Excellent,Double,False,False,106348
+UKH000744,Terraced,86.3,74,North West,C,Gas boiler,Good,Double,False,False,143859
+UKH000745,Semi-detached,68.9,75,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,199970
+UKH000746,Semi-detached,109.4,26,London,C,Gas boiler,Good,Double,False,False,789207
+UKH000747,Semi-detached,102.8,38,London,C,Gas boiler,Good,Double,False,False,943559
+UKH000748,Terraced,93.6,52,South West,E,Gas boiler,Poor,Double,True,False,370021
+UKH000749,Semi-detached,102.7,124,East Midlands,G,Direct electric,Poor,Single,True,False,249622
+UKH000750,Semi-detached,109.4,59,North West,C,Gas boiler,Fair,Double,False,True,280357
+UKH000751,Semi-detached,105.8,38,East of England,B,Air-source heat pump,Good,Double,False,False,311471
+UKH000752,Semi-detached,81.3,11,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,True,161908
+UKH000753,Semi-detached,75.2,50,North West,D,Gas boiler,Fair,Double,False,False,191272
+UKH000754,Flat,36.4,8,South East,B,Gas boiler,Good,Double,False,True,92179
+UKH000755,Semi-detached,100.4,44,London,D,Gas boiler,Poor,Double,False,False,511216
+UKH000756,Semi-detached,90.3,10,Scotland,C,Direct electric,Excellent,Double,False,False,305375
+UKH000757,Semi-detached,90.7,27,East of England,B,Gas boiler,Good,Double,False,False,384444
+UKH000758,Bungalow,68.1,27,East of England,B,Air-source heat pump,Good,Triple,False,True,254319
+UKH000759,Flat,43.4,73,East Midlands,C,Gas boiler,Good,Double,False,True,100914
+UKH000760,Detached,187.6,46,Scotland,B,Gas boiler,Good,Triple,False,True,374710
+UKH000761,Flat,55.2,43,South East,F,Gas boiler,Poor,Single,False,True,232906
+UKH000762,Semi-detached,78.3,150,Yorkshire and the Humber,E,Gas boiler,Poor,Double,True,False,179619
+UKH000763,Detached,176.9,105,Yorkshire and the Humber,F,Gas boiler,Poor,Double,False,True,446592
+UKH000764,Bungalow,70.5,31,South West,C,Gas boiler,Good,Double,False,False,221665
+UKH000765,Flat,51.3,44,South East,B,Gas boiler,Excellent,Double,True,False,165276
+UKH000766,Terraced,61.2,24,East Midlands,C,Direct electric,Excellent,Double,False,False,138796
+UKH000767,Terraced,45.9,78,Yorkshire and the Humber,D,Air-source heat pump,Fair,Double,False,False,107380
+UKH000768,Detached,205.2,17,London,F,Gas boiler,Poor,Single,False,False,2274072
+UKH000769,Detached,200.2,36,North West,C,Electric boiler,Fair,Double,True,True,521316
+UKH000770,Semi-detached,92.1,3,South East,A,Gas boiler,Excellent,Double,False,True,314567
+UKH000771,Flat,55.7,28,Scotland,E,Gas boiler,Poor,Double,False,False,130033
+UKH000772,Flat,60.7,43,London,D,Gas boiler,Fair,Double,False,False,324580
+UKH000773,Terraced,78.2,56,Northern Ireland,B,Air-source heat pump,Good,Double,True,False,112432
+UKH000774,Terraced,102.2,7,Wales,A,Gas boiler,Excellent,Triple,False,True,276669
+UKH000775,Terraced,30.0,40,Scotland,D,Gas boiler,Good,Single,False,True,61094
+UKH000776,Detached,153.7,26,Scotland,D,Air-source heat pump,Poor,Double,False,True,467857
+UKH000777,Flat,65.1,20,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,True,153274
+UKH000778,Flat,52.2,25,North West,C,Gas boiler,Excellent,Double,False,False,224964
+UKH000779,Semi-detached,30.0,61,South East,C,Gas boiler,Good,Double,False,False,142067
+UKH000780,Semi-detached,50.5,18,Northern Ireland,C,Gas boiler,Good,Double,False,True,121948
+UKH000781,Bungalow,103.5,24,South East,B,Electric boiler,Excellent,Triple,False,False,655248
+UKH000782,Semi-detached,66.0,23,East Midlands,D,Gas boiler,Fair,Double,False,False,157388
+UKH000783,Terraced,111.8,10,South West,A,Gas boiler,Excellent,Triple,False,True,324674
+UKH000784,Semi-detached,134.4,76,East Midlands,D,Gas boiler,Fair,Triple,False,False,319415
+UKH000785,Terraced,66.7,50,East Midlands,D,Gas boiler,Fair,Double,False,False,170167
+UKH000786,Detached,145.5,36,North West,D,Gas boiler,Fair,Double,False,False,431785
+UKH000787,Detached,105.5,150,West Midlands,F,Gas boiler,Fair,Single,False,False,299278
+UKH000788,Flat,56.4,89,South West,F,Gas boiler,Fair,Single,False,False,228715
+UKH000789,Bungalow,56.4,25,East of England,B,Gas boiler,Excellent,Double,False,True,210938
+UKH000790,Terraced,83.1,29,East of England,C,Gas boiler,Good,Double,False,False,290255
+UKH000791,Semi-detached,76.1,25,East Midlands,B,Gas boiler,Good,Triple,False,False,175152
+UKH000792,Semi-detached,54.2,43,East Midlands,C,Gas boiler,Good,Double,False,True,110797
+UKH000793,Detached,133.3,49,East of England,E,Gas boiler,Poor,Double,False,False,487600
+UKH000794,Detached,198.4,44,East of England,C,Gas boiler,Fair,Triple,False,False,735327
+UKH000795,Bungalow,110.9,19,South East,A,Gas boiler,Good,Double,True,True,506534
+UKH000796,Semi-detached,80.3,29,North East,C,Gas boiler,Fair,Double,False,False,193377
+UKH000797,Terraced,79.0,42,South West,D,Air-source heat pump,Poor,Double,False,True,216213
+UKH000798,Flat,74.3,22,Scotland,D,Gas boiler,Fair,Double,False,False,149877
+UKH000799,Terraced,88.7,61,London,C,Gas boiler,Excellent,Double,False,False,597963
+UKH000800,Semi-detached,95.4,56,South West,E,Gas boiler,Poor,Double,False,False,232174
+UKH000801,Semi-detached,94.6,62,East of England,D,Gas boiler,Fair,Double,False,False,310003
+UKH000802,Detached,166.0,12,Wales,B,Gas boiler,Excellent,Double,False,False,330134
+UKH000803,Flat,64.3,6,East of England,B,Gas boiler,Excellent,Triple,False,True,163016
+UKH000804,Flat,51.7,9,South East,A,Air-source heat pump,Good,Triple,True,True,194813
+UKH000805,Bungalow,121.2,29,North West,D,Gas boiler,Fair,Double,False,True,304930
+UKH000806,Semi-detached,72.4,17,East of England,B,Air-source heat pump,Good,Double,False,False,246685
+UKH000807,Flat,62.4,81,London,F,Gas boiler,Fair,Single,False,True,285239
+UKH000808,Flat,56.4,84,West Midlands,B,Air-source heat pump,Good,Double,False,True,149455
+UKH000809,Bungalow,118.4,93,South East,F,Gas boiler,Fair,Single,True,False,563663
+UKH000810,Bungalow,119.2,17,East Midlands,B,Air-source heat pump,Fair,Triple,False,False,314704
+UKH000811,Terraced,119.0,50,East Midlands,D,Direct electric,Fair,Double,False,True,270494
+UKH000812,Terraced,94.8,18,West Midlands,C,Gas boiler,Fair,Triple,False,False,214382
+UKH000813,Terraced,78.8,57,East Midlands,D,Gas boiler,Fair,Double,True,True,230902
+UKH000814,Semi-detached,35.5,30,South East,D,Gas boiler,Fair,Double,False,False,162284
+UKH000815,Bungalow,82.3,25,North East,C,Gas boiler,Good,Double,False,False,149217
+UKH000816,Detached,158.4,19,South East,C,Gas boiler,Excellent,Double,False,False,615928
+UKH000817,Semi-detached,68.1,80,London,E,Gas boiler,Good,Single,False,True,422870
+UKH000818,Bungalow,45.8,88,London,F,Gas boiler,Poor,Double,False,False,362747
+UKH000819,Detached,166.6,37,London,B,Gas boiler,Excellent,Triple,False,True,1431595
+UKH000820,Detached,171.4,113,London,G,Direct electric,Poor,Single,False,False,1061229
+UKH000821,Flat,37.7,81,West Midlands,D,Direct electric,Fair,Triple,False,False,103027
+UKH000822,Semi-detached,117.8,93,London,G,Gas boiler,Poor,Single,False,True,824719
+UKH000823,Detached,98.0,61,North West,E,Gas boiler,Poor,Double,True,False,244940
+UKH000824,Terraced,81.0,51,West Midlands,G,Direct electric,Poor,Single,False,False,182972
+UKH000825,Semi-detached,89.3,34,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,226170
+UKH000826,Detached,160.8,5,North East,B,Gas boiler,Good,Double,False,False,273606
+UKH000827,Terraced,93.2,132,East of England,E,Direct electric,Good,Single,True,True,284774
+UKH000828,Bungalow,95.4,115,Yorkshire and the Humber,F,Gas boiler,Poor,Double,False,True,184198
+UKH000829,Bungalow,62.0,24,North West,C,Direct electric,Good,Double,False,True,129552
+UKH000830,Terraced,68.1,15,South West,B,Gas boiler,Excellent,Double,False,False,171816
+UKH000831,Detached,110.8,26,South West,A,Gas boiler,Excellent,Double,False,True,455345
+UKH000832,Terraced,94.6,69,East Midlands,D,Air-source heat pump,Fair,Double,False,False,257133
+UKH000833,Semi-detached,122.5,18,East of England,B,Gas boiler,Excellent,Double,False,True,476813
+UKH000834,Semi-detached,127.3,98,Yorkshire and the Humber,D,Gas boiler,Good,Double,True,True,276436
+UKH000835,Detached,167.3,17,Yorkshire and the Humber,B,Direct electric,Excellent,Double,False,False,433229
+UKH000836,Semi-detached,92.7,19,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,True,126705
+UKH000837,Detached,185.9,83,South East,F,Air-source heat pump,Poor,Single,False,True,804566
+UKH000838,Detached,67.8,146,Scotland,F,Direct electric,Fair,Double,False,False,248028
+UKH000839,Bungalow,77.6,21,East Midlands,C,Gas boiler,Good,Double,False,False,233955
+UKH000840,Bungalow,85.5,7,East of England,A,Gas boiler,Good,Triple,False,False,345942
+UKH000841,Detached,75.4,16,East Midlands,B,Air-source heat pump,Good,Double,False,True,162119
+UKH000842,Terraced,81.6,58,East Midlands,D,Gas boiler,Fair,Double,False,False,206272
+UKH000843,Flat,53.1,26,East of England,E,Electric boiler,Poor,Double,True,True,131250
+UKH000844,Semi-detached,107.1,43,London,E,Gas boiler,Poor,Double,True,True,825898
+UKH000845,Semi-detached,95.7,30,Wales,B,Gas boiler,Fair,Triple,True,True,226098
+UKH000846,Flat,33.3,87,Northern Ireland,F,Air-source heat pump,Poor,Double,False,False,70182
+UKH000847,Flat,65.3,48,South East,D,Direct electric,Poor,Triple,False,False,239904
+UKH000848,Terraced,65.1,48,Wales,F,Gas boiler,Poor,Single,False,False,130638
+UKH000849,Terraced,73.6,25,Scotland,D,Gas boiler,Fair,Double,False,False,279735
+UKH000850,Detached,97.6,5,North West,B,Electric boiler,Excellent,Double,False,False,237938
+UKH000851,Terraced,81.9,17,East Midlands,B,Gas boiler,Good,Triple,False,False,147555
+UKH000852,Semi-detached,80.6,30,South West,B,Gas boiler,Good,Triple,False,True,357182
+UKH000853,Semi-detached,64.2,48,West Midlands,C,Direct electric,Good,Triple,False,False,247232
+UKH000854,Semi-detached,81.2,10,East of England,B,Direct electric,Excellent,Double,False,True,306305
+UKH000855,Semi-detached,77.0,15,South East,C,Gas boiler,Good,Double,False,False,453856
+UKH000856,Semi-detached,102.4,29,North West,B,Gas boiler,Good,Triple,False,False,363979
+UKH000857,Semi-detached,99.5,66,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,False,True,268173
+UKH000858,Terraced,102.6,72,Scotland,E,Gas boiler,Fair,Double,False,False,268262
+UKH000859,Detached,63.0,3,West Midlands,B,Gas boiler,Good,Double,False,True,181327
+UKH000860,Semi-detached,71.5,20,North West,C,Electric boiler,Good,Double,False,False,184957
+UKH000861,Semi-detached,107.6,30,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,181986
+UKH000862,Detached,110.7,21,West Midlands,B,Gas boiler,Good,Triple,False,True,311981
+UKH000863,Detached,145.8,102,Yorkshire and the Humber,G,Gas boiler,Poor,Double,False,False,370067
+UKH000864,Terraced,84.6,44,North West,D,Gas boiler,Fair,Double,False,False,172414
+UKH000865,Terraced,83.7,2,North West,A,Air-source heat pump,Good,Double,False,False,245875
+UKH000866,Detached,165.6,94,Northern Ireland,D,Gas boiler,Fair,Double,False,True,309229
+UKH000867,Semi-detached,102.7,107,South East,E,Gas boiler,Fair,Double,False,True,393383
+UKH000868,Terraced,30.5,26,South West,C,Gas boiler,Fair,Triple,False,False,118874
+UKH000869,Flat,72.7,21,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,True,126214
+UKH000870,Terraced,54.4,53,South East,B,Air-source heat pump,Excellent,Double,False,False,209356
+UKH000871,Bungalow,93.9,38,Scotland,C,Gas boiler,Fair,Triple,True,True,202374
+UKH000872,Detached,159.7,11,South East,A,Air-source heat pump,Good,Double,False,True,886953
+UKH000873,Semi-detached,96.3,55,North East,E,Gas boiler,Poor,Double,False,False,205079
+UKH000874,Semi-detached,89.8,31,West Midlands,C,Gas boiler,Good,Double,False,True,281161
+UKH000875,Flat,37.0,105,Wales,F,Gas boiler,Fair,Single,False,False,73043
+UKH000876,Bungalow,132.8,65,Yorkshire and the Humber,C,Electric boiler,Excellent,Double,True,False,289620
+UKH000877,Semi-detached,91.8,43,South West,C,Direct electric,Good,Double,False,False,504806
+UKH000878,Semi-detached,89.3,22,South West,D,Gas boiler,Poor,Triple,False,False,245513
+UKH000879,Terraced,81.3,25,South East,D,Direct electric,Fair,Double,False,True,321228
+UKH000880,Detached,186.1,9,South West,C,Gas boiler,Good,Double,False,False,861339
+UKH000881,Detached,197.0,58,West Midlands,E,Gas boiler,Excellent,Single,False,False,489415
+UKH000882,Flat,38.2,24,Northern Ireland,C,Direct electric,Good,Double,True,True,92589
+UKH000883,Flat,53.8,32,Scotland,B,Gas boiler,Excellent,Triple,False,True,121043
+UKH000884,Semi-detached,144.0,58,London,F,Direct electric,Poor,Double,False,False,1077948
+UKH000885,Terraced,88.0,9,West Midlands,B,Gas boiler,Fair,Triple,False,True,175328
+UKH000886,Detached,125.6,29,North West,B,Air-source heat pump,Good,Double,False,True,380615
+UKH000887,Semi-detached,83.3,58,Yorkshire and the Humber,F,Gas boiler,Poor,Single,False,False,149941
+UKH000888,Terraced,97.6,30,East Midlands,D,Gas boiler,Fair,Double,False,False,167714
+UKH000889,Terraced,87.1,87,Northern Ireland,F,Gas boiler,Fair,Single,True,False,129448
+UKH000890,Terraced,75.6,14,East of England,C,Gas boiler,Good,Double,False,False,320083
+UKH000891,Detached,112.7,49,West Midlands,C,Gas boiler,Fair,Double,False,True,368875
+UKH000892,Bungalow,77.1,33,East of England,C,Air-source heat pump,Fair,Double,False,False,346533
+UKH000893,Flat,74.6,28,North East,B,Gas boiler,Good,Double,False,True,117647
+UKH000894,Detached,169.3,88,South West,F,Gas boiler,Poor,Single,False,True,803602
+UKH000895,Semi-detached,101.8,17,London,B,Gas boiler,Excellent,Triple,False,False,805223
+UKH000896,Bungalow,61.7,24,South East,B,Direct electric,Excellent,Double,False,True,398916
+UKH000897,Detached,189.9,10,Wales,C,Gas boiler,Fair,Triple,True,False,372694
+UKH000898,Flat,57.5,34,East of England,D,Direct electric,Fair,Double,False,True,205598
+UKH000899,Bungalow,89.7,59,Yorkshire and the Humber,C,Gas boiler,Excellent,Double,True,True,127075
+UKH000900,Terraced,99.7,53,West Midlands,D,Air-source heat pump,Good,Single,False,False,285720
+UKH000901,Bungalow,95.4,35,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,True,175833
+UKH000902,Detached,223.3,89,London,D,Direct electric,Good,Triple,False,False,2390004
+UKH000903,Terraced,91.7,34,South East,B,Gas boiler,Excellent,Double,False,True,322049
+UKH000904,Detached,144.2,8,London,A,Air-source heat pump,Good,Triple,False,True,1222986
+UKH000905,Terraced,76.5,52,East of England,D,Gas boiler,Fair,Double,False,False,265569
+UKH000906,Flat,72.6,15,Northern Ireland,C,Gas boiler,Fair,Double,True,True,144831
+UKH000907,Detached,160.4,3,Yorkshire and the Humber,C,Gas boiler,Fair,Double,False,False,420293
+UKH000908,Flat,55.7,19,South East,C,Direct electric,Fair,Triple,False,True,188098
+UKH000909,Terraced,91.2,15,North West,C,Direct electric,Excellent,Double,False,False,211871
+UKH000910,Semi-detached,49.8,13,East of England,C,Electric boiler,Good,Double,False,True,205138
+UKH000911,Detached,183.4,48,West Midlands,D,Gas boiler,Fair,Single,True,True,570792
+UKH000912,Semi-detached,131.6,32,South West,C,Gas boiler,Excellent,Double,False,True,427540
+UKH000913,Flat,99.3,51,West Midlands,C,Gas boiler,Good,Single,True,False,117333
+UKH000914,Detached,202.2,72,South East,C,Air-source heat pump,Fair,Double,False,True,1036954
+UKH000915,Detached,119.7,71,North West,D,Gas boiler,Good,Triple,False,False,222975
+UKH000916,Detached,183.9,109,East of England,D,Gas boiler,Good,Double,False,False,745992
+UKH000917,Semi-detached,96.8,26,London,C,Air-source heat pump,Poor,Double,False,True,757594
+UKH000918,Terraced,81.8,70,East of England,C,Air-source heat pump,Good,Double,False,True,190839
+UKH000919,Detached,140.5,11,North West,B,Air-source heat pump,Good,Double,False,True,408784
+UKH000920,Flat,60.6,54,London,E,Gas boiler,Fair,Double,False,False,345461
+UKH000921,Flat,56.0,12,East of England,C,Direct electric,Good,Triple,False,False,145114
+UKH000922,Detached,105.3,55,Yorkshire and the Humber,D,Gas boiler,Good,Single,False,True,163535
+UKH000923,Flat,46.2,141,Yorkshire and the Humber,G,Gas boiler,Poor,Single,False,False,68818
+UKH000924,Terraced,67.0,43,North West,D,Gas boiler,Fair,Double,False,False,143733
+UKH000925,Detached,136.3,78,West Midlands,F,Gas boiler,Poor,Single,True,True,419309
+UKH000926,Semi-detached,96.2,9,Scotland,B,Gas boiler,Good,Double,False,True,265253
+UKH000927,Terraced,105.4,28,West Midlands,B,Gas boiler,Excellent,Triple,False,True,185617
+UKH000928,Terraced,80.1,66,Wales,D,Gas boiler,Fair,Double,True,False,155798
+UKH000929,Terraced,58.8,48,North East,C,Gas boiler,Fair,Double,False,True,86770
+UKH000930,Detached,116.0,24,Scotland,B,Gas boiler,Excellent,Double,True,False,346522
+UKH000931,Flat,55.5,139,East Midlands,D,Gas boiler,Good,Double,False,False,162376
+UKH000932,Flat,58.7,59,North West,C,Air-source heat pump,Fair,Double,False,True,137039
+UKH000933,Flat,87.9,65,South East,D,Gas boiler,Fair,Double,False,True,280685
+UKH000934,Flat,44.0,29,North West,C,Electric boiler,Good,Double,True,False,79126
+UKH000935,Semi-detached,112.0,10,Scotland,A,Air-source heat pump,Excellent,Double,False,True,345506
+UKH000936,Terraced,96.6,38,London,B,Air-source heat pump,Good,Double,False,False,461042
+UKH000937,Detached,130.5,17,Yorkshire and the Humber,B,Gas boiler,Good,Double,True,True,236858
+UKH000938,Detached,83.6,45,North West,B,Gas boiler,Excellent,Double,False,False,232373
+UKH000939,Terraced,92.2,51,Wales,D,Gas boiler,Fair,Double,False,True,183239
+UKH000940,Terraced,95.1,133,East Midlands,F,Gas boiler,Poor,Double,False,True,198873
+UKH000941,Semi-detached,76.1,33,South East,B,Gas boiler,Good,Double,False,True,282462
+UKH000942,Semi-detached,86.8,55,North West,C,Gas boiler,Good,Double,False,False,174491
+UKH000943,Flat,47.1,21,South East,C,Gas boiler,Good,Double,False,False,209582
+UKH000944,Flat,86.1,36,East Midlands,B,Air-source heat pump,Good,Double,True,True,258658
+UKH000945,Terraced,72.2,34,South East,C,Direct electric,Good,Double,False,False,239219
+UKH000946,Terraced,69.4,32,Yorkshire and the Humber,A,Gas boiler,Excellent,Triple,True,True,162168
+UKH000947,Bungalow,119.1,11,South East,B,Air-source heat pump,Good,Double,False,False,670329
+UKH000948,Detached,110.4,44,Scotland,D,Gas boiler,Fair,Double,False,False,378477
+UKH000949,Flat,30.0,16,East of England,C,Gas boiler,Good,Double,False,True,98375
+UKH000950,Flat,66.4,87,West Midlands,F,Gas boiler,Fair,Single,False,True,100200
+UKH000951,Bungalow,87.0,25,West Midlands,B,Air-source heat pump,Good,Double,False,True,177397
+UKH000952,Semi-detached,121.9,57,South East,E,Gas boiler,Fair,Double,False,False,477705
+UKH000953,Semi-detached,118.2,16,London,C,Gas boiler,Good,Double,False,False,1401536
+UKH000954,Terraced,110.0,35,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,184526
+UKH000955,Semi-detached,79.1,55,South East,C,Gas boiler,Good,Double,False,False,409295
+UKH000956,Bungalow,95.5,63,Scotland,D,Gas boiler,Fair,Double,False,True,174904
+UKH000957,Semi-detached,89.9,93,Yorkshire and the Humber,E,Air-source heat pump,Poor,Double,False,True,209565
+UKH000958,Detached,188.8,26,Wales,D,Gas boiler,Fair,Double,False,False,486742
+UKH000959,Terraced,83.4,12,South East,C,Direct electric,Excellent,Double,False,True,238297
+UKH000960,Bungalow,100.8,40,East Midlands,C,Gas boiler,Good,Double,False,False,170420
+UKH000961,Bungalow,110.0,60,South East,F,Gas boiler,Fair,Single,False,True,461453
+UKH000962,Detached,189.1,34,East Midlands,C,Direct electric,Good,Double,False,False,489386
+UKH000963,Detached,222.8,39,East of England,D,Gas boiler,Good,Triple,False,False,1027610
+UKH000964,Semi-detached,110.4,30,East Midlands,D,Direct electric,Fair,Double,False,False,207305
+UKH000965,Terraced,74.5,65,London,E,Gas boiler,Fair,Double,False,False,326308
+UKH000966,Semi-detached,102.9,61,Scotland,D,Direct electric,Fair,Single,True,False,305549
+UKH000967,Detached,150.9,39,West Midlands,D,Gas boiler,Good,Double,False,False,496855
+UKH000968,Terraced,63.1,96,London,E,Gas boiler,Fair,Double,True,False,522512
+UKH000969,Semi-detached,111.9,18,Yorkshire and the Humber,C,Direct electric,Good,Triple,False,False,219255
+UKH000970,Terraced,61.5,36,North West,B,Direct electric,Good,Triple,True,False,97897
+UKH000971,Detached,81.0,35,London,D,Air-source heat pump,Poor,Double,False,False,529658
+UKH000972,Terraced,77.2,58,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,181880
+UKH000973,Terraced,35.7,29,Scotland,A,Gas boiler,Excellent,Triple,False,True,102894
+UKH000974,Flat,88.3,70,North East,F,Gas boiler,Poor,Double,False,True,198561
+UKH000975,Flat,75.2,37,South East,C,Gas boiler,Good,Double,False,True,320747
+UKH000976,Detached,173.4,9,South East,B,Gas boiler,Excellent,Double,False,False,662769
+UKH000977,Semi-detached,86.1,30,South East,D,Electric boiler,Fair,Double,False,True,341905
+UKH000978,Flat,61.7,25,Scotland,C,Electric boiler,Excellent,Double,False,False,124624
+UKH000979,Terraced,56.6,31,South West,A,Gas boiler,Good,Double,True,True,177090
+UKH000980,Detached,137.8,28,Scotland,B,Gas boiler,Good,Double,False,True,375816
+UKH000981,Semi-detached,78.6,17,West Midlands,C,Gas boiler,Fair,Double,False,True,194963
+UKH000982,Terraced,67.9,27,South East,C,Gas boiler,Excellent,Double,False,False,277382
+UKH000983,Semi-detached,124.8,21,North West,C,Gas boiler,Fair,Double,True,False,264976
+UKH000984,Flat,73.2,39,London,D,Direct electric,Fair,Triple,False,False,440123
+UKH000985,Semi-detached,82.0,16,North West,A,Gas boiler,Excellent,Double,False,False,265201
+UKH000986,Terraced,127.9,40,London,C,Direct electric,Good,Double,False,False,912331
+UKH000987,Flat,30.0,15,North East,B,Gas boiler,Excellent,Triple,False,True,37635
+UKH000988,Semi-detached,134.2,24,Scotland,D,Gas boiler,Good,Double,False,False,226888
+UKH000989,Semi-detached,86.2,22,North West,B,Air-source heat pump,Good,Double,False,False,210882
+UKH000990,Semi-detached,60.1,61,East of England,C,Gas boiler,Fair,Double,True,True,217962
+UKH000991,Semi-detached,86.1,72,North West,D,Gas boiler,Fair,Double,False,True,222038
+UKH000992,Bungalow,105.5,18,North West,D,Gas boiler,Good,Double,False,False,162171
+UKH000993,Flat,81.2,61,North West,D,Gas boiler,Fair,Double,False,False,137097
+UKH000994,Flat,62.0,30,West Midlands,C,Air-source heat pump,Good,Double,False,False,124868
+UKH000995,Detached,123.8,6,Scotland,B,Air-source heat pump,Good,Triple,False,True,288976
+UKH000996,Bungalow,133.7,28,West Midlands,A,Gas boiler,Excellent,Triple,True,True,216666
+UKH000997,Detached,115.2,20,Scotland,A,Gas boiler,Excellent,Triple,False,False,347184
+UKH000998,Detached,127.5,50,West Midlands,C,Air-source heat pump,Good,Single,False,True,341617
+UKH000999,Terraced,86.7,11,West Midlands,B,Gas boiler,Excellent,Triple,False,False,185087
+UKH001000,Terraced,87.4,74,East Midlands,D,Gas boiler,Fair,Triple,False,False,142084
+UKH001001,Detached,106.5,29,East of England,C,Electric boiler,Excellent,Double,False,True,581528
+UKH001002,Flat,86.4,32,East Midlands,C,Electric boiler,Good,Double,False,False,167544
+UKH001003,Terraced,92.3,55,Northern Ireland,D,Gas boiler,Fair,Double,False,True,172367
+UKH001004,Semi-detached,95.0,40,North West,B,Gas boiler,Excellent,Double,False,True,251138
+UKH001005,Flat,48.2,49,East Midlands,B,Air-source heat pump,Good,Double,True,False,156428
+UKH001006,Flat,42.7,8,Scotland,C,Gas boiler,Good,Double,False,False,97893
+UKH001007,Bungalow,94.4,49,Yorkshire and the Humber,D,Direct electric,Fair,Double,False,True,216704
+UKH001008,Detached,213.0,12,Scotland,C,Electric boiler,Fair,Triple,False,True,532049
+UKH001009,Bungalow,82.9,62,North East,D,Air-source heat pump,Poor,Triple,False,False,99202
+UKH001010,Semi-detached,134.4,22,Wales,B,Gas boiler,Excellent,Double,False,True,279862
+UKH001011,Semi-detached,115.4,40,North West,C,Electric boiler,Excellent,Double,False,False,273356
+UKH001012,Detached,115.9,91,North West,E,Gas boiler,Good,Single,False,True,316499
+UKH001013,Detached,152.7,65,Northern Ireland,C,Gas boiler,Good,Double,False,True,296106
+UKH001014,Flat,78.1,24,Yorkshire and the Humber,B,Air-source heat pump,Fair,Double,False,True,169566
+UKH001015,Flat,58.1,38,London,C,Gas boiler,Excellent,Double,False,True,302358
+UKH001016,Semi-detached,85.8,59,East of England,C,Gas boiler,Fair,Double,True,True,301974
+UKH001017,Flat,76.6,43,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,True,246314
+UKH001018,Terraced,72.5,55,London,C,Air-source heat pump,Excellent,Single,False,False,521284
+UKH001019,Terraced,59.0,15,East Midlands,B,Gas boiler,Good,Triple,False,False,115554
+UKH001020,Semi-detached,67.9,70,South East,F,Electric boiler,Fair,Single,False,False,304909
+UKH001021,Flat,92.8,102,North West,D,Gas boiler,Good,Double,False,True,161701
+UKH001022,Semi-detached,128.6,25,South East,B,Air-source heat pump,Good,Double,False,True,696978
+UKH001023,Terraced,84.8,71,Yorkshire and the Humber,D,Gas boiler,Fair,Double,True,True,140472
+UKH001024,Detached,145.2,36,East of England,C,Gas boiler,Good,Double,False,True,931908
+UKH001025,Semi-detached,86.1,42,South East,C,Gas boiler,Good,Double,False,False,284188
+UKH001026,Detached,59.7,35,Scotland,C,Gas boiler,Good,Triple,False,False,178953
+UKH001027,Bungalow,30.0,15,North West,B,Gas boiler,Good,Triple,False,False,62882
+UKH001028,Flat,58.8,10,East Midlands,A,Gas boiler,Excellent,Triple,False,False,214646
+UKH001029,Terraced,86.0,87,Scotland,C,Air-source heat pump,Fair,Double,True,True,166610
+UKH001030,Terraced,67.6,23,East Midlands,B,Air-source heat pump,Good,Double,False,False,155256
+UKH001031,Bungalow,52.9,51,East Midlands,E,Direct electric,Fair,Single,False,True,84291
+UKH001032,Detached,147.4,15,North West,D,Direct electric,Good,Double,False,False,467035
+UKH001033,Semi-detached,73.2,39,West Midlands,E,Gas boiler,Poor,Triple,False,False,233543
+UKH001034,Flat,62.1,27,West Midlands,C,Air-source heat pump,Fair,Double,False,False,125401
+UKH001035,Flat,39.7,35,North East,B,Gas boiler,Excellent,Double,False,False,49266
+UKH001036,Semi-detached,72.0,94,Yorkshire and the Humber,E,Gas boiler,Fair,Double,False,False,144697
+UKH001037,Flat,62.6,5,North West,A,Air-source heat pump,Good,Double,True,True,129289
+UKH001038,Terraced,84.5,37,West Midlands,C,Direct electric,Good,Double,False,True,197356
+UKH001039,Terraced,85.2,64,South West,D,Gas boiler,Fair,Double,False,False,266761
+UKH001040,Semi-detached,96.6,150,South East,F,Gas boiler,Poor,Double,False,False,431488
+UKH001041,Semi-detached,82.0,43,Scotland,C,Air-source heat pump,Poor,Triple,True,False,201375
+UKH001042,Flat,55.1,150,South East,G,Gas boiler,Poor,Single,False,False,146259
+UKH001043,Terraced,59.4,42,East of England,D,Gas boiler,Fair,Double,False,False,199167
+UKH001044,Detached,152.1,36,East of England,B,Gas boiler,Excellent,Double,False,True,779109
+UKH001045,Terraced,112.2,60,North East,C,Gas boiler,Good,Triple,False,False,200713
+UKH001046,Detached,154.4,2,West Midlands,B,Gas boiler,Good,Double,False,False,487239
+UKH001047,Semi-detached,81.2,12,Yorkshire and the Humber,C,Gas boiler,Fair,Double,False,True,182691
+UKH001048,Detached,95.8,31,North West,D,Air-source heat pump,Fair,Single,False,False,203051
+UKH001049,Flat,69.1,31,West Midlands,A,Air-source heat pump,Excellent,Double,False,False,163688
+UKH001050,Semi-detached,131.1,48,Scotland,C,Gas boiler,Excellent,Triple,False,False,279311
+UKH001051,Semi-detached,95.0,11,East of England,C,Gas boiler,Fair,Double,False,True,448913
+UKH001052,Detached,147.6,100,North East,F,Gas boiler,Fair,Single,False,False,354047
+UKH001053,Semi-detached,94.8,15,Scotland,A,Air-source heat pump,Good,Triple,False,True,168509
+UKH001054,Detached,102.5,47,London,C,Gas boiler,Good,Double,False,False,793191
+UKH001055,Terraced,92.7,8,South East,B,Electric boiler,Excellent,Triple,False,True,283999
+UKH001056,Semi-detached,38.9,21,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,False,100979
+UKH001057,Terraced,73.5,15,South East,C,Gas boiler,Fair,Double,False,True,374321
+UKH001058,Bungalow,89.8,57,South East,D,Gas boiler,Fair,Double,False,False,371663
+UKH001059,Terraced,51.3,36,London,C,Gas boiler,Fair,Triple,False,False,353107
+UKH001060,Terraced,47.0,39,West Midlands,B,Gas boiler,Good,Double,False,True,105616
+UKH001061,Flat,54.9,30,London,D,Gas boiler,Fair,Double,False,False,438910
+UKH001062,Detached,184.9,38,South West,C,Gas boiler,Fair,Double,False,True,625452
+UKH001063,Semi-detached,99.5,42,East of England,D,Gas boiler,Fair,Double,False,False,378630
+UKH001064,Bungalow,93.2,10,West Midlands,B,Gas boiler,Fair,Double,False,True,288494
+UKH001065,Semi-detached,152.2,39,Northern Ireland,A,Gas boiler,Good,Triple,True,False,251750
+UKH001066,Semi-detached,87.4,43,East of England,C,Gas boiler,Good,Double,False,True,244247
+UKH001067,Detached,169.1,27,North West,B,Gas boiler,Excellent,Double,False,False,529521
+UKH001068,Detached,152.5,50,West Midlands,D,Gas boiler,Fair,Double,False,False,540356
+UKH001069,Detached,188.9,26,West Midlands,D,Electric boiler,Fair,Double,False,False,512951
+UKH001070,Flat,44.3,24,West Midlands,B,Gas boiler,Good,Double,True,False,67557
+UKH001071,Terraced,58.6,27,South West,D,Gas boiler,Good,Single,False,True,174560
+UKH001072,Bungalow,101.8,22,London,C,Gas boiler,Good,Double,False,False,954532
+UKH001073,Semi-detached,79.4,62,North West,E,Gas boiler,Fair,Single,True,False,151563
+UKH001074,Bungalow,101.3,18,Yorkshire and the Humber,B,Air-source heat pump,Fair,Double,False,False,184566
+UKH001075,Semi-detached,94.5,31,West Midlands,B,Air-source heat pump,Good,Double,True,False,204506
+UKH001076,Semi-detached,119.2,31,North West,C,Gas boiler,Good,Double,False,True,344864
+UKH001077,Flat,55.5,26,South East,C,Gas boiler,Good,Double,False,False,226427
+UKH001078,Terraced,60.5,81,North West,F,Gas boiler,Poor,Double,False,True,133299
+UKH001079,Bungalow,49.4,25,East Midlands,D,Gas boiler,Fair,Double,False,False,112291
+UKH001080,Semi-detached,101.0,62,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,144493
+UKH001081,Detached,64.4,78,East of England,E,Gas boiler,Fair,Double,False,False,249644
+UKH001082,Detached,179.2,47,South East,C,Gas boiler,Fair,Double,False,True,761873
+UKH001083,Detached,91.5,17,Scotland,C,Gas boiler,Fair,Double,False,False,265003
+UKH001084,Terraced,69.4,46,East of England,C,Gas boiler,Good,Double,False,True,211185
+UKH001085,Terraced,80.9,17,East Midlands,B,Gas boiler,Excellent,Triple,False,False,139624
+UKH001086,Flat,56.0,47,East Midlands,F,Gas boiler,Poor,Double,False,False,110995
+UKH001087,Terraced,103.4,30,Northern Ireland,C,Gas boiler,Fair,Double,True,False,251737
+UKH001088,Terraced,69.0,26,North West,B,Gas boiler,Good,Triple,False,True,151138
+UKH001089,Flat,78.1,37,South East,B,Gas boiler,Excellent,Double,False,False,228425
+UKH001090,Semi-detached,87.8,36,London,B,Direct electric,Excellent,Double,True,False,784997
+UKH001091,Terraced,89.0,64,Scotland,B,Air-source heat pump,Excellent,Double,False,False,138256
+UKH001092,Detached,174.1,58,South West,C,Direct electric,Excellent,Double,True,False,613892
+UKH001093,Semi-detached,83.9,38,North West,C,Gas boiler,Good,Double,False,False,198234
+UKH001094,Flat,52.3,12,North West,A,Gas boiler,Excellent,Triple,False,False,139310
+UKH001095,Detached,119.7,8,West Midlands,B,Air-source heat pump,Excellent,Single,False,False,473061
+UKH001096,Flat,89.9,46,London,C,Gas boiler,Excellent,Double,False,False,695927
+UKH001097,Flat,84.3,13,South East,B,Gas boiler,Excellent,Double,False,False,414012
+UKH001098,Bungalow,85.3,54,East of England,D,Gas boiler,Fair,Double,False,False,365564
+UKH001099,Bungalow,103.5,62,North East,F,Gas boiler,Poor,Double,False,False,125126
+UKH001100,Detached,133.2,20,West Midlands,B,Gas boiler,Good,Double,False,False,398572
+UKH001101,Terraced,126.3,37,South West,B,Air-source heat pump,Fair,Double,False,True,372336
+UKH001102,Detached,99.9,31,London,B,Air-source heat pump,Good,Double,False,False,617250
+UKH001103,Flat,44.4,33,North West,B,Direct electric,Good,Triple,False,True,140652
+UKH001104,Bungalow,68.2,21,Yorkshire and the Humber,C,Direct electric,Good,Double,False,False,161502
+UKH001105,Semi-detached,116.4,28,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,True,302533
+UKH001106,Semi-detached,84.1,36,Wales,D,Gas boiler,Good,Single,False,False,214317
+UKH001107,Flat,87.1,111,West Midlands,E,Gas boiler,Fair,Double,False,False,231102
+UKH001108,Semi-detached,112.7,66,East Midlands,E,Gas boiler,Poor,Double,False,True,335342
+UKH001109,Detached,173.1,3,South East,C,Direct electric,Good,Double,False,True,662075
+UKH001110,Detached,72.1,22,East of England,B,Gas boiler,Excellent,Double,False,False,425607
+UKH001111,Terraced,62.7,18,East of England,C,Direct electric,Good,Double,False,False,210166
+UKH001112,Semi-detached,122.0,36,North West,C,Gas boiler,Fair,Double,False,True,312834
+UKH001113,Semi-detached,134.1,24,North West,C,Electric boiler,Excellent,Double,False,False,409142
+UKH001114,Flat,59.2,43,East of England,E,Gas boiler,Poor,Double,False,False,163813
+UKH001115,Detached,178.9,21,East of England,C,Gas boiler,Fair,Double,False,False,733237
+UKH001116,Detached,119.6,76,South West,F,Direct electric,Poor,Double,False,False,369961
+UKH001117,Flat,75.1,25,West Midlands,B,Gas boiler,Excellent,Double,False,False,189814
+UKH001118,Flat,44.4,44,Scotland,B,Air-source heat pump,Excellent,Double,False,False,94141
+UKH001119,Terraced,72.8,30,London,B,Gas boiler,Excellent,Double,False,True,462897
+UKH001120,Terraced,61.2,8,Scotland,A,Gas boiler,Excellent,Triple,True,True,142913
+UKH001121,Detached,202.4,11,West Midlands,C,Electric boiler,Good,Double,False,True,747820
+UKH001122,Bungalow,85.7,26,Yorkshire and the Humber,C,Gas boiler,Excellent,Double,False,False,232693
+UKH001123,Flat,32.4,14,East Midlands,C,Gas boiler,Good,Double,True,False,76781
+UKH001124,Detached,65.7,14,North West,B,Gas boiler,Good,Double,False,False,195358
+UKH001125,Bungalow,115.1,11,East of England,D,Electric boiler,Poor,Triple,False,False,386025
+UKH001126,Semi-detached,87.9,59,Northern Ireland,E,Gas boiler,Fair,Double,False,False,213655
+UKH001127,Terraced,62.6,24,Scotland,E,Air-source heat pump,Poor,Single,False,False,213834
+UKH001128,Semi-detached,95.3,38,West Midlands,C,Gas boiler,Good,Double,False,False,261682
+UKH001129,Detached,153.0,83,East of England,F,Gas boiler,Fair,Single,False,False,626069
+UKH001130,Detached,144.9,13,Scotland,A,Gas boiler,Excellent,Triple,False,False,361270
+UKH001131,Terraced,90.8,34,Scotland,B,Gas boiler,Good,Triple,False,False,221592
+UKH001132,Terraced,114.2,50,West Midlands,C,Air-source heat pump,Good,Double,False,True,335952
+UKH001133,Flat,52.6,35,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,False,78968
+UKH001134,Semi-detached,112.1,2,North East,A,Gas boiler,Good,Triple,False,True,243505
+UKH001135,Flat,46.5,65,North East,D,Gas boiler,Excellent,Single,False,True,51977
+UKH001136,Semi-detached,114.8,17,North West,A,Air-source heat pump,Excellent,Double,False,False,209338
+UKH001137,Detached,100.6,3,North West,C,Electric boiler,Good,Triple,False,False,133923
+UKH001138,Semi-detached,62.1,55,North West,C,Gas boiler,Fair,Double,True,False,270338
+UKH001139,Flat,58.6,85,North East,F,Gas boiler,Fair,Single,False,True,69230
+UKH001140,Semi-detached,86.8,108,North West,E,Gas boiler,Fair,Double,False,False,205832
+UKH001141,Detached,132.5,150,Wales,G,Gas boiler,Poor,Single,False,True,394196
+UKH001142,Terraced,69.7,19,North West,C,Gas boiler,Fair,Double,False,True,162645
+UKH001143,Bungalow,94.8,66,East of England,G,Direct electric,Poor,Single,False,False,300029
+UKH001144,Bungalow,58.5,96,East of England,E,Gas boiler,Fair,Double,False,True,203939
+UKH001145,Bungalow,116.5,65,East of England,D,Gas boiler,Fair,Double,False,True,567534
+UKH001146,Detached,154.1,16,West Midlands,C,Direct electric,Good,Triple,False,False,308252
+UKH001147,Detached,200.4,55,London,D,Gas boiler,Fair,Double,False,True,2085377
+UKH001148,Flat,48.5,82,South West,G,Gas boiler,Poor,Single,False,True,172260
+UKH001149,Bungalow,98.4,71,Scotland,E,Gas boiler,Poor,Double,False,False,168695
+UKH001150,Semi-detached,120.8,18,East of England,C,Gas boiler,Good,Double,False,False,249270
+UKH001151,Semi-detached,90.4,13,South East,B,Direct electric,Excellent,Triple,False,False,536690
+UKH001152,Semi-detached,121.3,22,Scotland,D,Gas boiler,Poor,Double,False,False,221211
+UKH001153,Bungalow,126.3,46,South East,C,Air-source heat pump,Fair,Double,False,True,699289
+UKH001154,Flat,92.0,36,Northern Ireland,C,Gas boiler,Good,Double,True,False,251861
+UKH001155,Terraced,51.7,46,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,132950
+UKH001156,Semi-detached,92.8,27,Yorkshire and the Humber,D,Electric boiler,Fair,Double,False,False,235146
+UKH001157,Terraced,67.4,16,South West,B,Gas boiler,Excellent,Double,False,False,228068
+UKH001158,Terraced,112.7,39,South East,C,Gas boiler,Excellent,Double,False,True,387555
+UKH001159,Flat,51.3,16,North West,C,Electric boiler,Good,Double,False,False,155270
+UKH001160,Semi-detached,116.2,26,Wales,A,Air-source heat pump,Excellent,Double,False,True,255800
+UKH001161,Terraced,99.1,16,London,B,Gas boiler,Good,Double,False,True,412556
+UKH001162,Detached,182.4,38,London,C,Gas boiler,Good,Double,False,False,1362369
+UKH001163,Detached,170.9,21,North East,B,Direct electric,Excellent,Triple,False,True,220805
+UKH001164,Terraced,74.8,49,London,D,Gas boiler,Poor,Double,True,True,681318
+UKH001165,Detached,169.6,54,North West,E,Gas boiler,Poor,Double,False,False,645586
+UKH001166,Semi-detached,96.9,123,East of England,E,Gas boiler,Fair,Single,True,True,598890
+UKH001167,Bungalow,72.7,24,Scotland,B,Air-source heat pump,Fair,Double,False,False,149956
+UKH001168,Flat,90.6,35,West Midlands,D,Gas boiler,Fair,Double,False,False,157636
+UKH001169,Flat,82.0,33,London,B,Gas boiler,Good,Double,True,True,459468
+UKH001170,Detached,147.7,30,North West,C,Air-source heat pump,Good,Double,False,False,480382
+UKH001171,Terraced,85.2,85,Yorkshire and the Humber,F,Direct electric,Poor,Double,False,True,256112
+UKH001172,Terraced,101.6,27,South East,C,Gas boiler,Good,Double,False,True,553821
+UKH001173,Detached,67.8,109,Scotland,F,Gas boiler,Poor,Double,True,False,250690
+UKH001174,Flat,64.8,69,Northern Ireland,E,Gas boiler,Good,Single,False,False,145301
+UKH001175,Bungalow,85.4,13,Scotland,B,Gas boiler,Good,Triple,False,False,175304
+UKH001176,Detached,187.9,69,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,519502
+UKH001177,Terraced,88.5,101,London,G,Electric boiler,Fair,Single,False,True,505911
+UKH001178,Bungalow,138.9,118,South East,F,Gas boiler,Poor,Double,False,True,407594
+UKH001179,Detached,115.6,35,South West,B,Gas boiler,Good,Double,True,True,493185
+UKH001180,Terraced,78.4,21,South West,A,Air-source heat pump,Excellent,Triple,False,False,229486
+UKH001181,Bungalow,114.1,16,East of England,B,Gas boiler,Excellent,Triple,False,False,573103
+UKH001182,Semi-detached,137.8,52,South West,D,Gas boiler,Fair,Double,False,False,347947
+UKH001183,Bungalow,68.7,4,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,True,132419
+UKH001184,Bungalow,85.8,14,Scotland,A,Air-source heat pump,Good,Double,False,True,251474
+UKH001185,Terraced,52.9,22,North West,B,Gas boiler,Excellent,Double,False,False,152660
+UKH001186,Detached,106.0,19,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,190611
+UKH001187,Detached,174.6,71,Wales,E,Gas boiler,Poor,Double,False,False,441482
+UKH001188,Flat,81.1,15,Wales,C,Gas boiler,Good,Double,False,False,136703
+UKH001189,Semi-detached,91.2,11,East of England,B,Gas boiler,Good,Double,True,False,351306
+UKH001190,Detached,94.4,33,London,C,Direct electric,Good,Double,False,False,1121617
+UKH001191,Flat,64.8,30,West Midlands,B,Gas boiler,Good,Double,False,True,160481
+UKH001192,Detached,101.5,31,North West,C,Direct electric,Excellent,Double,False,True,440502
+UKH001193,Detached,160.1,20,North West,C,Air-source heat pump,Fair,Double,False,True,422920
+UKH001194,Terraced,90.8,24,East of England,C,Gas boiler,Good,Double,False,True,559993
+UKH001195,Terraced,97.1,45,North West,D,Electric boiler,Fair,Double,False,True,142799
+UKH001196,Flat,82.0,85,North West,G,Gas boiler,Poor,Single,False,False,181969
+UKH001197,Terraced,114.0,144,East Midlands,F,Gas boiler,Poor,Triple,False,False,268799
+UKH001198,Semi-detached,70.5,51,South East,F,Direct electric,Fair,Single,False,False,400302
+UKH001199,Detached,122.0,104,Yorkshire and the Humber,E,Direct electric,Fair,Double,True,False,423425
+UKH001200,Flat,53.7,29,North West,D,Gas boiler,Poor,Double,True,False,150580
+UKH001201,Bungalow,79.4,28,South East,C,Gas boiler,Fair,Double,False,False,278249
+UKH001202,Bungalow,46.3,11,South East,B,Gas boiler,Excellent,Double,False,True,139763
+UKH001203,Detached,142.5,50,London,B,Air-source heat pump,Good,Triple,False,False,1097590
+UKH001204,Flat,83.5,7,East Midlands,B,Direct electric,Excellent,Triple,False,True,158231
+UKH001205,Semi-detached,97.1,27,West Midlands,C,Direct electric,Fair,Double,True,True,205868
+UKH001206,Terraced,86.7,5,South West,C,Gas boiler,Fair,Double,False,True,261147
+UKH001207,Bungalow,95.0,30,South East,C,Gas boiler,Good,Double,True,False,377298
+UKH001208,Terraced,99.2,53,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,142557
+UKH001209,Bungalow,75.9,25,Wales,D,Electric boiler,Fair,Triple,False,True,151073
+UKH001210,Flat,55.7,38,North West,D,Gas boiler,Good,Single,False,False,146950
+UKH001211,Terraced,81.3,32,London,C,Gas boiler,Excellent,Double,False,False,754399
+UKH001212,Terraced,67.6,49,South East,C,Gas boiler,Good,Double,True,False,324653
+UKH001213,Bungalow,82.1,20,East Midlands,A,Gas boiler,Excellent,Double,True,True,140611
+UKH001214,Detached,146.4,23,London,B,Direct electric,Good,Double,False,True,989992
+UKH001215,Semi-detached,98.1,16,East of England,A,Gas boiler,Excellent,Triple,False,True,395668
+UKH001216,Terraced,111.8,53,South West,C,Air-source heat pump,Fair,Double,False,False,233718
+UKH001217,Detached,169.1,20,Yorkshire and the Humber,A,Gas boiler,Good,Triple,True,False,386500
+UKH001218,Detached,153.2,38,London,E,Gas boiler,Poor,Double,False,False,1227637
+UKH001219,Flat,50.6,29,South West,B,Gas boiler,Excellent,Double,False,True,95649
+UKH001220,Bungalow,123.2,83,North East,G,Gas boiler,Poor,Double,False,False,244304
+UKH001221,Detached,177.2,55,London,E,Air-source heat pump,Poor,Double,False,False,1831142
+UKH001222,Flat,72.7,30,North West,B,Direct electric,Fair,Triple,True,True,196972
+UKH001223,Flat,30.0,52,East Midlands,D,Direct electric,Fair,Double,False,True,47365
+UKH001224,Semi-detached,90.2,29,Wales,B,Gas boiler,Good,Double,True,True,230859
+UKH001225,Terraced,65.2,5,South East,B,Direct electric,Good,Double,False,False,310903
+UKH001226,Detached,183.4,46,South East,C,Gas boiler,Good,Double,True,False,992618
+UKH001227,Semi-detached,84.1,33,West Midlands,D,Gas boiler,Fair,Double,False,False,333470
+UKH001228,Bungalow,76.0,7,North West,E,Gas boiler,Poor,Double,False,False,219822
+UKH001229,Semi-detached,84.4,75,Wales,D,Gas boiler,Fair,Double,True,False,241925
+UKH001230,Detached,245.7,43,South West,C,Gas boiler,Good,Double,False,True,1280723
+UKH001231,Detached,163.7,51,South East,B,Air-source heat pump,Good,Double,False,False,742119
+UKH001232,Detached,120.1,150,Scotland,E,Direct electric,Fair,Double,False,False,338722
+UKH001233,Flat,45.0,6,South East,A,Gas boiler,Excellent,Triple,False,False,169323
+UKH001234,Detached,203.0,26,South West,B,Gas boiler,Good,Double,False,True,679400
+UKH001235,Terraced,73.4,20,East Midlands,C,Gas boiler,Good,Double,False,True,150423
+UKH001236,Terraced,81.3,19,London,B,Gas boiler,Good,Double,False,True,416267
+UKH001237,Terraced,71.9,29,West Midlands,B,Gas boiler,Excellent,Double,False,True,159898
+UKH001238,Flat,102.7,18,South West,B,Air-source heat pump,Good,Double,False,False,269225
+UKH001239,Semi-detached,105.2,35,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,455779
+UKH001240,Semi-detached,108.6,14,Yorkshire and the Humber,A,Gas boiler,Excellent,Triple,False,False,313022
+UKH001241,Terraced,79.7,39,East Midlands,C,Direct electric,Good,Double,False,False,138622
+UKH001242,Terraced,57.5,62,East of England,F,Gas boiler,Fair,Single,False,False,174265
+UKH001243,Semi-detached,101.4,90,Scotland,E,Gas boiler,Fair,Double,False,True,217621
+UKH001244,Detached,156.0,12,South East,D,Gas boiler,Fair,Double,False,False,631268
+UKH001245,Bungalow,89.6,31,North West,C,Direct electric,Good,Double,False,False,151824
+UKH001246,Detached,152.1,11,South West,C,Gas boiler,Fair,Double,False,False,797860
+UKH001247,Detached,138.4,26,South East,D,Gas boiler,Good,Double,False,False,765345
+UKH001248,Terraced,49.0,19,London,C,Gas boiler,Good,Double,False,False,281767
+UKH001249,Semi-detached,60.9,72,London,C,Air-source heat pump,Good,Double,False,False,426541
+UKH001250,Terraced,82.2,69,Wales,E,Gas boiler,Fair,Single,False,False,181786
+UKH001251,Bungalow,77.0,67,Yorkshire and the Humber,E,Gas boiler,Fair,Double,False,False,159122
+UKH001252,Detached,128.3,58,South West,E,Gas boiler,Poor,Triple,False,False,400728
+UKH001253,Terraced,72.1,33,North East,E,Gas boiler,Poor,Double,False,False,153680
+UKH001254,Flat,56.3,112,East Midlands,E,Gas boiler,Fair,Double,False,True,112988
+UKH001255,Terraced,120.7,39,South East,B,Gas boiler,Excellent,Double,False,True,414609
+UKH001256,Semi-detached,70.4,52,South East,F,Gas boiler,Poor,Double,False,True,296402
+UKH001257,Detached,134.5,18,South West,B,Gas boiler,Good,Double,False,False,318347
+UKH001258,Detached,184.4,100,Scotland,E,Gas boiler,Fair,Single,False,True,582991
+UKH001259,Flat,107.3,101,Yorkshire and the Humber,D,Air-source heat pump,Poor,Double,True,True,181378
+UKH001260,Terraced,80.3,74,East of England,D,Direct electric,Fair,Triple,False,False,239281
+UKH001261,Flat,71.0,28,South East,C,Gas boiler,Fair,Double,False,True,332796
+UKH001262,Detached,120.6,44,East of England,E,Gas boiler,Fair,Single,False,True,593966
+UKH001263,Terraced,69.2,34,East Midlands,D,Gas boiler,Good,Single,False,True,187200
+UKH001264,Flat,67.6,89,Yorkshire and the Humber,C,Gas boiler,Excellent,Double,False,False,142539
+UKH001265,Terraced,66.3,43,London,D,Gas boiler,Fair,Double,False,True,454023
+UKH001266,Terraced,99.7,35,East of England,D,Gas boiler,Fair,Double,False,False,373428
+UKH001267,Detached,137.8,77,West Midlands,D,Gas boiler,Excellent,Double,False,False,445674
+UKH001268,Detached,106.8,55,London,E,Gas boiler,Fair,Single,False,True,772908
+UKH001269,Flat,62.3,20,South East,C,Gas boiler,Good,Double,False,False,296135
+UKH001270,Flat,75.7,18,South East,B,Gas boiler,Good,Double,False,False,394038
+UKH001271,Terraced,75.9,35,North West,C,Air-source heat pump,Fair,Double,False,True,193344
+UKH001272,Semi-detached,92.2,24,East Midlands,C,Direct electric,Fair,Triple,False,False,239602
+UKH001273,Bungalow,78.8,32,Yorkshire and the Humber,C,Electric boiler,Excellent,Double,False,True,185272
+UKH001274,Terraced,89.3,10,East Midlands,B,Air-source heat pump,Fair,Double,False,False,146890
+UKH001275,Semi-detached,99.5,29,South West,C,Direct electric,Good,Double,True,False,428520
+UKH001276,Flat,75.1,16,Northern Ireland,A,Air-source heat pump,Good,Double,False,False,132369
+UKH001277,Semi-detached,58.2,146,South East,G,Electric boiler,Poor,Single,False,False,177034
+UKH001278,Detached,84.3,86,South East,D,Gas boiler,Fair,Double,False,True,437419
+UKH001279,Terraced,75.5,23,Wales,B,Air-source heat pump,Fair,Triple,False,False,191377
+UKH001280,Terraced,89.5,15,East Midlands,E,Direct electric,Poor,Double,False,True,151795
+UKH001281,Flat,65.0,56,North West,E,Gas boiler,Poor,Double,False,False,213866
+UKH001282,Flat,34.6,23,East Midlands,B,Gas boiler,Excellent,Double,False,True,76464
+UKH001283,Terraced,91.8,66,North West,C,Direct electric,Good,Double,False,True,217323
+UKH001284,Detached,134.7,5,Yorkshire and the Humber,B,Direct electric,Good,Double,False,False,318486
+UKH001285,Bungalow,114.3,67,Yorkshire and the Humber,C,Gas boiler,Good,Double,True,False,252567
+UKH001286,Semi-detached,85.3,26,Scotland,C,Gas boiler,Fair,Double,False,False,220210
+UKH001287,Bungalow,99.6,26,Scotland,B,Gas boiler,Fair,Triple,True,True,242669
+UKH001288,Semi-detached,91.4,38,Yorkshire and the Humber,C,Gas boiler,Fair,Triple,False,False,152456
+UKH001289,Semi-detached,67.0,14,North West,A,Gas boiler,Excellent,Double,False,False,159193
+UKH001290,Detached,162.0,35,North West,C,Electric boiler,Excellent,Double,False,False,778920
+UKH001291,Bungalow,83.0,93,West Midlands,G,Gas boiler,Poor,Single,False,True,201767
+UKH001292,Semi-detached,70.4,64,Scotland,C,Gas boiler,Excellent,Double,False,False,148699
+UKH001293,Bungalow,142.6,90,East of England,E,Gas boiler,Good,Double,False,False,652481
+UKH001294,Detached,182.3,78,North West,E,Electric boiler,Fair,Double,False,False,532999
+UKH001295,Semi-detached,103.4,66,East of England,F,Air-source heat pump,Poor,Single,False,False,274313
+UKH001296,Terraced,98.5,45,Scotland,C,Gas boiler,Fair,Double,True,True,221698
+UKH001297,Terraced,87.4,54,East Midlands,C,Gas boiler,Excellent,Double,False,False,201802
+UKH001298,Detached,163.6,124,Northern Ireland,D,Gas boiler,Good,Double,False,False,384019
+UKH001299,Semi-detached,79.9,72,East of England,D,Direct electric,Good,Double,True,False,243552
+UKH001300,Semi-detached,123.4,36,East Midlands,C,Gas boiler,Good,Double,False,True,221414
+UKH001301,Detached,95.8,15,South West,B,Gas boiler,Good,Double,True,True,308225
+UKH001302,Terraced,59.4,56,London,D,Direct electric,Good,Double,False,False,487087
+UKH001303,Detached,171.4,73,East of England,D,Gas boiler,Poor,Triple,True,True,568964
+UKH001304,Detached,140.1,59,East Midlands,C,Direct electric,Good,Double,True,False,271981
+UKH001305,Semi-detached,106.2,96,Wales,G,Gas boiler,Poor,Single,False,True,364581
+UKH001306,Semi-detached,97.0,52,South East,D,Gas boiler,Excellent,Single,False,False,445092
+UKH001307,Flat,58.1,23,Wales,B,Gas boiler,Excellent,Double,False,True,115925
+UKH001308,Semi-detached,118.2,20,London,B,Air-source heat pump,Fair,Double,False,True,762559
+UKH001309,Bungalow,60.6,33,East Midlands,A,Air-source heat pump,Good,Double,True,True,145703
+UKH001310,Flat,66.2,70,South East,C,Gas boiler,Good,Double,True,False,311413
+UKH001311,Semi-detached,89.2,43,South East,C,Gas boiler,Fair,Double,True,True,414833
+UKH001312,Bungalow,123.5,42,Northern Ireland,E,Gas boiler,Poor,Double,False,False,185456
+UKH001313,Terraced,84.2,10,East Midlands,B,Gas boiler,Excellent,Double,False,True,201938
+UKH001314,Detached,166.7,54,West Midlands,D,Gas boiler,Fair,Double,False,False,442454
+UKH001315,Flat,55.3,8,South West,B,Gas boiler,Good,Triple,False,False,257054
+UKH001316,Flat,73.5,19,South East,E,Direct electric,Fair,Double,False,False,233876
+UKH001317,Flat,66.4,39,North West,C,Gas boiler,Good,Triple,False,False,163018
+UKH001318,Bungalow,46.1,39,South East,C,Direct electric,Good,Double,True,False,180764
+UKH001319,Semi-detached,112.4,43,South East,F,Electric boiler,Fair,Single,False,False,472463
+UKH001320,Detached,124.6,6,West Midlands,A,Gas boiler,Excellent,Double,False,True,495203
+UKH001321,Semi-detached,72.0,21,North West,C,Gas boiler,Fair,Triple,False,False,191962
+UKH001322,Terraced,113.1,40,South West,C,Electric boiler,Good,Double,True,False,438874
+UKH001323,Flat,87.2,41,East Midlands,D,Gas boiler,Fair,Double,False,False,194577
+UKH001324,Detached,158.0,43,Wales,D,Air-source heat pump,Fair,Double,False,False,451644
+UKH001325,Bungalow,114.4,55,London,F,Gas boiler,Poor,Double,False,False,1130867
+UKH001326,Detached,133.1,31,Wales,C,Gas boiler,Good,Double,False,True,580199
+UKH001327,Flat,82.3,72,Scotland,E,Gas boiler,Poor,Double,False,False,173894
+UKH001328,Bungalow,95.7,48,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,True,172444
+UKH001329,Flat,32.7,32,West Midlands,C,Gas boiler,Good,Double,False,True,72396
+UKH001330,Bungalow,51.1,49,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,True,139690
+UKH001331,Terraced,78.2,49,Scotland,D,Air-source heat pump,Fair,Single,False,True,168016
+UKH001332,Semi-detached,64.0,38,South West,B,Air-source heat pump,Good,Double,False,False,290784
+UKH001333,Bungalow,63.9,32,North East,C,Electric boiler,Excellent,Double,False,False,105856
+UKH001334,Flat,87.1,17,South East,B,Gas boiler,Good,Double,False,True,342959
+UKH001335,Semi-detached,88.7,42,North East,E,Gas boiler,Fair,Single,True,False,148617
+UKH001336,Semi-detached,108.5,28,Wales,D,Gas boiler,Fair,Double,False,False,413026
+UKH001337,Flat,62.1,68,West Midlands,C,Gas boiler,Good,Double,False,True,150077
+UKH001338,Flat,71.1,23,Scotland,C,Gas boiler,Good,Double,False,False,129945
+UKH001339,Detached,145.7,34,East Midlands,D,Gas boiler,Fair,Double,False,False,302727
+UKH001340,Flat,30.0,8,East of England,C,Direct electric,Fair,Triple,False,True,65724
+UKH001341,Terraced,105.5,90,Yorkshire and the Humber,G,Direct electric,Poor,Single,True,True,198239
+UKH001342,Detached,101.7,30,Yorkshire and the Humber,C,Electric boiler,Excellent,Double,False,True,274673
+UKH001343,Semi-detached,86.9,52,West Midlands,D,Gas boiler,Fair,Double,False,False,246706
+UKH001344,Semi-detached,70.6,13,West Midlands,B,Gas boiler,Excellent,Double,False,True,114084
+UKH001345,Terraced,119.8,8,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,False,224219
+UKH001346,Bungalow,30.0,30,Scotland,C,Gas boiler,Fair,Double,False,True,72575
+UKH001347,Semi-detached,126.2,74,Wales,E,Direct electric,Fair,Double,False,True,345420
+UKH001348,Semi-detached,110.7,54,London,C,Gas boiler,Good,Double,False,True,1015333
+UKH001349,Detached,128.7,19,Scotland,C,Gas boiler,Good,Double,False,False,312157
+UKH001350,Terraced,73.7,23,East of England,C,Gas boiler,Good,Double,False,True,221120
+UKH001351,Terraced,110.6,20,East of England,B,Gas boiler,Excellent,Double,False,True,396026
+UKH001352,Detached,231.6,9,East of England,B,Gas boiler,Good,Triple,False,True,983425
+UKH001353,Detached,119.6,33,London,B,Gas boiler,Excellent,Triple,False,False,998218
+UKH001354,Detached,234.6,48,Yorkshire and the Humber,C,Air-source heat pump,Poor,Triple,True,True,669739
+UKH001355,Flat,59.5,22,East of England,B,Gas boiler,Good,Double,True,True,133688
+UKH001356,Flat,50.0,39,South West,B,Direct electric,Good,Triple,False,True,159089
+UKH001357,Terraced,121.3,3,Northern Ireland,A,Gas boiler,Excellent,Double,False,True,188921
+UKH001358,Semi-detached,105.9,24,West Midlands,C,Gas boiler,Good,Double,False,True,290480
+UKH001359,Terraced,73.9,31,South East,B,Gas boiler,Excellent,Double,False,True,315090
+UKH001360,Terraced,96.5,50,South East,F,Direct electric,Poor,Double,False,True,525323
+UKH001361,Terraced,70.5,91,Wales,F,Gas boiler,Fair,Single,False,False,166323
+UKH001362,Semi-detached,127.5,41,South East,C,Gas boiler,Good,Double,False,False,527435
+UKH001363,Detached,151.3,12,West Midlands,A,Gas boiler,Good,Triple,False,True,480975
+UKH001364,Terraced,74.3,71,Yorkshire and the Humber,F,Gas boiler,Fair,Single,False,False,163325
+UKH001365,Semi-detached,130.0,59,South West,E,Direct electric,Fair,Single,False,False,501650
+UKH001366,Bungalow,107.4,35,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,385956
+UKH001367,Flat,43.2,62,North West,E,Gas boiler,Poor,Double,True,False,106683
+UKH001368,Detached,101.7,37,South West,D,Gas boiler,Fair,Double,False,False,615643
+UKH001369,Bungalow,80.8,93,South West,G,Gas boiler,Poor,Single,False,True,303188
+UKH001370,Detached,160.7,55,East Midlands,D,Direct electric,Good,Double,False,False,439726
+UKH001371,Terraced,103.8,73,Wales,E,Air-source heat pump,Poor,Double,False,False,161202
+UKH001372,Terraced,62.8,26,East of England,D,Gas boiler,Fair,Double,False,True,307511
+UKH001373,Semi-detached,115.0,34,South West,E,Gas boiler,Poor,Double,False,False,369433
+UKH001374,Detached,110.5,22,Wales,B,Electric boiler,Excellent,Double,False,True,215821
+UKH001375,Semi-detached,130.6,45,Wales,C,Gas boiler,Good,Double,False,False,389413
+UKH001376,Detached,101.7,34,South West,E,Gas boiler,Poor,Double,False,True,321348
+UKH001377,Detached,147.6,66,North West,D,Electric boiler,Good,Double,False,True,301410
+UKH001378,Detached,233.9,150,West Midlands,E,Gas boiler,Good,Double,False,False,602489
+UKH001379,Detached,74.7,47,North East,D,Gas boiler,Good,Double,False,False,215493
+UKH001380,Semi-detached,63.3,8,East of England,A,Gas boiler,Excellent,Double,True,True,320105
+UKH001381,Flat,75.1,61,Yorkshire and the Humber,C,Gas boiler,Good,Double,True,False,102511
+UKH001382,Detached,139.5,50,Scotland,D,Gas boiler,Good,Single,False,False,299888
+UKH001383,Semi-detached,108.6,46,North West,C,Gas boiler,Fair,Triple,False,True,222137
+UKH001384,Bungalow,93.9,50,East Midlands,E,Gas boiler,Poor,Double,False,True,162350
+UKH001385,Flat,42.9,59,East Midlands,E,Direct electric,Fair,Double,False,False,88976
+UKH001386,Detached,127.6,13,North West,B,Gas boiler,Good,Double,False,True,326372
+UKH001387,Semi-detached,94.6,54,London,D,Gas boiler,Fair,Double,False,False,631083
+UKH001388,Semi-detached,97.3,8,Wales,C,Gas boiler,Fair,Triple,False,True,249929
+UKH001389,Terraced,99.7,32,South East,C,Gas boiler,Excellent,Double,False,False,301120
+UKH001390,Flat,61.0,12,East of England,A,Air-source heat pump,Good,Triple,True,False,185508
+UKH001391,Semi-detached,72.5,45,South East,B,Air-source heat pump,Good,Double,False,True,243476
+UKH001392,Terraced,72.2,106,London,C,Gas boiler,Excellent,Double,False,False,347533
+UKH001393,Flat,53.1,39,North West,B,Gas boiler,Good,Double,False,True,97812
+UKH001394,Semi-detached,85.2,32,South West,C,Gas boiler,Fair,Double,False,False,510352
+UKH001395,Semi-detached,100.6,68,London,D,Air-source heat pump,Good,Single,False,False,812881
+UKH001396,Detached,118.9,91,London,F,Gas boiler,Fair,Single,False,True,1118316
+UKH001397,Detached,210.1,46,Scotland,B,Gas boiler,Good,Double,True,True,482773
+UKH001398,Semi-detached,102.1,18,Scotland,C,Electric boiler,Excellent,Double,False,True,397488
+UKH001399,Terraced,62.2,4,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,95423
+UKH001400,Semi-detached,82.6,22,London,B,Gas boiler,Excellent,Double,False,True,813429
+UKH001401,Terraced,96.0,12,East of England,B,Gas boiler,Excellent,Double,False,True,237909
+UKH001402,Semi-detached,97.6,53,Scotland,E,Direct electric,Fair,Double,False,False,293744
+UKH001403,Flat,32.9,86,London,D,Gas boiler,Good,Double,False,True,230861
+UKH001404,Terraced,42.8,78,Wales,F,Gas boiler,Poor,Double,False,False,92323
+UKH001405,Flat,67.5,38,North West,C,Electric boiler,Excellent,Double,False,True,164559
+UKH001406,Flat,46.2,4,West Midlands,B,Direct electric,Good,Triple,False,True,82409
+UKH001407,Bungalow,64.9,47,East of England,C,Air-source heat pump,Poor,Triple,True,False,297649
+UKH001408,Flat,56.2,36,North East,C,Gas boiler,Good,Double,False,False,97771
+UKH001409,Semi-detached,76.2,18,South East,D,Gas boiler,Good,Single,False,False,333822
+UKH001410,Semi-detached,122.6,67,West Midlands,C,Air-source heat pump,Fair,Double,True,False,253357
+UKH001411,Flat,54.5,17,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,False,121589
+UKH001412,Terraced,89.5,13,Wales,A,Gas boiler,Excellent,Double,False,True,139448
+UKH001413,Bungalow,107.7,16,South East,C,Air-source heat pump,Fair,Double,False,False,542966
+UKH001414,Semi-detached,87.0,43,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,True,212241
+UKH001415,Semi-detached,59.6,30,Scotland,C,Direct electric,Good,Double,False,True,140951
+UKH001416,Flat,58.2,57,East Midlands,E,Gas boiler,Poor,Double,False,True,125456
+UKH001417,Flat,41.3,34,South East,B,Gas boiler,Excellent,Double,False,False,101429
+UKH001418,Detached,147.3,20,South East,A,Gas boiler,Excellent,Double,True,True,747188
+UKH001419,Detached,156.0,42,North West,C,Direct electric,Good,Double,True,False,460771
+UKH001420,Detached,142.1,17,South East,D,Gas boiler,Poor,Triple,False,True,845810
+UKH001421,Semi-detached,119.4,150,East Midlands,G,Gas boiler,Poor,Single,False,False,304194
+UKH001422,Terraced,81.4,69,North West,D,Gas boiler,Good,Double,False,False,224788
+UKH001423,Terraced,93.6,15,London,B,Gas boiler,Good,Triple,False,True,487347
+UKH001424,Semi-detached,63.2,94,Wales,F,Gas boiler,Poor,Double,False,False,178613
+UKH001425,Flat,41.7,26,East Midlands,C,Direct electric,Good,Double,False,True,97143
+UKH001426,Bungalow,147.5,29,Scotland,B,Gas boiler,Excellent,Double,False,False,275381
+UKH001427,Semi-detached,111.7,36,Scotland,D,Direct electric,Fair,Double,True,False,250631
+UKH001428,Flat,44.4,18,London,A,Air-source heat pump,Good,Double,False,True,270028
+UKH001429,Detached,183.4,22,West Midlands,B,Gas boiler,Excellent,Double,False,True,685118
+UKH001430,Flat,54.5,70,East Midlands,D,Gas boiler,Fair,Double,False,True,104992
+UKH001431,Flat,89.4,50,North West,B,Air-source heat pump,Excellent,Double,False,True,193401
+UKH001432,Flat,39.1,74,South East,E,Gas boiler,Poor,Triple,False,True,157024
+UKH001433,Semi-detached,77.8,20,East of England,B,Electric boiler,Good,Double,False,True,344336
+UKH001434,Detached,171.4,29,North West,B,Gas boiler,Good,Triple,False,True,463208
+UKH001435,Terraced,93.4,3,South East,A,Gas boiler,Excellent,Triple,False,False,332073
+UKH001436,Flat,88.4,24,South East,E,Gas boiler,Poor,Double,False,False,401356
+UKH001437,Semi-detached,115.5,25,Northern Ireland,E,Gas boiler,Poor,Double,False,True,382108
+UKH001438,Detached,126.2,9,Yorkshire and the Humber,A,Gas boiler,Good,Triple,False,False,270676
+UKH001439,Detached,147.3,49,East Midlands,G,Gas boiler,Poor,Single,False,False,464065
+UKH001440,Flat,83.3,54,North West,C,Gas boiler,Fair,Double,True,True,231315
+UKH001441,Terraced,85.2,78,West Midlands,E,Gas boiler,Poor,Double,False,True,197657
+UKH001442,Semi-detached,80.7,34,North West,C,Gas boiler,Good,Double,False,True,200736
+UKH001443,Semi-detached,86.4,17,West Midlands,B,Gas boiler,Good,Double,False,False,269018
+UKH001444,Detached,159.5,35,West Midlands,C,Gas boiler,Good,Double,False,False,377275
+UKH001445,Semi-detached,126.4,39,South West,B,Gas boiler,Excellent,Double,False,False,441437
+UKH001446,Semi-detached,73.7,23,Yorkshire and the Humber,B,Gas boiler,Good,Triple,True,True,187951
+UKH001447,Terraced,115.6,37,South East,B,Air-source heat pump,Good,Double,False,False,413536
+UKH001448,Detached,207.7,3,Scotland,E,Direct electric,Poor,Double,False,False,801861
+UKH001449,Semi-detached,66.7,12,Northern Ireland,B,Direct electric,Excellent,Double,True,False,109575
+UKH001450,Semi-detached,124.2,28,Wales,B,Air-source heat pump,Good,Double,False,False,307119
+UKH001451,Terraced,77.4,48,South West,C,Gas boiler,Good,Double,True,False,211333
+UKH001452,Detached,57.4,43,South East,F,Direct electric,Poor,Double,False,False,299142
+UKH001453,Terraced,60.1,69,West Midlands,E,Gas boiler,Fair,Single,False,False,88522
+UKH001454,Terraced,86.0,111,London,E,Gas boiler,Good,Double,False,False,553559
+UKH001455,Detached,98.6,4,Wales,C,Gas boiler,Fair,Triple,False,False,299393
+UKH001456,Semi-detached,121.7,22,London,A,Gas boiler,Good,Triple,False,False,990629
+UKH001457,Flat,66.6,20,South East,D,Gas boiler,Good,Single,False,False,229290
+UKH001458,Terraced,80.3,80,London,D,Direct electric,Excellent,Double,False,False,384906
+UKH001459,Bungalow,57.4,39,West Midlands,C,Gas boiler,Fair,Double,False,True,131744
+UKH001460,Semi-detached,107.9,61,East Midlands,B,Air-source heat pump,Good,Triple,True,False,209297
+UKH001461,Semi-detached,86.5,26,Scotland,C,Gas boiler,Good,Double,False,False,218908
+UKH001462,Terraced,74.2,15,Yorkshire and the Humber,A,Air-source heat pump,Good,Triple,False,False,220310
+UKH001463,Flat,60.1,135,Yorkshire and the Humber,G,Electric boiler,Poor,Double,False,False,122861
+UKH001464,Semi-detached,118.6,22,East of England,C,Gas boiler,Good,Double,False,False,423383
+UKH001465,Semi-detached,95.5,29,North East,C,Gas boiler,Good,Double,False,False,161553
+UKH001466,Terraced,78.8,19,Scotland,B,Gas boiler,Good,Double,False,True,243334
+UKH001467,Bungalow,86.1,35,East Midlands,D,Gas boiler,Good,Double,False,False,284578
+UKH001468,Detached,98.2,24,South East,C,Gas boiler,Good,Double,False,True,396450
+UKH001469,Flat,74.6,51,North West,D,Gas boiler,Fair,Double,False,True,144534
+UKH001470,Semi-detached,61.7,13,South West,A,Air-source heat pump,Good,Triple,False,False,352353
+UKH001471,Detached,124.0,20,Yorkshire and the Humber,C,Gas boiler,Fair,Double,False,False,226654
+UKH001472,Detached,189.6,66,Scotland,C,Gas boiler,Good,Double,True,True,519135
+UKH001473,Semi-detached,107.3,31,North East,E,Gas boiler,Poor,Double,False,True,150678
+UKH001474,Bungalow,91.7,35,Scotland,C,Electric boiler,Good,Double,False,True,207511
+UKH001475,Flat,45.5,34,Wales,C,Gas boiler,Fair,Double,False,True,117305
+UKH001476,Semi-detached,70.1,74,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,140272
+UKH001477,Detached,100.5,71,South East,E,Gas boiler,Fair,Double,False,False,469000
+UKH001478,Flat,59.3,56,Yorkshire and the Humber,F,Gas boiler,Poor,Single,False,True,127612
+UKH001479,Semi-detached,55.7,14,West Midlands,C,Gas boiler,Fair,Triple,False,False,202909
+UKH001480,Terraced,121.1,22,East Midlands,B,Gas boiler,Good,Triple,False,False,190999
+UKH001481,Flat,57.6,12,East of England,A,Gas boiler,Good,Triple,False,True,199591
+UKH001482,Detached,83.8,43,South East,E,Gas boiler,Poor,Double,False,True,460075
+UKH001483,Detached,209.6,19,East Midlands,A,Gas boiler,Good,Triple,True,True,770330
+UKH001484,Semi-detached,57.5,7,South East,B,Gas boiler,Excellent,Double,False,False,142578
+UKH001485,Flat,75.3,115,London,G,Direct electric,Poor,Single,False,False,432632
+UKH001486,Flat,88.5,9,West Midlands,B,Gas boiler,Excellent,Double,False,False,196071
+UKH001487,Bungalow,72.1,49,Yorkshire and the Humber,D,Air-source heat pump,Fair,Double,False,False,193195
+UKH001488,Semi-detached,76.9,42,North East,D,Gas boiler,Fair,Double,False,False,170888
+UKH001489,Bungalow,76.2,27,North West,D,Gas boiler,Fair,Double,False,False,207527
+UKH001490,Flat,58.6,10,East Midlands,C,Gas boiler,Fair,Double,False,True,203089
+UKH001491,Terraced,75.3,39,West Midlands,C,Gas boiler,Fair,Double,False,True,162988
+UKH001492,Bungalow,98.5,7,London,C,Direct electric,Good,Double,False,True,1131993
+UKH001493,Flat,38.5,39,East of England,C,Gas boiler,Excellent,Double,False,True,166598
+UKH001494,Terraced,54.9,27,West Midlands,B,Air-source heat pump,Good,Double,False,True,98350
+UKH001495,Flat,42.3,21,East Midlands,B,Air-source heat pump,Fair,Double,False,True,78000
+UKH001496,Semi-detached,124.8,26,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,True,532798
+UKH001497,Terraced,68.8,64,Scotland,G,Gas boiler,Poor,Single,False,False,154094
+UKH001498,Bungalow,74.7,31,East Midlands,C,Gas boiler,Good,Double,False,True,152829
+UKH001499,Terraced,102.7,38,East Midlands,B,Gas boiler,Excellent,Double,False,False,255668
+UKH001500,Semi-detached,90.4,14,Scotland,C,Air-source heat pump,Fair,Double,False,False,206364
+UKH001501,Terraced,73.5,51,South West,C,Air-source heat pump,Fair,Double,False,True,187217
+UKH001502,Flat,66.6,32,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,False,121269
+UKH001503,Flat,59.4,32,East Midlands,B,Gas boiler,Good,Double,False,True,89558
+UKH001504,Flat,48.7,13,North West,C,Gas boiler,Good,Double,False,False,122223
+UKH001505,Semi-detached,90.4,55,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,159010
+UKH001506,Bungalow,57.8,77,South West,F,Gas boiler,Poor,Double,False,False,174051
+UKH001507,Terraced,125.4,22,East Midlands,D,Gas boiler,Fair,Double,False,False,320698
+UKH001508,Terraced,72.2,7,South West,D,Direct electric,Fair,Double,False,False,191800
+UKH001509,Detached,121.8,23,Scotland,D,Electric boiler,Good,Double,False,True,258130
+UKH001510,Detached,53.5,6,West Midlands,C,Direct electric,Good,Triple,False,False,146275
+UKH001511,Terraced,85.8,22,Scotland,A,Air-source heat pump,Good,Triple,False,False,216706
+UKH001512,Detached,163.1,32,East Midlands,C,Gas boiler,Good,Double,False,True,441208
+UKH001513,Flat,80.8,26,North East,D,Gas boiler,Fair,Double,False,False,175433
+UKH001514,Detached,152.2,46,South East,C,Air-source heat pump,Fair,Double,False,True,696579
+UKH001515,Semi-detached,88.1,58,North West,C,Air-source heat pump,Good,Double,False,True,311078
+UKH001516,Semi-detached,102.3,85,London,D,Air-source heat pump,Fair,Double,False,True,820680
+UKH001517,Terraced,95.3,13,East of England,B,Gas boiler,Excellent,Triple,True,False,392182
+UKH001518,Terraced,103.1,53,North West,C,Gas boiler,Excellent,Double,False,True,247021
+UKH001519,Semi-detached,80.8,86,North West,E,Air-source heat pump,Good,Single,False,False,221387
+UKH001520,Semi-detached,100.1,7,North West,B,Gas boiler,Excellent,Double,False,False,151899
+UKH001521,Semi-detached,84.0,37,East of England,D,Gas boiler,Good,Double,False,False,288336
+UKH001522,Flat,71.9,42,West Midlands,C,Gas boiler,Fair,Triple,True,False,98267
+UKH001523,Terraced,71.6,57,Yorkshire and the Humber,F,Gas boiler,Poor,Double,False,False,184605
+UKH001524,Semi-detached,97.0,51,North West,E,Gas boiler,Poor,Double,False,False,171599
+UKH001525,Semi-detached,120.4,7,North West,B,Gas boiler,Excellent,Double,False,True,314217
+UKH001526,Detached,152.3,8,North West,D,Direct electric,Fair,Double,True,False,433439
+UKH001527,Semi-detached,130.0,17,Wales,D,Gas boiler,Fair,Double,False,True,342818
+UKH001528,Semi-detached,88.3,8,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,True,239564
+UKH001529,Terraced,96.7,30,North West,C,Air-source heat pump,Good,Single,True,True,224162
+UKH001530,Flat,80.8,11,West Midlands,B,Gas boiler,Good,Double,False,False,229554
+UKH001531,Bungalow,80.8,24,London,C,Direct electric,Good,Double,False,False,448311
+UKH001532,Flat,54.1,1,North West,A,Air-source heat pump,Excellent,Triple,False,True,90228
+UKH001533,Semi-detached,122.3,27,North East,C,Gas boiler,Good,Double,False,True,198227
+UKH001534,Detached,183.5,14,East Midlands,B,Direct electric,Excellent,Triple,False,False,513149
+UKH001535,Flat,34.1,65,North West,D,Gas boiler,Fair,Double,False,True,52345
+UKH001536,Detached,132.8,39,South East,C,Gas boiler,Good,Double,False,True,631719
+UKH001537,Detached,177.5,21,East Midlands,D,Direct electric,Fair,Double,False,False,534776
+UKH001538,Semi-detached,119.5,24,London,C,Gas boiler,Good,Double,False,True,1132669
+UKH001539,Terraced,107.1,35,East of England,C,Gas boiler,Fair,Double,False,True,386647
+UKH001540,Terraced,100.4,24,North East,C,Gas boiler,Fair,Double,False,True,176814
+UKH001541,Terraced,66.9,63,East Midlands,C,Gas boiler,Good,Double,False,True,164280
+UKH001542,Semi-detached,113.7,11,North West,C,Direct electric,Excellent,Double,False,False,280758
+UKH001543,Flat,78.8,114,East Midlands,E,Air-source heat pump,Poor,Double,False,True,247353
+UKH001544,Detached,83.5,41,London,D,Direct electric,Good,Double,False,False,540373
+UKH001545,Terraced,72.8,91,South East,F,Gas boiler,Fair,Single,False,False,347912
+UKH001546,Flat,61.9,10,North West,B,Gas boiler,Excellent,Double,False,True,96381
+UKH001547,Semi-detached,80.7,100,South West,G,Direct electric,Poor,Double,False,True,222992
+UKH001548,Semi-detached,104.8,80,South West,D,Air-source heat pump,Fair,Double,False,False,289548
+UKH001549,Semi-detached,130.7,34,Scotland,D,Gas boiler,Fair,Double,False,True,349784
+UKH001550,Flat,74.2,17,East Midlands,C,Gas boiler,Fair,Double,False,True,210875
+UKH001551,Detached,174.6,130,London,E,Gas boiler,Excellent,Single,False,False,2091809
+UKH001552,Detached,158.9,25,South East,C,Gas boiler,Good,Double,False,False,768162
+UKH001553,Semi-detached,135.5,12,West Midlands,B,Gas boiler,Good,Triple,False,False,432180
+UKH001554,Terraced,83.6,45,Wales,C,Gas boiler,Excellent,Double,False,False,136313
+UKH001555,Bungalow,108.1,39,East Midlands,C,Gas boiler,Excellent,Double,False,False,201629
+UKH001556,Semi-detached,121.4,12,West Midlands,B,Direct electric,Excellent,Double,False,True,316900
+UKH001557,Terraced,72.6,39,South East,B,Gas boiler,Good,Triple,False,True,246884
+UKH001558,Semi-detached,89.9,15,Yorkshire and the Humber,D,Gas boiler,Poor,Triple,False,False,156546
+UKH001559,Terraced,88.4,59,South West,C,Gas boiler,Good,Double,False,True,263504
+UKH001560,Semi-detached,110.7,42,London,D,Gas boiler,Fair,Double,True,False,788831
+UKH001561,Detached,103.2,17,North West,C,Gas boiler,Good,Double,False,False,311701
+UKH001562,Semi-detached,69.0,30,West Midlands,C,Gas boiler,Fair,Double,True,True,173785
+UKH001563,Detached,171.6,32,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,520437
+UKH001564,Semi-detached,110.7,20,Wales,C,Gas boiler,Fair,Double,False,False,259435
+UKH001565,Semi-detached,113.5,60,Yorkshire and the Humber,D,Direct electric,Good,Double,False,False,222963
+UKH001566,Semi-detached,79.0,52,North West,C,Air-source heat pump,Good,Double,True,False,145961
+UKH001567,Detached,160.9,4,North East,B,Direct electric,Good,Double,False,True,268641
+UKH001568,Detached,107.2,58,Wales,E,Electric boiler,Fair,Double,False,False,282642
+UKH001569,Semi-detached,84.1,59,East Midlands,F,Gas boiler,Poor,Double,False,True,164440
+UKH001570,Detached,118.8,19,North West,B,Gas boiler,Good,Single,True,True,200494
+UKH001571,Semi-detached,80.2,10,West Midlands,B,Gas boiler,Good,Double,False,True,265348
+UKH001572,Detached,39.2,30,South East,B,Gas boiler,Good,Double,False,True,190984
+UKH001573,Terraced,57.2,9,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,False,105609
+UKH001574,Terraced,83.9,74,East of England,D,Gas boiler,Fair,Double,False,False,260223
+UKH001575,Bungalow,102.9,26,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,151542
+UKH001576,Semi-detached,111.5,16,South East,D,Gas boiler,Fair,Double,False,True,523669
+UKH001577,Terraced,81.2,1,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,True,169246
+UKH001578,Detached,96.1,130,East of England,E,Gas boiler,Good,Double,False,False,270309
+UKH001579,Flat,66.7,17,North East,D,Gas boiler,Poor,Double,False,False,115537
+UKH001580,Semi-detached,113.3,76,West Midlands,D,Gas boiler,Excellent,Single,False,True,232194
+UKH001581,Flat,87.3,71,North East,E,Gas boiler,Poor,Double,False,True,77008
+UKH001582,Detached,156.6,3,East Midlands,A,Gas boiler,Excellent,Triple,False,True,409200
+UKH001583,Detached,130.6,25,South East,A,Gas boiler,Excellent,Triple,True,True,607473
+UKH001584,Terraced,70.6,40,West Midlands,C,Gas boiler,Good,Double,False,False,160073
+UKH001585,Detached,113.8,51,East Midlands,C,Direct electric,Excellent,Double,False,False,402816
+UKH001586,Bungalow,76.1,44,North East,D,Air-source heat pump,Fair,Double,False,False,213791
+UKH001587,Flat,55.1,34,North East,C,Gas boiler,Good,Triple,False,False,133834
+UKH001588,Detached,160.4,37,South East,C,Air-source heat pump,Fair,Double,False,False,774932
+UKH001589,Terraced,99.2,86,Scotland,D,Gas boiler,Good,Double,False,False,287518
+UKH001590,Bungalow,52.5,31,North East,B,Air-source heat pump,Good,Double,False,False,80607
+UKH001591,Bungalow,76.0,23,Scotland,A,Gas boiler,Good,Triple,True,True,176179
+UKH001592,Bungalow,76.9,53,North West,C,Air-source heat pump,Fair,Double,False,False,211137
+UKH001593,Terraced,47.4,20,South West,D,Direct electric,Poor,Triple,True,False,158310
+UKH001594,Detached,162.3,34,East of England,C,Gas boiler,Good,Double,False,True,685135
+UKH001595,Semi-detached,105.9,5,Yorkshire and the Humber,B,Gas boiler,Good,Double,True,False,207533
+UKH001596,Detached,131.9,30,London,D,Direct electric,Fair,Double,False,True,1164352
+UKH001597,Semi-detached,100.1,60,Wales,E,Gas boiler,Fair,Single,False,False,249968
+UKH001598,Flat,56.9,133,South East,F,Gas boiler,Good,Single,False,False,192994
+UKH001599,Flat,56.3,62,West Midlands,D,Direct electric,Good,Double,False,False,124506
+UKH001600,Detached,183.5,35,South East,D,Gas boiler,Poor,Double,True,False,711715
+UKH001601,Terraced,94.7,60,East Midlands,D,Gas boiler,Fair,Double,False,False,160929
+UKH001602,Detached,142.5,19,West Midlands,B,Gas boiler,Fair,Double,True,True,462580
+UKH001603,Flat,52.7,26,London,D,Air-source heat pump,Poor,Double,True,False,269702
+UKH001604,Bungalow,105.8,51,East of England,D,Gas boiler,Good,Double,False,False,477413
+UKH001605,Detached,136.8,96,Yorkshire and the Humber,C,Air-source heat pump,Good,Double,False,False,264370
+UKH001606,Flat,43.2,112,East Midlands,D,Air-source heat pump,Fair,Double,False,False,124736
+UKH001607,Flat,39.8,39,North West,C,Gas boiler,Good,Double,False,False,91510
+UKH001608,Detached,82.5,12,North West,B,Direct electric,Excellent,Triple,False,True,282607
+UKH001609,Terraced,62.0,5,North East,C,Direct electric,Good,Double,False,False,147659
+UKH001610,Detached,130.0,54,East of England,D,Electric boiler,Good,Double,False,True,747684
+UKH001611,Semi-detached,78.8,31,South East,B,Gas boiler,Good,Double,False,True,251288
+UKH001612,Bungalow,83.8,29,South East,C,Gas boiler,Fair,Double,False,False,409928
+UKH001613,Flat,82.7,51,Yorkshire and the Humber,E,Direct electric,Poor,Double,False,True,201908
+UKH001614,Flat,52.8,35,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,117390
+UKH001615,Flat,44.2,70,East of England,C,Direct electric,Excellent,Double,False,False,224412
+UKH001616,Semi-detached,85.8,115,North West,F,Direct electric,Poor,Double,True,False,286955
+UKH001617,Flat,67.4,7,North East,B,Gas boiler,Good,Triple,False,False,116617
+UKH001618,Semi-detached,90.2,33,South East,C,Gas boiler,Good,Double,False,True,392267
+UKH001619,Flat,64.4,22,South East,C,Gas boiler,Good,Single,False,True,178934
+UKH001620,Bungalow,114.5,79,Scotland,D,Gas boiler,Good,Double,False,True,331229
+UKH001621,Semi-detached,103.0,33,Wales,C,Electric boiler,Excellent,Double,True,False,219389
+UKH001622,Terraced,71.6,60,North West,E,Gas boiler,Good,Single,False,False,124149
+UKH001623,Flat,49.7,21,East of England,B,Gas boiler,Good,Double,False,True,157187
+UKH001624,Semi-detached,100.7,27,Wales,C,Air-source heat pump,Fair,Double,False,False,171643
+UKH001625,Flat,89.7,34,South East,A,Gas boiler,Excellent,Triple,False,True,602765
+UKH001626,Flat,55.5,104,Scotland,G,Gas boiler,Poor,Single,False,True,114887
+UKH001627,Flat,73.0,150,North East,F,Direct electric,Fair,Double,False,True,128409
+UKH001628,Semi-detached,62.8,7,South West,B,Air-source heat pump,Good,Double,False,False,155678
+UKH001629,Semi-detached,78.5,50,West Midlands,C,Gas boiler,Good,Double,False,False,224125
+UKH001630,Flat,75.3,26,East of England,C,Gas boiler,Good,Double,False,False,314674
+UKH001631,Flat,41.0,65,East Midlands,C,Gas boiler,Excellent,Double,True,False,68365
+UKH001632,Semi-detached,104.9,39,London,D,Direct electric,Fair,Double,False,False,981647
+UKH001633,Terraced,68.8,55,Yorkshire and the Humber,C,Gas boiler,Fair,Double,True,True,112326
+UKH001634,Semi-detached,156.1,50,East Midlands,C,Gas boiler,Fair,Double,True,False,383696
+UKH001635,Terraced,46.9,37,Northern Ireland,C,Gas boiler,Fair,Triple,False,False,60900
+UKH001636,Terraced,101.2,71,West Midlands,D,Gas boiler,Fair,Triple,False,True,226803
+UKH001637,Terraced,89.2,38,East Midlands,B,Gas boiler,Fair,Triple,True,True,142145
+UKH001638,Semi-detached,99.5,90,West Midlands,F,Electric boiler,Poor,Double,False,True,265820
+UKH001639,Semi-detached,113.2,36,South West,C,Direct electric,Good,Triple,False,True,343201
+UKH001640,Semi-detached,86.5,35,South East,B,Gas boiler,Excellent,Double,True,True,443957
+UKH001641,Semi-detached,131.6,54,North East,D,Direct electric,Excellent,Double,False,False,285993
+UKH001642,Semi-detached,75.5,113,South West,F,Gas boiler,Poor,Double,False,True,251999
+UKH001643,Terraced,121.1,8,Wales,A,Air-source heat pump,Excellent,Triple,False,False,247126
+UKH001644,Flat,41.9,25,South West,E,Gas boiler,Poor,Single,False,False,93251
+UKH001645,Terraced,72.3,30,South East,C,Gas boiler,Good,Double,False,True,318160
+UKH001646,Detached,158.0,9,North East,D,Direct electric,Poor,Double,True,True,458655
+UKH001647,Flat,57.3,37,East of England,C,Gas boiler,Good,Double,False,True,180667
+UKH001648,Semi-detached,88.0,41,East of England,E,Gas boiler,Fair,Single,False,False,374272
+UKH001649,Bungalow,91.5,52,Yorkshire and the Humber,F,Gas boiler,Poor,Single,True,False,138537
+UKH001650,Terraced,65.5,48,East of England,E,Gas boiler,Fair,Single,False,True,190204
+UKH001651,Detached,168.4,29,North West,C,Gas boiler,Good,Double,False,False,401611
+UKH001652,Detached,113.9,51,North West,F,Gas boiler,Poor,Double,False,True,303265
+UKH001653,Terraced,88.0,22,East of England,D,Gas boiler,Fair,Double,False,False,301763
+UKH001654,Detached,178.1,8,East of England,B,Gas boiler,Good,Double,False,False,530580
+UKH001655,Flat,52.3,26,West Midlands,C,Electric boiler,Fair,Double,True,False,152693
+UKH001656,Terraced,95.9,12,West Midlands,D,Gas boiler,Fair,Double,False,False,194127
+UKH001657,Semi-detached,75.3,71,West Midlands,D,Gas boiler,Fair,Double,True,True,292688
+UKH001658,Terraced,87.8,6,South East,B,Gas boiler,Excellent,Double,False,False,335521
+UKH001659,Semi-detached,90.3,25,North West,C,Gas boiler,Excellent,Double,False,False,192744
+UKH001660,Semi-detached,85.5,68,South East,D,Direct electric,Good,Double,False,False,543863
+UKH001661,Bungalow,81.8,35,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,True,209155
+UKH001662,Semi-detached,94.3,30,West Midlands,B,Gas boiler,Excellent,Double,False,True,229738
+UKH001663,Semi-detached,117.7,37,London,D,Gas boiler,Good,Single,False,True,970492
+UKH001664,Detached,68.5,22,North East,B,Air-source heat pump,Good,Double,False,True,182986
+UKH001665,Bungalow,93.5,45,London,D,Air-source heat pump,Fair,Single,False,True,853686
+UKH001666,Semi-detached,107.4,74,North East,F,Gas boiler,Poor,Double,False,False,187153
+UKH001667,Semi-detached,97.5,96,East Midlands,E,Air-source heat pump,Fair,Single,False,True,269468
+UKH001668,Terraced,98.2,90,North West,D,Gas boiler,Fair,Double,False,True,175809
+UKH001669,Bungalow,108.6,39,South West,C,Gas boiler,Fair,Double,False,True,516895
+UKH001670,Terraced,104.3,50,East Midlands,C,Gas boiler,Good,Double,True,False,308105
+UKH001671,Terraced,89.8,27,South West,B,Gas boiler,Good,Double,False,False,275085
+UKH001672,Bungalow,97.1,85,South East,E,Direct electric,Fair,Double,True,False,455635
+UKH001673,Flat,86.0,24,North West,C,Direct electric,Good,Double,False,True,203433
+UKH001674,Bungalow,102.3,42,Scotland,E,Gas boiler,Fair,Single,False,False,207228
+UKH001675,Detached,154.5,43,North East,B,Gas boiler,Good,Double,False,True,542654
+UKH001676,Semi-detached,119.9,31,London,E,Gas boiler,Poor,Double,False,False,1094672
+UKH001677,Detached,206.5,4,South West,B,Electric boiler,Good,Triple,True,False,798143
+UKH001678,Flat,85.5,43,Wales,C,Air-source heat pump,Good,Single,False,False,263167
+UKH001679,Terraced,78.7,48,South East,D,Gas boiler,Fair,Double,False,True,328621
+UKH001680,Detached,187.0,20,Scotland,C,Electric boiler,Fair,Triple,False,True,581982
+UKH001681,Bungalow,63.8,17,South East,B,Gas boiler,Good,Double,False,True,252587
+UKH001682,Semi-detached,99.8,11,London,A,Gas boiler,Good,Triple,False,False,675334
+UKH001683,Terraced,65.9,55,Yorkshire and the Humber,F,Air-source heat pump,Poor,Single,False,True,151246
+UKH001684,Bungalow,135.5,44,East of England,E,Gas boiler,Poor,Double,False,False,474524
+UKH001685,Terraced,65.0,48,South East,D,Air-source heat pump,Fair,Double,False,False,303385
+UKH001686,Flat,58.9,52,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,87252
+UKH001687,Bungalow,101.5,18,Scotland,B,Gas boiler,Excellent,Double,False,False,290846
+UKH001688,Semi-detached,79.4,13,Northern Ireland,B,Direct electric,Good,Triple,False,False,143574
+UKH001689,Terraced,79.4,71,West Midlands,C,Air-source heat pump,Good,Triple,False,True,178817
+UKH001690,Semi-detached,103.6,26,East of England,A,Gas boiler,Excellent,Triple,False,True,283503
+UKH001691,Detached,253.2,12,London,B,Gas boiler,Good,Double,False,True,1972218
+UKH001692,Flat,84.5,60,West Midlands,D,Gas boiler,Good,Double,False,False,270763
+UKH001693,Bungalow,116.4,79,East of England,E,Direct electric,Good,Single,False,False,288775
+UKH001694,Flat,51.6,7,South West,B,Gas boiler,Good,Triple,False,True,100889
+UKH001695,Bungalow,69.3,42,South East,E,Gas boiler,Fair,Single,False,True,263988
+UKH001696,Terraced,56.7,41,Yorkshire and the Humber,C,Air-source heat pump,Fair,Double,False,True,131651
+UKH001697,Terraced,91.5,44,Scotland,D,Gas boiler,Fair,Double,False,False,199493
+UKH001698,Flat,45.0,47,London,D,Gas boiler,Good,Single,False,True,326113
+UKH001699,Terraced,118.3,49,South East,D,Direct electric,Fair,Double,False,True,538887
+UKH001700,Detached,192.8,50,South West,C,Gas boiler,Fair,Double,True,False,754178
+UKH001701,Bungalow,86.1,67,South West,F,Direct electric,Poor,Triple,False,False,252764
+UKH001702,Terraced,57.1,27,South West,D,Gas boiler,Fair,Double,False,False,169533
+UKH001703,Terraced,105.4,48,South West,D,Direct electric,Good,Double,True,False,322960
+UKH001704,Terraced,85.4,12,Wales,C,Gas boiler,Fair,Triple,False,True,232843
+UKH001705,Detached,185.2,33,South East,B,Gas boiler,Good,Double,True,True,835548
+UKH001706,Semi-detached,67.0,122,South West,E,Direct electric,Fair,Double,False,True,207521
+UKH001707,Detached,126.6,36,North West,D,Gas boiler,Fair,Double,False,False,354945
+UKH001708,Semi-detached,119.2,12,London,C,Gas boiler,Good,Triple,False,False,755707
+UKH001709,Flat,32.8,28,Scotland,C,Air-source heat pump,Fair,Double,False,True,123269
+UKH001710,Detached,84.3,11,North East,B,Gas boiler,Good,Double,False,False,132051
+UKH001711,Terraced,65.3,47,South West,D,Electric boiler,Fair,Double,False,False,179696
+UKH001712,Detached,189.2,22,East of England,C,Gas boiler,Good,Double,False,False,924435
+UKH001713,Bungalow,93.3,17,North West,D,Gas boiler,Good,Double,False,False,204646
+UKH001714,Semi-detached,118.9,62,Scotland,B,Gas boiler,Good,Double,False,True,205197
+UKH001715,Terraced,62.0,13,London,B,Air-source heat pump,Good,Double,False,True,485147
+UKH001716,Detached,168.6,20,Yorkshire and the Humber,B,Direct electric,Good,Double,True,False,494511
+UKH001717,Semi-detached,121.4,45,East of England,C,Direct electric,Excellent,Double,False,False,460034
+UKH001718,Terraced,85.0,150,North West,D,Air-source heat pump,Good,Single,False,False,264626
+UKH001719,Terraced,98.2,18,Yorkshire and the Humber,B,Gas boiler,Good,Double,False,False,225059
+UKH001720,Detached,81.7,40,Scotland,D,Gas boiler,Fair,Double,False,True,192154
+UKH001721,Terraced,71.5,63,East of England,D,Gas boiler,Good,Double,False,False,214967
+UKH001722,Detached,148.3,53,London,D,Gas boiler,Good,Double,False,False,822377
+UKH001723,Bungalow,89.2,95,South West,E,Gas boiler,Poor,Double,False,True,280029
+UKH001724,Semi-detached,90.9,34,Scotland,C,Gas boiler,Good,Double,True,False,254809
+UKH001725,Detached,162.1,59,Northern Ireland,F,Direct electric,Poor,Single,False,True,471642
+UKH001726,Semi-detached,106.0,127,Yorkshire and the Humber,E,Gas boiler,Excellent,Single,False,True,223205
+UKH001727,Bungalow,82.3,26,West Midlands,C,Gas boiler,Good,Double,False,True,156037
+UKH001728,Terraced,86.7,6,South East,C,Direct electric,Good,Double,False,False,426430
+UKH001729,Terraced,128.7,14,Wales,C,Direct electric,Good,Double,False,True,283562
+UKH001730,Semi-detached,74.5,35,East Midlands,C,Gas boiler,Good,Double,False,False,199435
+UKH001731,Detached,164.3,9,South East,C,Gas boiler,Good,Double,False,False,682444
+UKH001732,Semi-detached,69.5,14,Scotland,E,Gas boiler,Poor,Double,False,True,187695
+UKH001733,Semi-detached,75.4,41,London,E,Air-source heat pump,Poor,Double,False,False,623390
+UKH001734,Detached,160.2,56,London,C,Air-source heat pump,Good,Double,False,True,1915881
+UKH001735,Terraced,86.2,25,South West,C,Gas boiler,Good,Double,False,False,274516
+UKH001736,Semi-detached,91.0,24,Northern Ireland,B,Gas boiler,Good,Double,False,True,172660
+UKH001737,Semi-detached,92.5,40,East Midlands,A,Air-source heat pump,Excellent,Double,False,True,275502
+UKH001738,Terraced,43.1,42,East of England,D,Electric boiler,Good,Single,False,False,167756
+UKH001739,Detached,109.2,11,Yorkshire and the Humber,C,Electric boiler,Good,Double,False,False,344299
+UKH001740,Flat,30.0,27,Wales,C,Gas boiler,Fair,Triple,False,True,62962
+UKH001741,Flat,61.0,22,London,C,Gas boiler,Excellent,Double,False,False,463622
+UKH001742,Semi-detached,116.5,36,East Midlands,C,Gas boiler,Good,Double,False,False,239165
+UKH001743,Semi-detached,111.7,68,South East,C,Gas boiler,Good,Double,True,False,280963
+UKH001744,Semi-detached,96.1,4,Scotland,B,Gas boiler,Good,Double,False,False,211861
+UKH001745,Terraced,116.0,11,North West,D,Gas boiler,Fair,Double,False,False,311842
+UKH001746,Flat,63.4,114,North East,E,Direct electric,Fair,Single,True,True,105234
+UKH001747,Semi-detached,117.6,34,East of England,C,Gas boiler,Good,Double,False,False,311776
+UKH001748,Terraced,90.2,26,South West,D,Gas boiler,Fair,Double,False,True,363777
+UKH001749,Terraced,80.0,57,London,E,Direct electric,Good,Single,False,True,823298
+UKH001750,Semi-detached,123.8,39,West Midlands,C,Direct electric,Good,Double,True,True,299499
+UKH001751,Detached,129.0,32,East of England,C,Gas boiler,Good,Double,False,False,851595
+UKH001752,Bungalow,102.0,96,South East,G,Direct electric,Poor,Double,False,True,389214
+UKH001753,Flat,70.3,42,East Midlands,D,Gas boiler,Poor,Double,True,True,204748
+UKH001754,Semi-detached,110.7,42,Yorkshire and the Humber,B,Direct electric,Excellent,Triple,False,False,178355
+UKH001755,Bungalow,65.8,124,Wales,G,Gas boiler,Poor,Single,False,False,95744
+UKH001756,Bungalow,72.9,21,Wales,B,Air-source heat pump,Good,Double,False,False,140269
+UKH001757,Flat,60.1,89,South East,D,Air-source heat pump,Poor,Double,True,True,258980
+UKH001758,Flat,46.5,36,London,D,Gas boiler,Fair,Double,False,False,297061
+UKH001759,Terraced,61.0,28,West Midlands,C,Gas boiler,Good,Double,False,False,177630
+UKH001760,Semi-detached,93.2,48,Northern Ireland,C,Gas boiler,Excellent,Double,False,False,219195
+UKH001761,Semi-detached,107.2,92,East of England,F,Gas boiler,Poor,Double,True,False,525859
+UKH001762,Bungalow,78.0,48,Scotland,C,Electric boiler,Good,Single,True,True,215342
+UKH001763,Terraced,91.5,89,East of England,C,Gas boiler,Good,Double,True,True,341833
+UKH001764,Terraced,78.7,22,Scotland,B,Direct electric,Excellent,Triple,False,False,127836
+UKH001765,Semi-detached,74.0,67,South East,E,Electric boiler,Fair,Double,False,False,423402
+UKH001766,Detached,176.0,28,Yorkshire and the Humber,C,Gas boiler,Fair,Double,True,False,473402
+UKH001767,Bungalow,86.9,21,Scotland,A,Air-source heat pump,Excellent,Triple,True,False,193777
+UKH001768,Terraced,81.1,75,East of England,C,Air-source heat pump,Excellent,Double,False,True,204341
+UKH001769,Terraced,58.1,65,East of England,F,Direct electric,Poor,Double,False,True,277574
+UKH001770,Detached,175.9,73,East Midlands,D,Gas boiler,Good,Double,False,False,620703
+UKH001771,Terraced,47.5,48,North West,C,Gas boiler,Fair,Triple,False,True,91981
+UKH001772,Flat,42.3,11,Scotland,C,Gas boiler,Fair,Double,False,False,115972
+UKH001773,Detached,206.0,119,North West,G,Gas boiler,Poor,Double,False,True,715460
+UKH001774,Semi-detached,105.4,41,South West,B,Air-source heat pump,Good,Double,False,True,398333
+UKH001775,Semi-detached,65.0,6,East of England,B,Gas boiler,Excellent,Double,False,True,359992
+UKH001776,Detached,232.0,2,Scotland,A,Air-source heat pump,Good,Triple,False,True,464749
+UKH001777,Terraced,54.8,57,West Midlands,C,Air-source heat pump,Fair,Double,True,True,108285
+UKH001778,Terraced,81.7,42,Scotland,E,Electric boiler,Fair,Double,False,False,266478
+UKH001779,Flat,69.9,65,Scotland,D,Gas boiler,Good,Double,False,False,202757
+UKH001780,Semi-detached,93.1,74,Yorkshire and the Humber,F,Direct electric,Poor,Double,False,True,193097
+UKH001781,Bungalow,124.8,2,Scotland,B,Gas boiler,Excellent,Double,False,False,553817
+UKH001782,Terraced,74.6,22,Scotland,B,Gas boiler,Excellent,Double,True,False,196806
+UKH001783,Flat,97.0,61,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,261875
+UKH001784,Detached,196.7,44,North West,C,Gas boiler,Good,Double,False,True,468696
+UKH001785,Detached,106.9,45,North West,D,Gas boiler,Good,Single,False,True,381531
+UKH001786,Terraced,92.2,66,North West,C,Gas boiler,Good,Triple,False,False,170663
+UKH001787,Detached,186.7,11,North West,A,Air-source heat pump,Excellent,Double,False,False,497323
+UKH001788,Flat,41.0,91,South West,F,Gas boiler,Poor,Double,False,False,171912
+UKH001789,Detached,80.7,81,East Midlands,F,Gas boiler,Poor,Double,False,True,274992
+UKH001790,Flat,30.0,79,North West,E,Air-source heat pump,Fair,Single,False,False,46658
+UKH001791,Semi-detached,105.0,67,East of England,B,Air-source heat pump,Good,Double,False,True,362959
+UKH001792,Flat,62.7,13,East Midlands,B,Gas boiler,Good,Double,False,False,159331
+UKH001793,Semi-detached,70.4,38,Yorkshire and the Humber,D,Gas boiler,Excellent,Single,False,False,166492
+UKH001794,Terraced,86.1,14,Yorkshire and the Humber,A,Electric boiler,Excellent,Double,False,True,156187
+UKH001795,Detached,132.9,24,London,D,Direct electric,Poor,Triple,False,True,1320505
+UKH001796,Semi-detached,93.8,64,South East,E,Gas boiler,Good,Single,False,True,491520
+UKH001797,Semi-detached,94.5,22,Wales,B,Gas boiler,Excellent,Double,False,True,233765
+UKH001798,Flat,64.0,11,South East,B,Electric boiler,Excellent,Double,True,False,262783
+UKH001799,Terraced,70.4,15,North East,D,Gas boiler,Fair,Double,False,False,61579
+UKH001800,Detached,206.2,9,Yorkshire and the Humber,A,Gas boiler,Excellent,Triple,False,True,614118
+UKH001801,Terraced,105.8,62,North West,C,Gas boiler,Good,Double,False,True,190648
+UKH001802,Semi-detached,82.8,112,Northern Ireland,E,Gas boiler,Good,Double,False,False,130842
+UKH001803,Detached,146.3,18,North West,C,Gas boiler,Fair,Double,False,True,333435
+UKH001804,Semi-detached,85.0,56,Wales,D,Electric boiler,Excellent,Double,False,False,292669
+UKH001805,Semi-detached,96.9,90,South West,D,Gas boiler,Good,Single,False,False,297140
+UKH001806,Semi-detached,107.0,10,South East,B,Gas boiler,Excellent,Double,False,True,486124
+UKH001807,Detached,168.5,35,London,D,Gas boiler,Excellent,Single,False,False,1705713
+UKH001808,Terraced,45.5,24,South East,B,Gas boiler,Good,Double,False,True,203669
+UKH001809,Detached,156.9,4,Yorkshire and the Humber,C,Air-source heat pump,Fair,Double,False,False,282217
+UKH001810,Detached,138.0,17,West Midlands,C,Direct electric,Excellent,Double,False,False,435818
+UKH001811,Bungalow,97.8,87,Yorkshire and the Humber,G,Gas boiler,Poor,Double,False,False,226178
+UKH001812,Semi-detached,132.3,45,East of England,F,Gas boiler,Fair,Single,False,False,498295
+UKH001813,Terraced,81.7,59,Yorkshire and the Humber,E,Gas boiler,Fair,Double,False,False,118607
+UKH001814,Flat,63.7,72,East Midlands,C,Gas boiler,Good,Double,False,True,174864
+UKH001815,Terraced,91.3,58,East of England,B,Gas boiler,Good,Double,True,True,237365
+UKH001816,Semi-detached,75.6,47,London,C,Gas boiler,Good,Double,False,True,377246
+UKH001817,Terraced,67.5,44,Wales,F,Direct electric,Poor,Double,False,False,116549
+UKH001818,Terraced,81.2,59,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,True,166926
+UKH001819,Bungalow,62.3,26,West Midlands,C,Gas boiler,Good,Double,False,True,231471
+UKH001820,Detached,158.0,150,South East,D,Direct electric,Good,Double,False,True,578964
+UKH001821,Semi-detached,133.8,23,South East,B,Gas boiler,Good,Double,True,False,626527
+UKH001822,Bungalow,55.2,62,London,E,Direct electric,Poor,Double,True,True,357962
+UKH001823,Semi-detached,144.8,46,South West,E,Gas boiler,Poor,Double,False,True,412235
+UKH001824,Bungalow,50.5,68,South West,D,Gas boiler,Fair,Triple,False,True,147275
+UKH001825,Terraced,85.9,30,Scotland,C,Gas boiler,Good,Double,False,False,149053
+UKH001826,Semi-detached,140.0,19,North West,C,Gas boiler,Good,Double,False,False,270213
+UKH001827,Bungalow,79.4,65,North West,E,Gas boiler,Fair,Double,False,False,206775
+UKH001828,Terraced,67.2,37,London,C,Gas boiler,Excellent,Double,False,True,388368
+UKH001829,Detached,194.2,29,South West,C,Gas boiler,Fair,Double,False,False,706983
+UKH001830,Bungalow,76.0,63,South East,C,Gas boiler,Good,Double,False,True,190728
+UKH001831,Semi-detached,99.4,31,Yorkshire and the Humber,C,Electric boiler,Good,Triple,False,True,189154
+UKH001832,Terraced,96.7,50,North West,C,Gas boiler,Good,Double,True,False,318296
+UKH001833,Terraced,76.2,25,North West,B,Gas boiler,Good,Triple,False,False,200016
+UKH001834,Flat,75.5,87,South East,F,Gas boiler,Fair,Single,False,True,294058
+UKH001835,Flat,64.4,15,East Midlands,B,Gas boiler,Good,Triple,False,False,231525
+UKH001836,Bungalow,72.9,80,South East,D,Gas boiler,Fair,Double,False,True,367265
+UKH001837,Flat,46.2,11,Yorkshire and the Humber,C,Gas boiler,Good,Double,True,False,71032
+UKH001838,Bungalow,63.7,69,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,True,197159
+UKH001839,Detached,235.9,10,London,B,Air-source heat pump,Fair,Double,False,True,2049597
+UKH001840,Flat,65.5,30,London,B,Gas boiler,Good,Double,False,True,464503
+UKH001841,Bungalow,80.7,64,South East,E,Gas boiler,Fair,Double,True,False,331074
+UKH001842,Semi-detached,105.0,19,South West,B,Gas boiler,Excellent,Double,False,True,417393
+UKH001843,Terraced,49.9,150,Yorkshire and the Humber,D,Direct electric,Good,Triple,False,True,148678
+UKH001844,Detached,52.4,15,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,115722
+UKH001845,Semi-detached,101.3,35,South West,C,Gas boiler,Good,Double,False,False,253707
+UKH001846,Semi-detached,88.5,57,South East,D,Gas boiler,Fair,Double,False,True,401932
+UKH001847,Flat,71.3,50,West Midlands,D,Gas boiler,Good,Single,False,True,175712
+UKH001848,Flat,30.0,60,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,62968
+UKH001849,Detached,152.5,36,South East,C,Gas boiler,Good,Double,False,False,716980
+UKH001850,Bungalow,71.1,46,South East,D,Gas boiler,Fair,Double,False,True,263751
+UKH001851,Bungalow,100.0,49,West Midlands,E,Gas boiler,Good,Single,False,False,316092
+UKH001852,Bungalow,89.9,21,London,D,Direct electric,Fair,Double,False,True,564331
+UKH001853,Terraced,56.1,14,South East,C,Gas boiler,Good,Double,False,True,230762
+UKH001854,Flat,30.8,26,London,E,Gas boiler,Poor,Double,False,True,277666
+UKH001855,Terraced,66.4,8,South West,A,Gas boiler,Good,Triple,True,False,333284
+UKH001856,Flat,55.9,49,London,D,Gas boiler,Fair,Triple,True,False,411128
+UKH001857,Detached,173.3,136,Scotland,D,Gas boiler,Good,Double,True,False,830381
+UKH001858,Bungalow,123.5,66,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,True,375162
+UKH001859,Semi-detached,116.0,81,South West,G,Electric boiler,Poor,Double,False,True,268005
+UKH001860,Flat,64.6,34,East of England,C,Gas boiler,Good,Double,False,False,228776
+UKH001861,Detached,221.2,88,London,F,Gas boiler,Fair,Single,False,True,1841388
+UKH001862,Terraced,86.2,124,Yorkshire and the Humber,G,Gas boiler,Poor,Single,False,True,157059
+UKH001863,Detached,204.1,25,Yorkshire and the Humber,B,Gas boiler,Good,Triple,False,False,485588
+UKH001864,Semi-detached,119.6,36,South East,A,Air-source heat pump,Good,Triple,False,False,442455
+UKH001865,Detached,118.4,34,North West,C,Direct electric,Good,Double,False,False,260496
+UKH001866,Semi-detached,74.5,30,South East,D,Direct electric,Fair,Double,False,False,412986
+UKH001867,Detached,102.1,32,East of England,C,Gas boiler,Excellent,Single,True,True,374914
+UKH001868,Detached,105.9,27,South East,B,Gas boiler,Excellent,Double,False,False,589846
+UKH001869,Semi-detached,72.6,109,South East,G,Electric boiler,Fair,Single,False,True,248803
+UKH001870,Flat,53.5,43,South East,E,Electric boiler,Fair,Double,False,True,184334
+UKH001871,Terraced,74.4,27,South East,C,Air-source heat pump,Excellent,Single,False,False,304541
+UKH001872,Flat,57.3,55,East Midlands,C,Air-source heat pump,Fair,Double,False,True,126912
+UKH001873,Terraced,85.2,18,North West,B,Gas boiler,Good,Triple,False,False,200385
+UKH001874,Detached,188.2,53,London,D,Gas boiler,Good,Double,False,False,1937829
+UKH001875,Bungalow,47.4,21,London,D,Gas boiler,Fair,Double,False,False,296879
+UKH001876,Terraced,97.9,41,North West,B,Air-source heat pump,Excellent,Single,False,True,166714
+UKH001877,Flat,73.8,29,North West,A,Air-source heat pump,Good,Double,False,True,153244
+UKH001878,Terraced,78.9,15,South East,C,Air-source heat pump,Fair,Double,False,False,255793
+UKH001879,Detached,124.5,5,South East,C,Direct electric,Good,Double,True,False,646096
+UKH001880,Flat,46.2,14,Wales,B,Gas boiler,Good,Triple,False,False,134282
+UKH001881,Semi-detached,121.4,39,North West,B,Gas boiler,Excellent,Double,False,True,263483
+UKH001882,Flat,31.7,59,Northern Ireland,E,Gas boiler,Fair,Double,False,False,51751
+UKH001883,Semi-detached,118.1,46,Yorkshire and the Humber,C,Gas boiler,Fair,Triple,False,False,293615
+UKH001884,Semi-detached,72.5,51,Scotland,B,Gas boiler,Excellent,Triple,False,False,140255
+UKH001885,Terraced,69.0,10,South East,B,Gas boiler,Good,Double,False,False,263616
+UKH001886,Detached,170.8,40,Scotland,C,Gas boiler,Good,Double,False,False,557899
+UKH001887,Flat,34.1,37,South East,E,Gas boiler,Good,Single,False,False,188101
+UKH001888,Detached,123.7,121,East of England,F,Gas boiler,Fair,Single,False,False,792838
+UKH001889,Terraced,69.0,19,Scotland,E,Gas boiler,Poor,Double,False,True,121607
+UKH001890,Flat,63.3,18,Scotland,D,Gas boiler,Fair,Double,False,True,108303
+UKH001891,Terraced,88.1,33,North West,C,Gas boiler,Good,Double,False,True,233125
+UKH001892,Terraced,44.6,36,London,B,Gas boiler,Good,Double,False,False,304250
+UKH001893,Bungalow,131.8,17,Wales,D,Direct electric,Fair,Double,False,True,314818
+UKH001894,Flat,38.7,21,Yorkshire and the Humber,B,Gas boiler,Good,Double,True,True,95516
+UKH001895,Semi-detached,62.0,28,North West,C,Gas boiler,Fair,Triple,False,False,186143
+UKH001896,Terraced,63.8,74,East of England,D,Gas boiler,Fair,Triple,False,False,211244
+UKH001897,Detached,164.8,58,South West,C,Air-source heat pump,Good,Double,False,False,583281
+UKH001898,Detached,110.3,27,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,272657
+UKH001899,Terraced,117.0,35,Yorkshire and the Humber,C,Electric boiler,Excellent,Double,False,False,227570
+UKH001900,Flat,77.5,45,South East,B,Gas boiler,Excellent,Double,True,False,355726
+UKH001901,Terraced,117.2,27,South West,A,Air-source heat pump,Good,Double,False,False,453928
+UKH001902,Terraced,92.0,24,South East,C,Gas boiler,Good,Double,False,True,264856
+UKH001903,Flat,30.0,67,South East,F,Gas boiler,Fair,Single,False,True,76981
+UKH001904,Semi-detached,92.3,15,Yorkshire and the Humber,E,Gas boiler,Poor,Double,False,True,256265
+UKH001905,Semi-detached,123.0,71,South West,C,Air-source heat pump,Excellent,Single,True,False,411668
+UKH001906,Detached,138.8,2,East of England,C,Direct electric,Good,Double,False,False,592727
+UKH001907,Flat,49.3,10,London,A,Gas boiler,Excellent,Triple,False,True,322347
+UKH001908,Bungalow,93.2,26,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,169171
+UKH001909,Detached,115.6,50,South East,C,Gas boiler,Good,Double,False,False,471217
+UKH001910,Terraced,83.9,73,Yorkshire and the Humber,F,Gas boiler,Poor,Double,False,True,158476
+UKH001911,Semi-detached,85.9,45,Scotland,C,Electric boiler,Good,Double,False,True,322666
+UKH001912,Semi-detached,85.6,7,Yorkshire and the Humber,D,Direct electric,Good,Double,False,False,189954
+UKH001913,Semi-detached,129.9,78,London,E,Air-source heat pump,Poor,Double,False,True,1075150
+UKH001914,Terraced,74.0,36,London,C,Gas boiler,Good,Double,False,True,428990
+UKH001915,Detached,112.9,33,East Midlands,D,Gas boiler,Fair,Double,False,True,331032
+UKH001916,Flat,62.3,10,Yorkshire and the Humber,C,Electric boiler,Good,Double,False,False,178046
+UKH001917,Semi-detached,90.7,63,East Midlands,D,Gas boiler,Excellent,Single,False,True,262507
+UKH001918,Flat,54.9,39,London,A,Air-source heat pump,Good,Triple,False,False,401022
+UKH001919,Bungalow,103.1,41,Scotland,C,Air-source heat pump,Fair,Double,False,True,238626
+UKH001920,Terraced,56.0,20,Yorkshire and the Humber,D,Gas boiler,Fair,Double,False,False,92571
+UKH001921,Flat,88.4,19,Yorkshire and the Humber,C,Gas boiler,Fair,Double,False,False,152749
+UKH001922,Detached,112.9,5,East of England,A,Direct electric,Excellent,Triple,False,True,535709
+UKH001923,Semi-detached,84.6,10,Wales,B,Gas boiler,Excellent,Triple,False,False,273340
+UKH001924,Detached,148.6,5,South East,B,Gas boiler,Excellent,Double,False,False,815243
+UKH001925,Semi-detached,97.7,40,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,False,True,152139
+UKH001926,Flat,71.8,43,Scotland,B,Gas boiler,Good,Double,True,True,104974
+UKH001927,Semi-detached,117.6,12,Scotland,B,Gas boiler,Excellent,Double,False,True,294682
+UKH001928,Terraced,103.5,18,South East,B,Gas boiler,Excellent,Double,False,False,373860
+UKH001929,Bungalow,102.2,150,Yorkshire and the Humber,E,Direct electric,Good,Double,False,False,332500
+UKH001930,Bungalow,165.7,29,South East,D,Direct electric,Good,Double,False,False,923425
+UKH001931,Semi-detached,77.5,45,South East,D,Gas boiler,Fair,Double,False,False,310013
+UKH001932,Bungalow,115.0,13,North West,B,Gas boiler,Good,Triple,True,False,222948
+UKH001933,Flat,65.6,54,Scotland,D,Gas boiler,Fair,Triple,False,False,84953
+UKH001934,Semi-detached,84.8,9,North East,B,Gas boiler,Fair,Triple,True,False,160809
+UKH001935,Flat,69.0,25,Scotland,C,Electric boiler,Good,Double,False,True,126463
+UKH001936,Semi-detached,93.3,14,Northern Ireland,C,Gas boiler,Good,Double,False,False,192641
+UKH001937,Terraced,79.7,32,Yorkshire and the Humber,C,Gas boiler,Excellent,Double,False,False,135336
+UKH001938,Detached,86.7,9,South West,C,Gas boiler,Poor,Triple,False,True,351618
+UKH001939,Terraced,64.8,73,Wales,C,Gas boiler,Excellent,Double,False,True,100158
+UKH001940,Detached,99.4,25,East Midlands,D,Gas boiler,Poor,Triple,False,True,285952
+UKH001941,Terraced,82.3,51,South East,E,Gas boiler,Poor,Double,False,True,376924
+UKH001942,Bungalow,63.1,24,Yorkshire and the Humber,C,Gas boiler,Fair,Double,False,False,117980
+UKH001943,Detached,160.7,56,East of England,D,Air-source heat pump,Fair,Double,False,False,556992
+UKH001944,Flat,64.0,16,East of England,A,Air-source heat pump,Good,Triple,False,False,203070
+UKH001945,Terraced,78.8,11,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,False,151857
+UKH001946,Semi-detached,99.7,23,Yorkshire and the Humber,C,Direct electric,Good,Double,False,True,268018
+UKH001947,Terraced,87.2,85,South West,E,Gas boiler,Poor,Double,True,False,295804
+UKH001948,Flat,59.1,6,South West,A,Air-source heat pump,Excellent,Double,True,True,232464
+UKH001949,Terraced,109.3,18,South West,C,Electric boiler,Good,Double,True,False,456932
+UKH001950,Semi-detached,92.1,16,Yorkshire and the Humber,A,Air-source heat pump,Excellent,Double,False,True,216031
+UKH001951,Detached,57.3,15,East Midlands,B,Air-source heat pump,Good,Double,False,True,188271
+UKH001952,Semi-detached,95.2,31,London,C,Electric boiler,Good,Triple,False,False,839844
+UKH001953,Semi-detached,83.7,44,South West,D,Gas boiler,Fair,Double,False,True,249574
+UKH001954,Semi-detached,79.7,37,East Midlands,B,Gas boiler,Excellent,Double,False,True,313888
+UKH001955,Detached,136.1,72,North East,F,Gas boiler,Poor,Double,False,False,246405
+UKH001956,Bungalow,136.2,37,South West,A,Air-source heat pump,Good,Double,False,True,375674
+UKH001957,Terraced,68.1,99,West Midlands,G,Gas boiler,Poor,Single,False,True,132790
+UKH001958,Semi-detached,106.4,81,Yorkshire and the Humber,D,Gas boiler,Good,Double,False,False,255526
+UKH001959,Semi-detached,77.6,97,Scotland,E,Air-source heat pump,Fair,Single,False,False,204306
+UKH001960,Terraced,94.8,89,East of England,D,Gas boiler,Fair,Triple,True,True,393866
+UKH001961,Semi-detached,76.5,10,Yorkshire and the Humber,C,Gas boiler,Good,Double,False,False,155315
+UKH001962,Flat,31.0,73,Yorkshire and the Humber,E,Gas boiler,Fair,Double,False,False,79624
+UKH001963,Flat,78.0,25,West Midlands,C,Gas boiler,Fair,Double,True,True,253956
+UKH001964,Semi-detached,63.7,46,Northern Ireland,C,Gas boiler,Good,Double,False,False,98347
+UKH001965,Semi-detached,99.9,2,West Midlands,C,Gas boiler,Good,Double,False,False,294583
+UKH001966,Flat,74.0,3,South East,C,Electric boiler,Good,Double,False,True,319949
+UKH001967,Terraced,79.0,34,Scotland,B,Direct electric,Excellent,Double,False,False,166497
+UKH001968,Terraced,84.8,9,North West,B,Electric boiler,Good,Triple,False,True,203772
+UKH001969,Detached,134.3,52,London,E,Gas boiler,Good,Single,False,False,1059763
+UKH001970,Detached,151.5,9,Yorkshire and the Humber,C,Electric boiler,Fair,Triple,False,False,321765
+UKH001971,Terraced,120.9,43,West Midlands,C,Gas boiler,Good,Double,False,False,434987
+UKH001972,Flat,56.7,29,North West,B,Gas boiler,Good,Triple,False,True,163125
+UKH001973,Terraced,84.2,17,Yorkshire and the Humber,B,Gas boiler,Excellent,Double,False,True,229095
+UKH001974,Semi-detached,86.2,104,North West,D,Gas boiler,Fair,Double,True,True,200006
+UKH001975,Semi-detached,74.2,50,South East,E,Gas boiler,Poor,Double,False,False,435037
+UKH001976,Semi-detached,84.6,15,South West,A,Gas boiler,Excellent,Triple,False,True,251014
+UKH001977,Detached,169.4,72,East Midlands,D,Direct electric,Good,Double,False,False,470381
+UKH001978,Flat,58.4,74,Yorkshire and the Humber,D,Gas boiler,Poor,Triple,False,True,91461
+UKH001979,Semi-detached,125.2,45,Yorkshire and the Humber,B,Gas boiler,Excellent,Triple,False,False,205219
+UKH001980,Flat,30.3,18,North West,B,Gas boiler,Excellent,Triple,False,False,73084
+UKH001981,Flat,73.1,21,East of England,C,Gas boiler,Fair,Double,False,False,265481
+UKH001982,Detached,140.4,97,Wales,E,Electric boiler,Fair,Triple,False,False,277624
+UKH001983,Semi-detached,49.8,12,South West,C,Gas boiler,Fair,Triple,False,False,161160
+UKH001984,Bungalow,83.0,29,South East,D,Gas boiler,Fair,Double,False,False,360668
+UKH001985,Semi-detached,104.9,47,London,C,Gas boiler,Good,Triple,False,False,1152214
+UKH001986,Semi-detached,110.7,29,North West,D,Air-source heat pump,Poor,Double,False,False,183322
+UKH001987,Detached,168.4,15,London,C,Gas boiler,Good,Triple,False,False,1774731
+UKH001988,Bungalow,86.8,9,South West,C,Gas boiler,Good,Double,False,True,359447
+UKH001989,Terraced,87.0,36,West Midlands,B,Air-source heat pump,Fair,Triple,False,True,235698
+UKH001990,Bungalow,108.1,20,East of England,C,Electric boiler,Excellent,Double,False,False,298001
+UKH001991,Flat,47.3,18,North East,C,Air-source heat pump,Good,Single,False,True,105940
+UKH001992,Semi-detached,87.4,39,Northern Ireland,B,Gas boiler,Excellent,Double,True,False,149407
+UKH001993,Flat,89.9,150,East of England,E,Gas boiler,Fair,Double,False,False,323932
+UKH001994,Terraced,94.1,35,South West,B,Air-source heat pump,Good,Triple,False,False,315319
+UKH001995,Flat,42.1,9,North West,A,Air-source heat pump,Excellent,Double,False,True,109432
+UKH001996,Flat,62.4,52,West Midlands,C,Gas boiler,Excellent,Double,False,False,120277
+UKH001997,Flat,84.9,21,Yorkshire and the Humber,E,Direct electric,Poor,Double,False,True,224861
+UKH001998,Semi-detached,120.1,22,Scotland,A,Air-source heat pump,Excellent,Double,False,False,224330
+UKH001999,Semi-detached,87.0,49,East Midlands,E,Gas boiler,Fair,Double,False,False,214382
+UKH002000,Detached,137.5,28,Yorkshire and the Humber,B,Air-source heat pump,Good,Double,False,True,379129
