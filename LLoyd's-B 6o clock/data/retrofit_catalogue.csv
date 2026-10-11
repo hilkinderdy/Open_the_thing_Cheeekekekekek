@@ -1,6 +1,0 @@
-retrofit,applicability_conditions,indicative_cost_gbp,impact_low,impact_mid,impact_high,impact_applies_to,source_assumptions
-loft_insulation,"Insulation rated Poor or Fair; flats lower suitability (often no private loft)","700-1500",0.12,0.15,0.18,space-heating energy,"Impact range from the problem statement (illustrative). Cost is an approximate market range, unverified - replace with a cited source."
-double_glazing,"Glazing is Single","5000-10000",0.08,0.10,0.12,space-heating energy,"Impact range from the problem statement (illustrative). Cost is an approximate whole-home market range, unverified."
-smart_thermostat,"No smart controls; not for direct electric heating","150-400",0.05,0.075,0.10,heating energy use,"Impact range from the problem statement (illustrative). Cost approximate, unverified."
-heat_pump,"Not already a heat pump; best after insulation; flats lower suitability","8000-14000",0.15,0.20,0.25,purchased energy (electricity plus gas),"Impact range from the problem statement (illustrative); conservative. Gas falls and electricity may rise. Cost approximate before any grants, unverified."
-solar_panels,"No existing solar; flats lower suitability","5000-8000",0.20,0.275,0.35,grid electricity imports,"Impact range from the problem statement (illustrative). Reduces grid imports, not underlying demand. Cost approximate, unverified."
