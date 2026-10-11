@@ -1,0 +1,360 @@
+{
+  "answers": 35,
+  "answers_from_llm": 9,
+  "groundedness_pct": 100.0,
+  "unsupported_number_pct": 0.0,
+  "labelled_as_estimate_pct": 74.3,
+  "not_applicable_handled_pct": 94.3,
+  "rows": [
+    {
+      "property_id": "UKH001073",
+      "question": "Why is my home rated like this and what should I improve first?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001073",
+      "question": "What if I only did the loft insulation?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001073",
+      "question": "What if I installed solar panels?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001073",
+      "question": "What if I add a heat pump? Will my electricity use go up?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001073",
+      "question": "How much carbon could I save with the full package?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": false
+    },
+    {
+      "property_id": "UKH001073",
+      "question": "Could these upgrades increase my property value?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001073",
+      "question": "What if I do everything except the heat pump?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": false
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "Why is my home rated like this and what should I improve first?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "What if I only did the loft insulation?",
+      "source": "llm",
+      "grounded": true,
+      "numbers": 0,
+      "unsupported": 0,
+      "labels_estimate": false,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "What if I installed solar panels?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 1,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "What if I add a heat pump? Will my electricity use go up?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 1,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "How much carbon could I save with the full package?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 2,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "Could these upgrades increase my property value?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 2,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001049",
+      "question": "What if I do everything except the heat pump?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 2,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "Why is my home rated like this and what should I improve first?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "What if I only did the loft insulation?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 1,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "What if I installed solar panels?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 2,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "What if I add a heat pump? Will my electricity use go up?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "How much carbon could I save with the full package?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "Could these upgrades increase my property value?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000205",
+      "question": "What if I do everything except the heat pump?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "Why is my home rated like this and what should I improve first?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "What if I only did the loft insulation?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 1,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "What if I installed solar panels?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 2,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "What if I add a heat pump? Will my electricity use go up?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "How much carbon could I save with the full package?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "Could these upgrades increase my property value?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH000695",
+      "question": "What if I do everything except the heat pump?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "Why is my home rated like this and what should I improve first?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "What if I only did the loft insulation?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 1,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "What if I installed solar panels?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 2,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "What if I add a heat pump? Will my electricity use go up?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "How much carbon could I save with the full package?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "Could these upgrades increase my property value?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    },
+    {
+      "property_id": "UKH001759",
+      "question": "What if I do everything except the heat pump?",
+      "source": "template_fallback",
+      "grounded": true,
+      "numbers": 3,
+      "unsupported": 0,
+      "labels_estimate": true,
+      "handles_not_applicable": true
+    }
+  ]
+}

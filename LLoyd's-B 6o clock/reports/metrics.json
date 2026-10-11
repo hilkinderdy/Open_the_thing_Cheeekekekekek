@@ -1,0 +1,103 @@
+{
+  "target": "annual purchased energy intensity (electricity + gas), kWh per m2 per year",
+  "features": [
+    "property_type",
+    "region",
+    "energy_rating",
+    "heating",
+    "insulation",
+    "glazing",
+    "floor_area",
+    "age",
+    "solar",
+    "smart_controls"
+  ],
+  "seed": 42,
+  "best_params": {
+    "learning_rate": 0.05,
+    "max_iter": 200,
+    "max_depth": 3
+  },
+  "split_sizes": {
+    "train": 1386,
+    "validation": 297,
+    "test": 297
+  },
+  "baseline": {
+    "description": "mean kWh/m2 by property type, fitted on train only",
+    "validation": {
+      "mae_kwh_per_m2": 43.32404766839438,
+      "rmse_kwh_per_m2": 56.05829939754293,
+      "r2": -0.007392464389380793,
+      "mae_kwh_per_year": 4314.446356897929,
+      "n": 297
+    },
+    "test": {
+      "mae_kwh_per_m2": 46.67338132181406,
+      "rmse_kwh_per_m2": 58.52134325190615,
+      "r2": 0.000667721593082593,
+      "mae_kwh_per_year": 4590.290194310575,
+      "n": 297
+    }
+  },
+  "model": {
+    "description": "HistGradientBoostingRegressor (scikit-learn)",
+    "validation": {
+      "mae_kwh_per_m2": 26.12950273845842,
+      "rmse_kwh_per_m2": 34.57411290011793,
+      "r2": 0.6168040131976114,
+      "mae_kwh_per_year": 2569.3806553839313,
+      "n": 297
+    },
+    "test": {
+      "mae_kwh_per_m2": 26.457749607010275,
+      "rmse_kwh_per_m2": 35.01529625109053,
+      "r2": 0.6422357397192148,
+      "mae_kwh_per_year": 2568.9122549560907,
+      "n": 297
+    }
+  },
+  "permutation_importance_validation": [
+    {
+      "feature": "heating",
+      "mae_increase": 10.224455579496832
+    },
+    {
+      "feature": "insulation",
+      "mae_increase": 7.53170589315364
+    },
+    {
+      "feature": "energy_rating",
+      "mae_increase": 4.26333988968909
+    },
+    {
+      "feature": "region",
+      "mae_increase": 1.8613030152319339
+    },
+    {
+      "feature": "solar",
+      "mae_increase": 0.6135214402676198
+    },
+    {
+      "feature": "glazing",
+      "mae_increase": 0.5122779731777996
+    },
+    {
+      "feature": "smart_controls",
+      "mae_increase": 0.36503204958150237
+    },
+    {
+      "feature": "floor_area",
+      "mae_increase": 0.07115954812733989
+    },
+    {
+      "feature": "age",
+      "mae_increase": 0.058817630168088185
+    },
+    {
+      "feature": "property_type",
+      "mae_increase": 0.0511167867032313
+    }
+  ],
+  "homes_dropped_missing_data": 20
+}
